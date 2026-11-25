@@ -1,0 +1,29 @@
+name: Mock Exam Question / Answer Key Issue
+description: Report a factual error, typo, or answer-key discrepancy in a bundled mock exam JSON
+title: "[Exam Fix]: "
+labels: ["exam-content", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Help keep BharatCBT's mock exam bank accurate! Please share the exact exam file and question ID so we can verify and fix it quickly.
+  - type: input
+    id: exam-file
+    attributes:
+      label: Exam JSON File
+      placeholder: "e.g., User_Exam_JSONs/01_UPSC_CSE_Prelims_GS1_Mock.json"
+    validations:
+      required: true
+  - type: input
+    id: question-id
+    attributes:
+      label: Question ID or Number
+      placeholder: "e.g., q42 or Section: Quantitative Aptitude, Question #12"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is incorrect and what should it be?
+      description: Include the corrected answer/explanation and an official reference or derivation if applicable.
+    validations:
+      required: true

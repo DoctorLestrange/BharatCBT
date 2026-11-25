@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BharatCBT — Indian Govt Mock Exam &amp; Assessment Portal</title>
+    <meta
+      name="description"
+      content="Professional Indian Government CBT-style mock exam simulator with custom JSON import, negative marking, sectional timers, bilingual support, dark mode, and persistent IndexedDB analytics."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="BharatCBT — Indian Govt Mock Exam &amp; Assessment Portal"
+    />
+    <meta
+      property="og:description"
+      content="Professional Indian Government CBT-style mock exam simulator with custom JSON import, negative marking, sectional timers, bilingual support, dark mode, and persistent IndexedDB analytics."
+    />
+    <meta name="theme-color" content="#2563EB" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('bharat_cbt_theme');
+          if (saved === 'dark') {
+            document.documentElement.classList.add('dark');
+          }
+          var savedAccent = localStorage.getItem('bharat_cbt_accent');
+          var validAccents = ['orange', 'blue', 'emerald', 'indigo', 'violet', 'teal', 'rose', 'amber'];
+          var accent =
+            savedAccent && validAccents.indexOf(savedAccent) !== -1 ? savedAccent : 'blue';
+          if (accent !== 'orange') {
+            document.documentElement.dataset.accent = accent;
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-slate-50 text-slate-900 antialiased dark:bg-neutral-950 dark:text-neutral-100">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

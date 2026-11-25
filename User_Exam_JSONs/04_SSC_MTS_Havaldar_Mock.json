@@ -1,0 +1,1484 @@
+{
+  "title": "SSC MTS & Havaldar — Full-Length Session I & II CBT Mock",
+  "subtitle": "90 Questions • 90 Minutes (45+45m) • 270 Marks • Session I (0 Neg) / Session II (-1 Neg)",
+  "category": "SSC",
+  "description": "Exact official SSC Multi-Tasking (Non-Technical) Staff & Havaldar CBT replica: Session I (40 Qs: 20 Numerical + 20 Reasoning, 45 min, +3 / 0 negative marking) followed by locked Session II (50 Qs: 25 General Awareness + 25 English, 45 min, +3 / -1 negative marking).",
+  "durationMinutes": 90,
+  "sectionalTiming": true,
+  "allowBackNavigationInSectionalTiming": false,
+  "defaultMarks": 3,
+  "defaultNegativeMarks": 0,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact SSC MTS & Havaldar revised pattern: 2 mandatory back-to-back sessions of 45 minutes each (90 minutes total, 90 questions, 270 maximum marks).",
+    "Session I (Qualifying — 45 min): 40 Questions (20 Numerical & Mathematical Ability + 20 Reasoning Ability). +3 marks per correct answer and ZERO negative marking.",
+    "Session II (Merit — 45 min): 50 Questions (25 General Awareness + 25 English Language & Comprehension). +3 marks per correct answer and -1 mark negative marking for every wrong answer."
+  ],
+  "passages": {
+    "mts_cloze_1": {
+      "title": "Cloze Test — Session II English (Q46 to Q50)",
+      "content": "Read the following passage carefully and fill in each blank with the most appropriate word.\n\nFor centuries, stepwells across western and central India were engineered to __(1)__ precious monsoon rainwater. These cool stone reservoirs provided drinking water to communities throughout the __(2)__ summer season. Over recent decades, however, the expansion of piped municipal supply meant that many historic stepwells were __(3)__ and choked with silt. Today, local citizens and heritage architects are partnering to __(4)__ these architectural marvels so they can once again recharge urban __(5)__ reserves."
+    }
+  },
+  "sections": [
+    {
+      "id": "session_1",
+      "name": "Session I: Numerical & Reasoning (No Neg Marking)",
+      "durationMinutes": 45,
+      "questions": [
+        {
+          "id": "m1",
+          "topic": "Numerical Ability: Simplification",
+          "difficulty": "easy",
+          "question": "Simplify: $48 \\div 6 \\times 3 + 12 - 5$",
+          "options": [
+            "29",
+            "31",
+            "33",
+            "35"
+          ],
+          "correctIndex": 1,
+          "explanation": "$48 \\div 6 = 8$; $8 \\times 3 = 24$; $24 + 12 - 5 = 31$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m2",
+          "topic": "Numerical Ability: Percentage",
+          "difficulty": "easy",
+          "question": "What is $35\\%$ of $240$?",
+          "options": [
+            "78",
+            "82",
+            "84",
+            "88"
+          ],
+          "correctIndex": 2,
+          "explanation": "$\\frac{35}{100} \\times 240 = 0.35 \\times 240 = 84$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m3",
+          "topic": "Numerical Ability: LCM & HCF",
+          "difficulty": "easy",
+          "question": "Find the Least Common Multiple (LCM) of 18, 24, and 36.",
+          "options": [
+            "54",
+            "72",
+            "96",
+            "108"
+          ],
+          "correctIndex": 1,
+          "explanation": "$18=2\\times 3^2$, $24=2^3\\times 3$, $36=2^2\\times 3^2 \\Rightarrow \\text{LCM} = 2^3 \\times 3^2 = 72$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m4",
+          "topic": "Numerical Ability: Ratio & Proportion",
+          "difficulty": "easy",
+          "question": "If $x : 15 :: 12 : 20$, find the value of $x$.",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "correctIndex": 2,
+          "explanation": "$20x = 15 \\times 12 = 180 \\Rightarrow x = 9$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m5",
+          "topic": "Numerical Ability: Average",
+          "difficulty": "easy",
+          "question": "The average of five consecutive odd numbers is 27. What is the largest of these five numbers?",
+          "options": [
+            "29",
+            "31",
+            "33",
+            "35"
+          ],
+          "correctIndex": 1,
+          "explanation": "The middle (3rd) number is 27, so the numbers are 23, 25, 27, 29, 31. Largest = 31.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m6",
+          "topic": "Numerical Ability: Profit & Loss",
+          "difficulty": "easy",
+          "question": "A bicycle bought for ₹4,500 is sold for ₹5,040. Find the profit percentage.",
+          "options": [
+            "10%",
+            "12%",
+            "14%",
+            "15%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Profit = $5040 - 4500 = 540$. Profit % = $\\frac{540}{4500} \\times 100 = 12\\%$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m7",
+          "topic": "Numerical Ability: Discount",
+          "difficulty": "easy",
+          "question": "A jacket marked at ₹2,500 is sold at a 16% discount. Find its selling price.",
+          "options": [
+            "₹2,050",
+            "₹2,100",
+            "₹2,150",
+            "₹2,200"
+          ],
+          "correctIndex": 1,
+          "explanation": "SP = $2500 \\times (1 - 0.16) = 2500 \\times 0.84 = ₹2,100$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m8",
+          "topic": "Numerical Ability: Simple Interest",
+          "difficulty": "easy",
+          "question": "Find the simple interest on ₹3,600 at 8% per annum for 3 years.",
+          "options": [
+            "₹768",
+            "₹824",
+            "₹864",
+            "₹912"
+          ],
+          "correctIndex": 2,
+          "explanation": "$\\text{SI} = \\frac{3600 \\times 8 \\times 3}{100} = 36 \\times 24 = ₹864$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m9",
+          "topic": "Numerical Ability: Time & Work",
+          "difficulty": "medium",
+          "question": "Ravi can finish a job in 20 days and Sumit can finish it in 30 days. Working together, in how many days will they complete the job?",
+          "options": [
+            "10 days",
+            "12 days",
+            "14 days",
+            "15 days"
+          ],
+          "correctIndex": 1,
+          "explanation": "Combined time = $\\frac{20 \\times 30}{20 + 30} = \\frac{600}{50} = 12$ days.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m10",
+          "topic": "Numerical Ability: Time & Distance",
+          "difficulty": "easy",
+          "question": "A bus travels 210 km in 3 hours 30 minutes. What is its speed in km/h?",
+          "options": [
+            "55 km/h",
+            "60 km/h",
+            "65 km/h",
+            "70 km/h"
+          ],
+          "correctIndex": 1,
+          "explanation": "Time = 3.5 hours. Speed = $\\frac{210}{3.5} = 60\\text{ km/h}$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m11",
+          "topic": "Numerical Ability: Mensuration 2D",
+          "difficulty": "easy",
+          "question": "The length and breadth of a rectangle are 18 cm and 12 cm respectively. Find its perimeter.",
+          "options": [
+            "54 cm",
+            "60 cm",
+            "64 cm",
+            "72 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Perimeter = $2(l + b) = 2(18 + 12) = 60\\text{ cm}$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m12",
+          "topic": "Numerical Ability: Mensuration 3D",
+          "difficulty": "medium",
+          "question": "Find the volume of a right circular cylinder of radius $7\\text{ cm}$ and height $10\\text{ cm}$ ($\\pi = \\frac{22}{7}$).",
+          "options": [
+            "$1,440\\text{ cm}^3$",
+            "$1,540\\text{ cm}^3$",
+            "$1,640\\text{ cm}^3$",
+            "$1,760\\text{ cm}^3$"
+          ],
+          "correctIndex": 1,
+          "explanation": "$V = \\pi r^2 h = \\frac{22}{7} \\times 7 \\times 7 \\times 10 = 1,540\\text{ cm}^3$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m13",
+          "topic": "Numerical Ability: Number System",
+          "difficulty": "easy",
+          "question": "Which of the following numbers is completely divisible by 11?",
+          "options": [
+            "4156",
+            "5324",
+            "6241",
+            "7135"
+          ],
+          "correctIndex": 1,
+          "explanation": "For 5324: $(5+2) - (3+4) = 7 - 7 = 0$, which is divisible by 11 ($5324 = 11 \\times 484$).",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m14",
+          "topic": "Numerical Ability: Compound Interest",
+          "difficulty": "medium",
+          "question": "Find the amount on ₹5,000 at 10% per annum compounded annually for 2 years.",
+          "options": [
+            "₹6,000",
+            "₹6,050",
+            "₹6,100",
+            "₹6,150"
+          ],
+          "correctIndex": 1,
+          "explanation": "$A = 5000 \\times (1.1)^2 = 5000 \\times 1.21 = ₹6,050$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m15",
+          "topic": "Numerical Ability: Fractions & Decimals",
+          "difficulty": "easy",
+          "question": "Express the fraction $\\frac{7}{8}$ as a percentage.",
+          "options": [
+            "82.5%",
+            "85%",
+            "87.5%",
+            "88.5%"
+          ],
+          "correctIndex": 2,
+          "explanation": "$\\frac{7}{8} \\times 100 = 87.5\\%$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m16",
+          "topic": "Numerical Ability: Trains",
+          "difficulty": "medium",
+          "question": "A train 150 m long crosses an electric pole in 6 seconds. What is its speed in km/h?",
+          "options": [
+            "72 km/h",
+            "80 km/h",
+            "90 km/h",
+            "96 km/h"
+          ],
+          "correctIndex": 2,
+          "explanation": "Speed = $150/6 = 25\\text{ m/s} = 25 \\times \\frac{18}{5} = 90\\text{ km/h}$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m17",
+          "topic": "Numerical Ability: Mixture",
+          "difficulty": "medium",
+          "question": "Two vessels contain sugar solution of 30 litres (20% sugar) and 20 litres (30% sugar). When mixed together, what is the percentage of sugar in the resulting solution?",
+          "options": [
+            "22%",
+            "24%",
+            "25%",
+            "26%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total sugar = $6 + 6 = 12$ L in 50 L total ⇒ $\\frac{12}{50} \\times 100 = 24\\%$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m18",
+          "topic": "Numerical Ability: Mensuration 2D",
+          "difficulty": "easy",
+          "question": "The area of a square field is $625\\text{ m}^2$. Find the length of its boundary (perimeter).",
+          "options": [
+            "80 m",
+            "90 m",
+            "100 m",
+            "125 m"
+          ],
+          "correctIndex": 2,
+          "explanation": "Side = $\\sqrt{625} = 25\\text{ m}$. Perimeter = $4 \\times 25 = 100\\text{ m}$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m19",
+          "topic": "Numerical Ability: Ratio (Ages)",
+          "difficulty": "medium",
+          "question": "The present ages of Aman and Vijay are in the ratio $4 : 5$. After 6 years, the ratio becomes $5 : 6$. What is Aman's present age?",
+          "options": [
+            "20 years",
+            "24 years",
+            "28 years",
+            "30 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "Each ratio part increases by 1 in 6 years ⇒ 1 unit = 6 years. Aman = $4 \\times 6 = 24$ years.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "m20",
+          "topic": "Numerical Ability: Data Interpretation",
+          "difficulty": "easy",
+          "question": "Monthly sales of bicycles at a shop:\n\n| Month | Units Sold |\n|---|---|\n| Jan | 45 |\n| Feb | 55 |\n| Mar | 60 |\n| Apr | 80 |\n\nWhat is the average monthly sale over the four months?",
+          "options": [
+            "55",
+            "58",
+            "60",
+            "62"
+          ],
+          "correctIndex": 2,
+          "explanation": "Average = $(45 + 55 + 60 + 80) / 4 = 240 / 4 = 60$ units.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r1",
+          "topic": "Reasoning: Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number:\n`5, 11, 17, 23, 29, ?`",
+          "options": [
+            "33",
+            "35",
+            "37",
+            "39"
+          ],
+          "correctIndex": 1,
+          "explanation": "Constant difference of +6: $29 + 6 = 35$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r2",
+          "topic": "Reasoning: Coding-Decoding",
+          "difficulty": "easy",
+          "question": "If `PEN` is coded as `QFO`, how is `BOOK` coded?",
+          "options": [
+            "CPPL",
+            "CPQL",
+            "DPPL",
+            "COPL"
+          ],
+          "correctIndex": 0,
+          "explanation": "Each letter shifts by +1: B→C, O→P, O→P, K→L ⇒ `CPPL`.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r3",
+          "topic": "Reasoning: Analogy",
+          "difficulty": "easy",
+          "question": "`Doctor : Hospital :: Teacher : ?`",
+          "options": [
+            "Court",
+            "School",
+            "Factory",
+            "Laboratory"
+          ],
+          "correctIndex": 1,
+          "explanation": "A doctor works in a hospital; a teacher works in a school.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r4",
+          "topic": "Reasoning: Odd One Out",
+          "difficulty": "easy",
+          "question": "Choose the odd one out from the given numbers.",
+          "options": [
+            "27",
+            "64",
+            "125",
+            "144"
+          ],
+          "correctIndex": 3,
+          "explanation": "$27=3^3$, $64=4^3$, $125=5^3$ are perfect cubes, while $144=12^2$ is not a cube.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r5",
+          "topic": "Reasoning: Alphabet Series",
+          "difficulty": "easy",
+          "question": "Find the missing letter-cluster:\n`AB, DE, GH, JK, ?`",
+          "options": [
+            "MN",
+            "LM",
+            "NO",
+            "MP"
+          ],
+          "correctIndex": 0,
+          "explanation": "Each cluster starts +3 from the previous start: A, D, G, J, M ⇒ `MN`.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r6",
+          "topic": "Reasoning: Mathematical Operations",
+          "difficulty": "easy",
+          "question": "If `+` means `×` and `-` means `÷`, find the value of:\n`36 - 4 + 5`",
+          "options": [
+            "40",
+            "45",
+            "50",
+            "55"
+          ],
+          "correctIndex": 1,
+          "explanation": "$36 \\div 4 \\times 5 = 9 \\times 5 = 45$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r7",
+          "topic": "Reasoning: Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All roses are flowers.\n2. Some flowers are red.\n\nConclusions:\nI. Some flowers are roses.\nII. All roses are red.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+          ],
+          "correctIndex": 0,
+          "explanation": "From Statement 1, 'Some flowers are roses' (I) definitely follows; no definite link exists between roses and red.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r8",
+          "topic": "Reasoning: Seating Arrangement",
+          "difficulty": "medium",
+          "question": "Five friends P, Q, R, S, and T sit in a row facing North. R is exactly in the middle. P sits at the extreme left end. Q sits immediately to the right of R. S sits between P and R. Who sits at the extreme right end?",
+          "options": [
+            "Q",
+            "T",
+            "S",
+            "P"
+          ],
+          "correctIndex": 1,
+          "explanation": "Left to right: P (1), S (2), R (3), Q (4), T (5). Hence T sits at the extreme right end.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r9",
+          "topic": "Reasoning: Blood Relations",
+          "difficulty": "easy",
+          "question": "Deepak is the brother of Ravi. Rekha is the sister of Atul. Ravi is the son of Rekha. How is Deepak related to Rekha?",
+          "options": [
+            "Nephew",
+            "Son",
+            "Brother",
+            "Father"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deepak is Ravi's brother and Ravi is Rekha's son, so Deepak is also Rekha's Son.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r10",
+          "topic": "Reasoning: Direction Sense",
+          "difficulty": "easy",
+          "question": "Sunil faces North. He turns $90^\\circ$ clockwise, then $180^\\circ$ anti-clockwise. Which direction is he facing now?",
+          "options": [
+            "North",
+            "East",
+            "West",
+            "South"
+          ],
+          "correctIndex": 2,
+          "explanation": "North + $90^\\circ$ CW = East; East + $180^\\circ$ ACW = West.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r11",
+          "topic": "Reasoning: Number Analogy",
+          "difficulty": "easy",
+          "question": "`8 : 64 :: 11 : ?`",
+          "options": [
+            "110",
+            "121",
+            "132",
+            "144"
+          ],
+          "correctIndex": 1,
+          "explanation": "Square relationship: $8^2 = 64$, so $11^2 = 121$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r12",
+          "topic": "Reasoning: Order & Ranking",
+          "difficulty": "easy",
+          "question": "In a class of 35 students, Kavita ranks 9th from the top. What is her rank from the bottom?",
+          "options": [
+            "25th",
+            "26th",
+            "27th",
+            "28th"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rank from bottom = $35 - 9 + 1 = 27\\text{th}$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r13",
+          "topic": "Reasoning: Coding (Number)",
+          "difficulty": "medium",
+          "question": "If `BAT` = 23 and `CAT` = 24, then `MAT` = ?",
+          "options": [
+            "32",
+            "34",
+            "36",
+            "38"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sum of letter values: M(13) + A(1) + T(20) = 34.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r14",
+          "topic": "Reasoning: Dictionary Order",
+          "difficulty": "easy",
+          "question": "Which word comes FIRST in English dictionary order?",
+          "options": [
+            "Prepare",
+            "Present",
+            "Predict",
+            "Prevent"
+          ],
+          "correctIndex": 2,
+          "explanation": "`Pre-d(ict)` comes before `Pre-p(are)`, `Pre-s(ent)`, and `Pre-v(ent)`.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r15",
+          "topic": "Reasoning: Number Series",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`2, 6, 12, 20, 30, ?`",
+          "options": [
+            "40",
+            "42",
+            "44",
+            "46"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pattern $n(n+1)$: $1\\times 2, 2\\times 3, 3\\times 4, 4\\times 5, 5\\times 6, 6\\times 7 = 42$.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r16",
+          "topic": "Reasoning: Classification",
+          "difficulty": "easy",
+          "question": "Select the odd word out.",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Moon",
+            "Mars"
+          ],
+          "correctIndex": 2,
+          "explanation": "Mercury, Venus, and Mars are planets; Moon is Earth's natural satellite.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r17",
+          "topic": "Reasoning: Circular Seating",
+          "difficulty": "medium",
+          "question": "Four friends A, B, C, and D sit around a circular table facing the centre. A sits opposite to C. B sits immediately to the right of A. Who sits immediately to the left of A?",
+          "options": [
+            "B",
+            "C",
+            "D",
+            "Cannot be determined"
+          ],
+          "correctIndex": 2,
+          "explanation": "Clockwise/anticlockwise around a 4-seat circle: A opposite C, B immediately right of A, so the only remaining seat (immediately left of A) is occupied by D.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r18",
+          "topic": "Reasoning: Word Analogy",
+          "difficulty": "easy",
+          "question": "`Rupee : India :: Yen : ?`",
+          "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rupee is India's currency; Yen is Japan's currency.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r19",
+          "topic": "Reasoning: Odd Letter Cluster",
+          "difficulty": "easy",
+          "question": "Pick the odd letter-cluster out.",
+          "options": [
+            "ACE",
+            "GIK",
+            "MOQ",
+            "STU"
+          ],
+          "correctIndex": 3,
+          "explanation": "ACE, GIK, and MOQ increase by +2 each step, whereas STU increases by +1.",
+          "marks": 3,
+          "negativeMarks": 0
+        },
+        {
+          "id": "r20",
+          "topic": "Reasoning: Missing Number",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`100, 95, 85, 70, 50, ?`",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctIndex": 1,
+          "explanation": "Differences are $-5, -10, -15, -20$, so next is $-25$: $50 - 25 = 25$.",
+          "marks": 3,
+          "negativeMarks": 0
+        }
+      ]
+    },
+    {
+      "id": "session_2",
+      "name": "Session II: General Awareness & English (-1 Neg Marking)",
+      "durationMinutes": 45,
+      "questions": [
+        {
+          "id": "g1",
+          "topic": "General Awareness: Indian Polity",
+          "difficulty": "easy",
+          "question": "How many Fundamental Rights are currently guaranteed by the Constitution of India?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 1,
+          "explanation": "There are 6 Fundamental Rights (Right to Property was removed from Part III by the 44th Amendment Act, 1978).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g2",
+          "topic": "General Awareness: Art & Culture",
+          "difficulty": "easy",
+          "question": "Bihu is the principal harvest festival of which Indian state?",
+          "options": [
+            "Odisha",
+            "Assam",
+            "Punjab",
+            "Kerala"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bohag (Rongali), Kati, and Magh Bihu are the three signature festivals of Assam.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g3",
+          "topic": "General Awareness: Geography",
+          "difficulty": "easy",
+          "question": "Which river is known as the 'Sorrow of Bihar' due to its frequent course changes and devastating floods?",
+          "options": [
+            "Gandak",
+            "Kosi",
+            "Son",
+            "Damodar"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Kosi river is known as the 'Sorrow of Bihar' (while Damodar was historically called 'Sorrow of Bengal').",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g4",
+          "topic": "General Awareness: Modern History",
+          "difficulty": "easy",
+          "question": "In which year did Mahatma Gandhi lead the famous Dandi March (Salt Satyagraha)?",
+          "options": [
+            "1920",
+            "1928",
+            "1930",
+            "1942"
+          ],
+          "correctIndex": 2,
+          "explanation": "Gandhiji walked from Sabarmati Ashram to Dandi from 12 March to 6 April 1930.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g5",
+          "topic": "General Awareness: Biology",
+          "difficulty": "easy",
+          "question": "Which vitamin is primarily synthesized in human skin upon exposure to sunlight?",
+          "options": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "correctIndex": 3,
+          "explanation": "UVB rays convert 7-dehydrocholesterol in skin into Vitamin D3 (cholecalciferol).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g6",
+          "topic": "General Awareness: Chemistry",
+          "difficulty": "easy",
+          "question": "What is the common name of Sodium Bicarbonate ($\\text{NaHCO}_3$)?",
+          "options": [
+            "Bleaching Powder",
+            "Baking Soda",
+            "Caustic Soda",
+            "Plaster of Paris"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sodium bicarbonate ($\\text{NaHCO}_3$) is commonly known as Baking Soda.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g7",
+          "topic": "General Awareness: Physics",
+          "difficulty": "easy",
+          "question": "Sound waves CANNOT travel through which of the following media?",
+          "options": [
+            "Steel",
+            "Water",
+            "Air",
+            "Vacuum"
+          ],
+          "correctIndex": 3,
+          "explanation": "Sound is a mechanical longitudinal wave requiring a material medium; it cannot propagate in vacuum.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g8",
+          "topic": "General Awareness: Indian Polity",
+          "difficulty": "easy",
+          "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+          "options": [
+            "President of India",
+            "Vice President of India",
+            "Prime Minister of India",
+            "Speaker of Lok Sabha"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under Article 64 of the Constitution, the Vice President of India is the ex-officio Chairman of the Rajya Sabha.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g9",
+          "topic": "General Awareness: Ancient History",
+          "difficulty": "easy",
+          "question": "Gautama Buddha delivered his first sermon (Dharmachakrapravartana) at which place?",
+          "options": [
+            "Lumbini",
+            "Bodh Gaya",
+            "Sarnath",
+            "Kushinagar"
+          ],
+          "correctIndex": 2,
+          "explanation": "Buddha delivered his first sermon to five ascetics at the Deer Park in Sarnath near Varanasi.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g10",
+          "topic": "General Awareness: Geography",
+          "difficulty": "easy",
+          "question": "Kaziranga National Park is located in which state of India?",
+          "options": [
+            "West Bengal",
+            "Assam",
+            "Meghalaya",
+            "Sikkim"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kaziranga National Park (UNESCO site) is located in Golaghat and Nagaon districts of Assam.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g11",
+          "topic": "General Awareness: Economics",
+          "difficulty": "medium",
+          "question": "Which apex bank acts as the 'Banker to the Government' and 'Lender of Last Resort' in India?",
+          "options": [
+            "State Bank of India",
+            "Reserve Bank of India",
+            "NABARD",
+            "SIDBI"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Reserve Bank of India (established 1 April 1935) is India's central bank.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g12",
+          "topic": "General Awareness: Static GK",
+          "difficulty": "easy",
+          "question": "Who composed India's national anthem 'Jana Gana Mana'?",
+          "options": [
+            "Bankim Chandra Chatterjee",
+            "Rabindranath Tagore",
+            "Sarojini Naidu",
+            "Subramania Bharati"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nobel laureate Rabindranath Tagore composed 'Jana Gana Mana', adopted by the Constituent Assembly on 24 January 1950.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g13",
+          "topic": "General Awareness: Sports",
+          "difficulty": "easy",
+          "question": "How many players are on the field for one team in a standard Field Hockey match?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctIndex": 2,
+          "explanation": "Each field hockey team fields 11 players (10 outfield + 1 goalkeeper).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g14",
+          "topic": "General Awareness: Medieval History",
+          "difficulty": "medium",
+          "question": "Who built the Buland Darwaza at Fatehpur Sikri to commemorate his victory over Gujarat?",
+          "options": [
+            "Babur",
+            "Humayun",
+            "Akbar",
+            "Aurangzeb"
+          ],
+          "correctIndex": 2,
+          "explanation": "Emperor Akbar built the Buland Darwaza in 1575 CE to celebrate his conquest of Gujarat.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g15",
+          "topic": "General Awareness: Art & Culture",
+          "difficulty": "easy",
+          "question": "Ustad Bismillah Khan was an iconic Indian musician renowned for playing which instrument?",
+          "options": [
+            "Tabla",
+            "Sitar",
+            "Shehnai",
+            "Santoor"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bharat Ratna awardee Ustad Bismillah Khan popularized the Shehnai on global concert stages.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g16",
+          "topic": "General Awareness: Biology",
+          "difficulty": "easy",
+          "question": "Which organ in the human body filters waste products from the blood to produce urine?",
+          "options": [
+            "Liver",
+            "Kidney",
+            "Pancreas",
+            "Spleen"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nephrons inside the kidneys filter nitrogenous waste (urea) and excess water from blood.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g17",
+          "topic": "General Awareness: Geography",
+          "difficulty": "easy",
+          "question": "Which planet in our Solar System is known as the 'Red Planet'?",
+          "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mars appears reddish due to iron oxide (rust) covering its surface.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g18",
+          "topic": "General Awareness: Indian Polity",
+          "difficulty": "medium",
+          "question": "Which Part of the Indian Constitution deals with Directive Principles of State Policy (DPSP)?",
+          "options": [
+            "Part II",
+            "Part III",
+            "Part IV",
+            "Part V"
+          ],
+          "correctIndex": 2,
+          "explanation": "Part IV (Articles 36 to 51) contains the Directive Principles of State Policy.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g19",
+          "topic": "General Awareness: Census 2011",
+          "difficulty": "medium",
+          "question": "As per Census 2011, which Indian state had the highest population density (persons per sq km)?",
+          "options": [
+            "West Bengal",
+            "Uttar Pradesh",
+            "Bihar",
+            "Kerala"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bihar recorded the highest population density among Indian states at 1,106 persons per sq km (Census 2011).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g20",
+          "topic": "General Awareness: Chemistry",
+          "difficulty": "easy",
+          "question": "What is the pH value of pure neutral water at $25^\\circ\\text{C}$?",
+          "options": [
+            "0",
+            "5",
+            "7",
+            "14"
+          ],
+          "correctIndex": 2,
+          "explanation": "Neutral solutions have pH = 7; acidic < 7; basic > 7.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g21",
+          "topic": "General Awareness: Books & Authors",
+          "difficulty": "easy",
+          "question": "Who wrote the autobiography 'Wings of Fire'?",
+          "options": [
+            "Vikram Sarabhai",
+            "Dr. A. P. J. Abdul Kalam",
+            "C. V. Raman",
+            "Homi J. Bhabha"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Wings of Fire' is the celebrated autobiography of India's Missile Man and 11th President, Dr. A. P. J. Abdul Kalam.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g22",
+          "topic": "General Awareness: Art & Culture",
+          "difficulty": "easy",
+          "question": "Bharatanatyam is the traditional classical dance form of which state?",
+          "options": [
+            "Karnataka",
+            "Tamil Nadu",
+            "Kerala",
+            "Telangana"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bharatanatyam originated in the temples of Tamil Nadu.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g23",
+          "topic": "General Awareness: Modern History",
+          "difficulty": "easy",
+          "question": "The Jallianwala Bagh Massacre took place in Amritsar on which date?",
+          "options": [
+            "13 April 1919",
+            "15 August 1919",
+            "13 April 1920",
+            "26 January 1919"
+          ],
+          "correctIndex": 0,
+          "explanation": "General Dyer ordered troops to open fire on a peaceful Baisakhi gathering at Jallianwala Bagh on 13 April 1919.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g24",
+          "topic": "General Awareness: Environment",
+          "difficulty": "easy",
+          "question": "World Environment Day is observed globally every year on:",
+          "options": [
+            "22 April",
+            "5 June",
+            "16 September",
+            "2 February"
+          ],
+          "correctIndex": 1,
+          "explanation": "World Environment Day is celebrated on 5 June (22 April is Earth Day; 16 Sept is World Ozone Day).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "g25",
+          "topic": "General Awareness: Static GK",
+          "difficulty": "easy",
+          "question": "Which Indian city is popularly known as the 'Pink City'?",
+          "options": [
+            "Udaipur",
+            "Jodhpur",
+            "Jaipur",
+            "Jaisalmer"
+          ],
+          "correctIndex": 2,
+          "explanation": "Jaipur (Rajasthan), founded by Sawai Jai Singh II, is famed as the Pink City and is a UNESCO World Heritage city.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e1",
+          "topic": "English: Synonyms",
+          "difficulty": "easy",
+          "question": "Select the most appropriate SYNONYM of: `RAPID`",
+          "options": [
+            "Slow",
+            "Swift",
+            "Lazy",
+            "Dull"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Rapid' means fast or swift.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e2",
+          "topic": "English: Antonyms",
+          "difficulty": "easy",
+          "question": "Select the most appropriate ANTONYM of: `ANCIENT`",
+          "options": [
+            "Historic",
+            "Antique",
+            "Modern",
+            "Elderly"
+          ],
+          "correctIndex": 2,
+          "explanation": "The opposite of 'Ancient' is 'Modern'.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e3",
+          "topic": "English: One-Word Substitution",
+          "difficulty": "easy",
+          "question": "Select the one-word substitute for:\n`One who does not believe in the existence of God`",
+          "options": [
+            "Theist",
+            "Atheist",
+            "Optimist",
+            "Pacifist"
+          ],
+          "correctIndex": 1,
+          "explanation": "An 'Atheist' disbelieves in the existence of God.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e4",
+          "topic": "English: Idioms & Phrases",
+          "difficulty": "easy",
+          "question": "Select the meaning of the idiom:\n`A piece of cake`",
+          "options": [
+            "A very easy task",
+            "A sweet dessert",
+            "A costly affair",
+            "A difficult puzzle"
+          ],
+          "correctIndex": 0,
+          "explanation": "'A piece of cake' refers to something very easy to accomplish.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e5",
+          "topic": "English: Error Spotting",
+          "difficulty": "easy",
+          "question": "Spot the grammatical error:\n`The children / was playing / happily in / the garden.`",
+          "options": [
+            "The children",
+            "was playing",
+            "happily in",
+            "the garden"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Children' is plural, so it requires `were playing` instead of `was playing`.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e6",
+          "topic": "English: Fill in the Blanks",
+          "difficulty": "easy",
+          "question": "Please turn ______ the lights before leaving the classroom.",
+          "options": [
+            "off",
+            "of",
+            "by",
+            "into"
+          ],
+          "correctIndex": 0,
+          "explanation": "`Turn off` is the correct phrasal verb meaning to switch off.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e7",
+          "topic": "English: Spelling Detection",
+          "difficulty": "easy",
+          "question": "Select the INCORRECTLY spelt word.",
+          "options": [
+            "Calendar",
+            "Grammar",
+            "Seperate",
+            "Necessary"
+          ],
+          "correctIndex": 2,
+          "explanation": "The correct spelling is `Separate` (with 'a' after 'p').",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e8",
+          "topic": "English: Sentence Improvement",
+          "difficulty": "easy",
+          "question": "Substitute the bracketed segment:\n`He has been working in this factory (from) 2018.`",
+          "options": [
+            "since",
+            "for",
+            "by",
+            "No improvement"
+          ],
+          "correctIndex": 0,
+          "explanation": "A definite starting point in time (`2018`) takes `since` (whereas a duration takes `for`).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e9",
+          "topic": "English: Synonyms",
+          "difficulty": "easy",
+          "question": "Select the SYNONYM of: `COURAGEOUS`",
+          "options": [
+            "Cowardly",
+            "Brave",
+            "Weak",
+            "Timid"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Courageous' means brave and fearless.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e10",
+          "topic": "English: Antonyms",
+          "difficulty": "easy",
+          "question": "Select the ANTONYM of: `GENEROUS`",
+          "options": [
+            "Kind",
+            "Stingy",
+            "Noble",
+            "Helpful"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Stingy' (unwilling to give or spend) is the antonym of 'Generous'.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e11",
+          "topic": "English: Idioms & Phrases",
+          "difficulty": "easy",
+          "question": "Select the meaning of the idiom:\n`Break the ice`",
+          "options": [
+            "To initiate conversation in an awkward silence",
+            "To slip on frozen ground",
+            "To destroy a friendship",
+            "To stop working abruptly"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Break the ice' means to ease tension and begin friendly conversation.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e12",
+          "topic": "English: One-Word Substitution",
+          "difficulty": "easy",
+          "question": "Select the one-word substitute for:\n`A person who loves books`",
+          "options": [
+            "Bibliophile",
+            "Philanthropist",
+            "Cartographer",
+            "Botanist"
+          ],
+          "correctIndex": 0,
+          "explanation": "A 'Bibliophile' is a collector or great lover of books.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e13",
+          "topic": "English: Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`He did not / went to / the market / yesterday evening.`",
+          "options": [
+            "He did not",
+            "went to",
+            "the market",
+            "yesterday evening"
+          ],
+          "correctIndex": 1,
+          "explanation": "`did not` is always followed by the base verb (V1): `did not go`.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e14",
+          "topic": "English: Fill in the Blanks",
+          "difficulty": "easy",
+          "question": "Honesty is ______ best policy.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "correctIndex": 2,
+          "explanation": "Superlative adjectives (`best`) take the definite article `the`.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e15",
+          "topic": "English: Spelling Detection",
+          "difficulty": "easy",
+          "question": "Select the CORRECTLY spelt word.",
+          "options": [
+            "Enviroment",
+            "Environment",
+            "Enviornment",
+            "Environmant"
+          ],
+          "correctIndex": 1,
+          "explanation": "`Environment` (en + vi + ron + ment) is the correct spelling.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e16",
+          "topic": "English: Sentence Improvement",
+          "difficulty": "medium",
+          "question": "Improve the bracketed part:\n`She prefers coffee (than) tea in the morning.`",
+          "options": [
+            "to",
+            "over",
+            "from",
+            "No improvement"
+          ],
+          "correctIndex": 0,
+          "explanation": "The verb `prefer` takes the preposition `to` (`prefers coffee to tea`).",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e17",
+          "topic": "English: Synonyms",
+          "difficulty": "medium",
+          "question": "Select the SYNONYM of: `DILIGENT`",
+          "options": [
+            "Idle",
+            "Hardworking",
+            "Careless",
+            "Negligent"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Diligent' means showing careful, persistent, and hardworking effort.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e18",
+          "topic": "English: Antonyms",
+          "difficulty": "easy",
+          "question": "Select the ANTONYM of: `EXPAND`",
+          "options": [
+            "Enlarge",
+            "Extend",
+            "Contract",
+            "Stretch"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Contract' (shrink or become smaller) is the opposite of 'Expand'.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e19",
+          "topic": "English: Fill in the Blanks",
+          "difficulty": "easy",
+          "question": "The train arrived ______ the station ten minutes ahead of schedule.",
+          "options": [
+            "at",
+            "between",
+            "under",
+            "through"
+          ],
+          "correctIndex": 0,
+          "explanation": "We arrive `at` a specific point/place like a station or airport.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e20",
+          "topic": "English: Idioms & Phrases",
+          "difficulty": "medium",
+          "question": "Select the meaning of the idiom:\n`Under the weather`",
+          "options": [
+            "Feeling slightly unwell",
+            "Enjoying a rainy day",
+            "Working outdoors",
+            "Travelling by ship"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Under the weather' means feeling sick or slightly unwell.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e21",
+          "topic": "English: Cloze Test",
+          "difficulty": "easy",
+          "passageId": "mts_cloze_1",
+          "question": "Select the most appropriate option for blank (1).",
+          "options": [
+            "waste",
+            "harvest",
+            "pollute",
+            "ignore"
+          ],
+          "correctIndex": 1,
+          "explanation": "Traditional stepwells were built to 'harvest' and store monsoon rainwater.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e22",
+          "topic": "English: Cloze Test",
+          "difficulty": "easy",
+          "passageId": "mts_cloze_1",
+          "question": "Select the most appropriate option for blank (2).",
+          "options": [
+            "dry",
+            "flooded",
+            "freezing",
+            "humid"
+          ],
+          "correctIndex": 0,
+          "explanation": "Stored rainwater supported villages during the 'dry' summer months.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e23",
+          "topic": "English: Cloze Test",
+          "difficulty": "easy",
+          "passageId": "mts_cloze_1",
+          "question": "Select the most appropriate option for blank (3).",
+          "options": [
+            "destroyed",
+            "neglected",
+            "expanded",
+            "celebrated"
+          ],
+          "correctIndex": 1,
+          "explanation": "With piped water supply, many stepwells were 'neglected' and fell into disrepair.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e24",
+          "topic": "English: Cloze Test",
+          "difficulty": "easy",
+          "passageId": "mts_cloze_1",
+          "question": "Select the most appropriate option for blank (4).",
+          "options": [
+            "restore",
+            "bury",
+            "demolish",
+            "abandon"
+          ],
+          "correctIndex": 0,
+          "explanation": "Civic groups are now working to 'restore' these heritage structures.",
+          "marks": 3,
+          "negativeMarks": 1
+        },
+        {
+          "id": "e25",
+          "topic": "English: Cloze Test",
+          "difficulty": "easy",
+          "passageId": "mts_cloze_1",
+          "question": "Select the most appropriate option for blank (5).",
+          "options": [
+            "groundwater",
+            "pollution",
+            "traffic",
+            "drought"
+          ],
+          "correctIndex": 0,
+          "explanation": "Desilted stepwells recharge local 'groundwater' tables.",
+          "marks": 3,
+          "negativeMarks": 1
+        }
+      ]
+    }
+  ]
+}

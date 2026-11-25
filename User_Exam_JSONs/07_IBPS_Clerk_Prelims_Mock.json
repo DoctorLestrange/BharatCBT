@@ -1,0 +1,1618 @@
+{
+  "title": "IBPS Clerk (CSA) Prelims — Full-Length Speed & Accuracy CBT Mock",
+  "subtitle": "100 Questions • 60 Minutes (20+20+20m) • 100 Marks • 5 Options • +1 / -0.25 Marking",
+  "category": "Banking",
+  "description": "Exact full-length IBPS Clerk / Customer Service Associate (CSA) Prelims CBT replica: English Language (30 Qs / 20 min), Numerical Ability (35 Qs / 20 min with speed simplification & DI), and Reasoning Ability (35 Qs / 20 min with alphanumeric series, Chinese coding & puzzles).",
+  "durationMinutes": 60,
+  "sectionalTiming": true,
+  "allowBackNavigationInSectionalTiming": false,
+  "defaultMarks": 1,
+  "defaultNegativeMarks": 0.25,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact IBPS Clerk (CSA) Prelims pattern: 3 strictly timed 20-minute locked sections (60 minutes total, 100 questions, 100 marks).",
+    "Sectional split: English Language (30 Qs / 20 min) → Numerical Ability (35 Qs / 20 min) → Reasoning Ability (35 Qs / 20 min).",
+    "5 options per question (A–E), +1 mark per correct answer, and -0.25 negative marking for each wrong answer."
+  ],
+  "passages": {
+    "clerk_rc": {
+      "title": "Reading Comprehension — Questions 1 to 8",
+      "content": "In a quiet coastal town in Kerala, a community-run cooperative bank launched an unusual literacy drive called 'Pocket Ledger'. Rather than distributing dense policy brochures, branch clerks spent Saturday mornings at local fish markets and spice auctions teaching vendors how to reconcile daily UPI inflows with simple printed passbook entries. Many shopkeepers had been hesitant to accept digital payments because they feared hidden deductions or accidental duplicate transfers.\n\nWithin six months, transparent daily summaries transformed local attitudes. Vendors discovered that verifiable digital transaction histories made them eligible for low-interest working capital loans under priority-sector lending norms—loans that previously required pledging family gold. Meanwhile, the cooperative bank noticed a sharp **surge** in low-cost current account deposits and a steep decline in cash-handling costs at its rural branches.\n\nEncouraged by the pilot, district officials now plan to replicate the Pocket Ledger workshops across forty neighbouring panchayats. Project coordinators believe the lesson is universal: financial inclusion succeeds not merely when accounts are opened, but when ordinary citizens feel **confident** navigating everyday banking tools."
+    },
+    "clerk_cloze": {
+      "title": "Cloze Test — Questions 9 to 14",
+      "content": "Choose the most appropriate word for each numbered blank in the passage.\n\nRegular brisk walking is one of the simplest yet most __(9)__ habits a busy office worker can adopt. Unlike expensive gym memberships that often go __(10)__ after a few weeks, a thirty-minute morning walk requires nothing more than comfortable footwear. Cardiologists note that daily walking improves blood circulation, lowers resting blood pressure, and helps __(11)__ workplace stress. Furthermore, walking outdoors in natural daylight resets the body's circadian rhythm, leading to deeper and more __(12)__ sleep at night. Starting with modest ten-minute goals makes it far easier to stay __(13)__ and turn exercise into a lifelong __(14)__."
+    },
+    "clerk_di": {
+      "title": "Data Interpretation (Table) — Questions 18 to 22 (Numerical Ability)",
+      "content": "Study the table below carefully and answer Questions 18 to 22.\n\n**Number of Home Appliances Sold by a Retail Chain Across Five Cities in Q2**\n\n| City | AC | Fridge | TV | Fan |\n|---|---|---|---|---|\n| **Delhi** | 120 | 180 | 150 | 250 |\n| **Mumbai** | 160 | 140 | 200 | 300 |\n| **Pune** | 100 | 120 | 130 | 150 |\n| **Jaipur** | 140 | 160 | 120 | 180 |\n| **Surat** | 80 | 100 | 100 | 120 |"
+    },
+    "clerk_p1": {
+      "title": "Puzzle 1 (Circular Seating) — Questions 1 to 5 (Reasoning)",
+      "content": "Study the information carefully and answer Questions 1 to 5:\n\nEight clerks — **A, B, C, D, E, F, G, and H** — sit around a circular table facing the centre.\n- **B** sits directly opposite to **A**.\n- **E** sits immediately to the right of **A**.\n- **C** sits second to the right of **A**.\n- **G** sits immediately between **C** and **B**.\n- **F** sits immediately to the right of **B**.\n- **H** sits immediately to the left of **A**.\n- **D** sits between **F** and **H**."
+    },
+    "clerk_p2": {
+      "title": "Puzzle 2 (7-Floor Building) — Questions 6 to 10 (Reasoning)",
+      "content": "Study the information carefully and answer Questions 6 to 10:\n\nSeven persons — **P, Q, R, S, T, U, and V** — live on seven different floors numbered **1 (ground)** to **7 (top)**.\n- **Q** lives on the middle floor (Floor 4).\n- **S** lives on the topmost floor (Floor 7), and **V** lives on the ground floor (Floor 1).\n- **P** lives immediately below **S**.\n- **U** lives immediately above **Q**.\n- **T** lives immediately below **Q**."
+    },
+    "clerk_p3": {
+      "title": "Puzzle 3 (Linear Row) — Questions 11 to 15 (Reasoning)",
+      "content": "Study the information carefully and answer Questions 11 to 15:\n\nSeven friends — **J, K, L, M, N, O, and P** — sit in a straight line facing North.\n- **M** sits exactly in the middle of the row.\n- **K** sits at the extreme left end, and **O** sits at the extreme right end.\n- **N** sits immediately to the right of **K**.\n- **J** sits immediately to the left of **M**.\n- **P** sits immediately to the right of **M**."
+    },
+    "clerk_alpha": {
+      "title": "Alphanumeric Series — Questions 16 to 20 (Reasoning)",
+      "content": "Study the following arrangement of letters, numbers, and symbols carefully and answer Questions 16 to 20:\n\n`M  7  @  K  4  9  #  R  2  $  T  5  P  %  8  W  3  &  D  6  !  H  1  ^  L`"
+    },
+    "clerk_code": {
+      "title": "Substitution Coding — Questions 21 to 25 (Reasoning)",
+      "content": "Study the following coded sentences carefully and answer Questions 21 to 25:\n\n- `digital payment secure fast` is coded as `ka ti mo su`\n- `secure bank transfer fast` is coded as `mo li ra su`\n- `digital bank instant mode` is coded as `ka li ve po`\n- `instant payment transfer online` is coded as `ve ti ra nu`"
+    }
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Language",
+      "durationMinutes": 20,
+      "questions": [
+        {
+          "id": "e1",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "How did branch clerks conduct the 'Pocket Ledger' initiative?",
+          "options": [
+            "By mailing dense legal booklets to urban corporations",
+            "By visiting fish markets and spice auctions on Saturday mornings to teach UPI-passbook reconciliation",
+            "By imposing fines on vendors who accepted cash",
+            "By closing rural branches on weekdays",
+            "By selling smartphones at double the market price"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 1 explains that clerks spent Saturday mornings at local fish markets and spice auctions teaching vendors to reconcile UPI inflows with passbook entries."
+        },
+        {
+          "id": "e2",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "Why were many local shopkeepers initially reluctant to accept digital payments?",
+          "options": [
+            "They lacked mobile network coverage across Kerala",
+            "They feared hidden deductions or accidental duplicate transfers",
+            "Customers refused to use UPI at fish markets",
+            "Banks prohibited small vendors from opening current accounts",
+            "They preferred foreign currency notes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 1 states shopkeepers feared hidden deductions or accidental duplicate transfers."
+        },
+        {
+          "id": "e3",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "What major credit advantage did vendors gain from verifiable digital transaction histories?",
+          "options": [
+            "Complete waiver of all principal repayments",
+            "Eligibility for low-interest working capital loans without having to pledge family gold",
+            "Automatic ownership shares in the cooperative bank",
+            "Free international export licences",
+            "Exemption from all municipal taxes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 2 notes verifiable digital histories qualified vendors for low-interest working capital loans that previously required pledging family gold."
+        },
+        {
+          "id": "e4",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "How did the cooperative bank itself benefit from the literacy drive?",
+          "options": [
+            "Sharp surge in low-cost current account deposits and lower cash-handling costs",
+            "Closure of forty neighbouring panchayat offices",
+            "Higher gold-auction revenues from defaulted borrowers",
+            "Complete elimination of branch clerk roles",
+            "Increase in physical paper brochure expenses"
+          ],
+          "correctIndex": 0,
+          "explanation": "Paragraph 2 mentions a sharp surge in low-cost current account deposits and a steep decline in cash-handling costs."
+        },
+        {
+          "id": "e5",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "How many neighbouring panchayats do district officials plan to expand the workshops into?",
+          "options": [
+            "Ten",
+            "Twenty",
+            "Thirty",
+            "Forty",
+            "Fifty"
+          ],
+          "correctIndex": 3,
+          "explanation": "Paragraph 3 states officials plan to replicate the workshops across forty neighbouring panchayats."
+        },
+        {
+          "id": "e6",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "What universal lesson do project coordinators draw from the pilot?",
+          "options": [
+            "Opening accounts is sufficient without customer training",
+            "Financial inclusion succeeds when citizens feel confident using everyday banking tools",
+            "Paper passbooks must be banned immediately",
+            "Only metro branches can achieve digital growth",
+            "Brochures are more effective than field workshops"
+          ],
+          "correctIndex": 1,
+          "explanation": "The final sentence states financial inclusion succeeds when ordinary citizens feel confident navigating everyday banking tools."
+        },
+        {
+          "id": "e7",
+          "topic": "Vocabulary in Context",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "Which word is MOST SIMILAR in meaning to `SURGE` as highlighted in the passage?",
+          "options": [
+            "Drop",
+            "Sharp rise",
+            "Pause",
+            "Loss",
+            "Delay"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Surge' means a sudden, powerful forward or upward movement (sharp rise)."
+        },
+        {
+          "id": "e8",
+          "topic": "Vocabulary in Context",
+          "difficulty": "easy",
+          "passageId": "clerk_rc",
+          "question": "Which word is MOST OPPOSITE in meaning to `CONFIDENT` as highlighted in the passage?",
+          "options": [
+            "Assured",
+            "Hesitant",
+            "Certain",
+            "Bold",
+            "Skilled"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Hesitant' (unsure/reluctant) is the opposite of 'Confident'."
+        },
+        {
+          "id": "e9",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "clerk_cloze",
+          "question": "Choose the most appropriate word for blank (9).",
+          "options": [
+            "harmful",
+            "effective",
+            "costly",
+            "complex",
+            "useless"
+          ],
+          "correctIndex": 1,
+          "explanation": "Brisk walking is one of the simplest yet most 'effective' health habits."
+        },
+        {
+          "id": "e10",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "clerk_cloze",
+          "question": "Choose the most appropriate word for blank (10).",
+          "options": [
+            "unused",
+            "crowded",
+            "rewarded",
+            "repaired",
+            "renewed"
+          ],
+          "correctIndex": 0,
+          "explanation": "Expensive gym memberships often go 'unused' after a few weeks."
+        },
+        {
+          "id": "e11",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "clerk_cloze",
+          "question": "Choose the most appropriate word for blank (11).",
+          "options": [
+            "increase",
+            "relieve",
+            "create",
+            "worsen",
+            "double"
+          ],
+          "correctIndex": 1,
+          "explanation": "Walking helps 'relieve' workplace stress."
+        },
+        {
+          "id": "e12",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "clerk_cloze",
+          "question": "Choose the most appropriate word for blank (12).",
+          "options": [
+            "restless",
+            "restorative",
+            "broken",
+            "noisy",
+            "brief"
+          ],
+          "correctIndex": 1,
+          "explanation": "Natural daylight leads to deeper and more 'restorative' sleep."
+        },
+        {
+          "id": "e13",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "clerk_cloze",
+          "question": "Choose the most appropriate word for blank (13).",
+          "options": [
+            "consistent",
+            "absent",
+            "confused",
+            "careless",
+            "exhausted"
+          ],
+          "correctIndex": 0,
+          "explanation": "Modest goals make it easier to stay 'consistent'."
+        },
+        {
+          "id": "e14",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "clerk_cloze",
+          "question": "Choose the most appropriate word for blank (14).",
+          "options": [
+            "burden",
+            "routine",
+            "regret",
+            "accident",
+            "obstacle"
+          ],
+          "correctIndex": 1,
+          "explanation": "'A lifelong routine' naturally concludes the passage on habits."
+        },
+        {
+          "id": "e15",
+          "topic": "Error Spotting",
+          "difficulty": "easy",
+          "question": "Find the grammatical error:\n`(A) Every candidate / (B) must bring / (C) their original / (D) admit card tomorrow. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 2,
+          "explanation": "In formal Indian banking exams, singular `Every candidate` takes singular possessive `his or her` (instead of plural `their`)."
+        },
+        {
+          "id": "e16",
+          "topic": "Error Spotting",
+          "difficulty": "easy",
+          "question": "Find the grammatical error:\n`(A) He is suffering / (B) with high fever / (C) since Monday / (D) afternoon. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 1,
+          "explanation": "`Suffer` takes the preposition `from` (`suffering from high fever`), not `with`."
+        },
+        {
+          "id": "e17",
+          "topic": "Error Spotting",
+          "difficulty": "easy",
+          "question": "Find the grammatical error:\n`(A) The teller counted / (B) all the crisp currency notes / (C) very careful / (D) before sealing the bundle. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 2,
+          "explanation": "An adverb is needed to modify `counted`: `very carefully` instead of `very careful`."
+        },
+        {
+          "id": "e18",
+          "topic": "Error Spotting",
+          "difficulty": "easy",
+          "question": "Find the grammatical error:\n`(A) Bread and butter / (B) are my favourite / (C) breakfast before / (D) leaving for office. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 1,
+          "explanation": "`Bread and butter` represents a single combined meal item and takes the singular verb `is`."
+        },
+        {
+          "id": "e19",
+          "topic": "Error Spotting",
+          "difficulty": "easy",
+          "question": "Find the grammatical error:\n`(A) The branch manager / (B) congratulated the clerk / (C) on achieving / (D) zero-error reconciliation. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 4,
+          "explanation": "`Congratulate someone on doing something` is completely correct (No error)."
+        },
+        {
+          "id": "e20",
+          "topic": "Misspelt Word",
+          "difficulty": "easy",
+          "question": "Identify the misspelt bold word:\n`The **customer** (A) submitted a **written** (B) **aplication** (C) for a **cheque** (D) book.`",
+          "options": [
+            "A (customer)",
+            "B (written)",
+            "C (aplication)",
+            "D (cheque)",
+            "All correct"
+          ],
+          "correctIndex": 2,
+          "explanation": "Correct spelling is `application` (double 'p')."
+        },
+        {
+          "id": "e21",
+          "topic": "Misspelt Word",
+          "difficulty": "easy",
+          "question": "Identify the misspelt bold word:\n`Please **verify** (A) the **benificiary** (B) account **number** (C) before **confirming** (D).`",
+          "options": [
+            "A (verify)",
+            "B (benificiary)",
+            "C (number)",
+            "D (confirming)",
+            "All correct"
+          ],
+          "correctIndex": 1,
+          "explanation": "Correct spelling is `beneficiary` (`bene` + `ficiary`)."
+        },
+        {
+          "id": "e22",
+          "topic": "Misspelt Word",
+          "difficulty": "easy",
+          "question": "Identify the misspelt bold word:\n`The **annual** (A) **audit** (B) report was **publishes** (C) on the **portal** (D).`",
+          "options": [
+            "A (annual)",
+            "B (audit)",
+            "C (publishes)",
+            "D (portal)",
+            "All correct"
+          ],
+          "correctIndex": 2,
+          "explanation": "Passive past tense requires `published` (`was published`)."
+        },
+        {
+          "id": "e23",
+          "topic": "Misspelt Word",
+          "difficulty": "easy",
+          "question": "Identify the misspelt bold word:\n`All **withdrawals** (A) above the **daily** (B) limit require **biometric** (C) **authorisation** (D).`",
+          "options": [
+            "A (withdrawals)",
+            "B (daily)",
+            "C (biometric)",
+            "D (authorisation)",
+            "All correct"
+          ],
+          "correctIndex": 4,
+          "explanation": "All four words are correctly spelt (British/Indian English `authorisation`)."
+        },
+        {
+          "id": "e24",
+          "topic": "Misspelt Word",
+          "difficulty": "easy",
+          "question": "Identify the misspelt bold word:\n`The **reciept** (A) clearly **displays** (B) the **reference** (C) **timestamp** (D).`",
+          "options": [
+            "A (reciept)",
+            "B (displays)",
+            "C (reference)",
+            "D (timestamp)",
+            "All correct"
+          ],
+          "correctIndex": 0,
+          "explanation": "Correct spelling is `receipt` (`i` before `e` except after `c`)."
+        },
+        {
+          "id": "e25",
+          "topic": "Single Filler",
+          "difficulty": "easy",
+          "question": "The new passbook printer operates much ______ than the older model.",
+          "options": [
+            "quiet",
+            "quieter",
+            "quietly",
+            "more quietly",
+            "quietest"
+          ],
+          "correctIndex": 3,
+          "explanation": "Comparative adverb modifying `operates` is `more quietly`."
+        },
+        {
+          "id": "e26",
+          "topic": "Single Filler",
+          "difficulty": "easy",
+          "question": "The teller politely asked the customer to ______ the deposit slip with a blue pen.",
+          "options": [
+            "fill out",
+            "fill off",
+            "fill at",
+            "fill by",
+            "fill over"
+          ],
+          "correctIndex": 0,
+          "explanation": "`Fill out` (or `fill in`) means to complete a form."
+        },
+        {
+          "id": "e27",
+          "topic": "Single Filler",
+          "difficulty": "easy",
+          "question": "Interest is credited to savings accounts ______ a quarterly basis.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by",
+            "from"
+          ],
+          "correctIndex": 1,
+          "explanation": "Standard idiom: `on a quarterly basis`."
+        },
+        {
+          "id": "e28",
+          "topic": "Sentence Rearrangement",
+          "difficulty": "easy",
+          "question": "Rearrange the segments (A–D) into a meaningful sentence:\n`(A) immediately notify / (B) if your debit card / (C) the bank helpline / (D) is misplaced or stolen`",
+          "options": [
+            "B-D-A-C",
+            "A-C-B-D",
+            "B-A-D-C",
+            "D-B-A-C",
+            "C-A-B-D"
+          ],
+          "correctIndex": 0,
+          "explanation": "'If your debit card (B) is misplaced or stolen (D), immediately notify (A) the bank helpline (C).'"
+        },
+        {
+          "id": "e29",
+          "topic": "Sentence Rearrangement",
+          "difficulty": "easy",
+          "question": "Rearrange the segments (A–D) into a meaningful sentence:\n`(A) for senior citizens / (B) public sector banks / (C) higher fixed-deposit rates / (D) generally offer`",
+          "options": [
+            "B-D-C-A",
+            "B-C-D-A",
+            "A-B-D-C",
+            "D-B-C-A",
+            "C-A-B-D"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Public sector banks (B) generally offer (D) higher fixed-deposit rates (C) for senior citizens (A).'"
+        },
+        {
+          "id": "e30",
+          "topic": "Word Swap",
+          "difficulty": "easy",
+          "question": "Choose the pair of bold words to swap so the sentence makes contextual sense:\n`Customers can **avoid** (A) automatic utility **payments** (B) to **schedule** (C) late **penalties** (D).`",
+          "options": [
+            "A-B",
+            "A-C",
+            "B-C",
+            "C-D",
+            "No swap required"
+          ],
+          "correctIndex": 1,
+          "explanation": "Swapping A and C gives: 'Customers can **schedule** automatic utility payments to **avoid** late penalties.'"
+        }
+      ]
+    },
+    {
+      "id": "numerical",
+      "name": "Numerical Ability",
+      "durationMinutes": 20,
+      "questions": [
+        {
+          "id": "q1",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$45\\% \\text{ of } 320 + 18 \\times 6 = ?$`",
+          "options": [
+            "242",
+            "248",
+            "252",
+            "256",
+            "262"
+          ],
+          "correctIndex": 2,
+          "explanation": "$0.45 \\times 320 + 108 = 144 + 108 = 252$."
+        },
+        {
+          "id": "q2",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$\\sqrt{784} + \\sqrt{441} - 19 = ?$`",
+          "options": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+          ],
+          "correctIndex": 1,
+          "explanation": "$28 + 21 - 19 = 30$."
+        },
+        {
+          "id": "q3",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$15^2 + 12^2 - 13^2 = ?$`",
+          "options": [
+            "190",
+            "195",
+            "200",
+            "205",
+            "210"
+          ],
+          "correctIndex": 2,
+          "explanation": "$225 + 144 - 169 = 200$."
+        },
+        {
+          "id": "q4",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$840 \\div 12 \\times 5 - 125 = ?$`",
+          "options": [
+            "215",
+            "220",
+            "225",
+            "230",
+            "235"
+          ],
+          "correctIndex": 2,
+          "explanation": "$70 \\times 5 - 125 = 350 - 125 = 225$."
+        },
+        {
+          "id": "q5",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$\\frac{3}{7} \\text{ of } 490 + \\frac{5}{8} \\text{ of } 240 = ?$`",
+          "options": [
+            "340",
+            "350",
+            "360",
+            "370",
+            "380"
+          ],
+          "correctIndex": 2,
+          "explanation": "$210 + 150 = 360$."
+        },
+        {
+          "id": "q6",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$25\\% \\text{ of } 640 + ?\\% \\text{ of } 200 = 250$`",
+          "options": [
+            "40",
+            "45",
+            "50",
+            "55",
+            "60"
+          ],
+          "correctIndex": 1,
+          "explanation": "$160 + 2x = 250 \\Rightarrow 2x = 90 \\Rightarrow x = 45$."
+        },
+        {
+          "id": "q7",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$\\sqrt[3]{1728} + \\sqrt{324} \\times 2 = ?$`",
+          "options": [
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+          ],
+          "correctIndex": 2,
+          "explanation": "$12 + 18 \\times 2 = 12 + 36 = 48$."
+        },
+        {
+          "id": "q8",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$36 \\times 15 - 18 \\times 12 = ?$`",
+          "options": [
+            "314",
+            "320",
+            "324",
+            "334",
+            "344"
+          ],
+          "correctIndex": 2,
+          "explanation": "$540 - 216 = 324$."
+        },
+        {
+          "id": "q9",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$60\\% \\text{ of } 450 - 35\\% \\text{ of } 400 = ?$`",
+          "options": [
+            "120",
+            "125",
+            "130",
+            "135",
+            "140"
+          ],
+          "correctIndex": 2,
+          "explanation": "$270 - 140 = 130$."
+        },
+        {
+          "id": "q10",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$(24 + 36) \\times (18 - 11) \\div 14 = ?$`",
+          "options": [
+            "25",
+            "28",
+            "30",
+            "32",
+            "35"
+          ],
+          "correctIndex": 2,
+          "explanation": "$60 \\times 7 \\div 14 = 420 \\div 14 = 30$."
+        },
+        {
+          "id": "q11",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$2^5 + 3^4 - 7^2 = ?$`",
+          "options": [
+            "60",
+            "62",
+            "64",
+            "66",
+            "68"
+          ],
+          "correctIndex": 2,
+          "explanation": "$32 + 81 - 49 = 64$."
+        },
+        {
+          "id": "q12",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Find the value of `?`:\n`$12.5\\% \\text{ of } 960 + 16\\frac{2}{3}\\% \\text{ of } 480 = ?$`",
+          "options": [
+            "180",
+            "190",
+            "200",
+            "210",
+            "220"
+          ],
+          "correctIndex": 2,
+          "explanation": "$\\frac{1}{8}(960) + \\frac{1}{6}(480) = 120 + 80 = 200$."
+        },
+        {
+          "id": "q13",
+          "topic": "Missing Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number:\n`12, 19, 33, 54, 82, ?`",
+          "options": [
+            "112",
+            "115",
+            "117",
+            "120",
+            "124"
+          ],
+          "correctIndex": 2,
+          "explanation": "Differences: $+7, +14, +21, +28, +35 \\Rightarrow 82 + 35 = 117$."
+        },
+        {
+          "id": "q14",
+          "topic": "Missing Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number:\n`4, 8, 24, 96, 480, ?`",
+          "options": [
+            "2400",
+            "2680",
+            "2880",
+            "2960",
+            "3120"
+          ],
+          "correctIndex": 2,
+          "explanation": "Multipliers $\\times 2, \\times 3, \\times 4, \\times 5, \\times 6$: $480 \\times 6 = 2880$."
+        },
+        {
+          "id": "q15",
+          "topic": "Missing Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number:\n`100, 96, 88, 76, 60, ?`",
+          "options": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "correctIndex": 2,
+          "explanation": "Differences: $-4, -8, -12, -16, -20 \\Rightarrow 60 - 20 = 40$."
+        },
+        {
+          "id": "q16",
+          "topic": "Missing Number Series",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`6, 7, 16, 51, 208, ?`",
+          "options": [
+            "1040",
+            "1045",
+            "1050",
+            "1055",
+            "1060"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pattern $\\times 1+1, \\times 2+2, \\times 3+3, \\times 4+4, \\times 5+5$: $208 \\times 5 + 5 = 1045$."
+        },
+        {
+          "id": "q17",
+          "topic": "Missing Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number:\n`13, 17, 25, 41, 73, ?`",
+          "options": [
+            "127",
+            "133",
+            "137",
+            "141",
+            "145"
+          ],
+          "correctIndex": 2,
+          "explanation": "Differences double: $+4, +8, +16, +32, +64 \\Rightarrow 73 + 64 = 137$."
+        },
+        {
+          "id": "q18",
+          "topic": "Data Interpretation (Table)",
+          "difficulty": "easy",
+          "passageId": "clerk_di",
+          "question": "What is the total number of **ACs** sold across all five cities combined?",
+          "options": [
+            "560",
+            "580",
+            "600",
+            "620",
+            "640"
+          ],
+          "correctIndex": 2,
+          "explanation": "AC total = $120 + 160 + 100 + 140 + 80 = 600$."
+        },
+        {
+          "id": "q19",
+          "topic": "Data Interpretation (Table)",
+          "difficulty": "easy",
+          "passageId": "clerk_di",
+          "question": "What is the ratio of total appliances sold in **Mumbai** to total appliances sold in **Pune**?",
+          "options": [
+            "7 : 5",
+            "8 : 5",
+            "9 : 5",
+            "4 : 3",
+            "5 : 3"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mumbai total = $160+140+200+300 = 800$. Pune total = $100+120+130+150 = 500$. Ratio = $8 : 5$."
+        },
+        {
+          "id": "q20",
+          "topic": "Data Interpretation (Table)",
+          "difficulty": "easy",
+          "passageId": "clerk_di",
+          "question": "What is the average number of **Fans** sold per city across all five cities?",
+          "options": [
+            "180",
+            "190",
+            "200",
+            "210",
+            "220"
+          ],
+          "correctIndex": 2,
+          "explanation": "Fan total = $250+300+150+180+120 = 1000$. Average = $1000 / 5 = 200$."
+        },
+        {
+          "id": "q21",
+          "topic": "Data Interpretation (Table)",
+          "difficulty": "easy",
+          "passageId": "clerk_di",
+          "question": "Total **TVs** sold in **Delhi and Mumbai** together are how many MORE than total **Fridges** sold in **Pune and Surat** together?",
+          "options": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150"
+          ],
+          "correctIndex": 2,
+          "explanation": "TV (Delhi+Mumbai) = $150+200 = 350$. Fridge (Pune+Surat) = $120+100 = 220$. Difference = $350 - 220 = 130$."
+        },
+        {
+          "id": "q22",
+          "topic": "Data Interpretation (Table)",
+          "difficulty": "easy",
+          "passageId": "clerk_di",
+          "question": "The number of **ACs** sold in **Surat** is what percent of the number of **Fans** sold in **Delhi**?",
+          "options": [
+            "28%",
+            "30%",
+            "32%",
+            "35%",
+            "40%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Surat AC = 80, Delhi Fan = 250. Percentage = $\\frac{80}{250} \\times 100 = 32\\%$."
+        },
+        {
+          "id": "q23",
+          "topic": "Quadratic Equations",
+          "difficulty": "easy",
+          "question": "Compare $x$ and $y$:\nI. $x^2 - 8x + 15 = 0$\nII. $y^2 - 12y + 35 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 3,
+          "explanation": "I: $x = 3, 5$. II: $y = 5, 7$. Hence $x \\le y$."
+        },
+        {
+          "id": "q24",
+          "topic": "Quadratic Equations",
+          "difficulty": "easy",
+          "question": "Compare $x$ and $y$:\nI. $x^2 - 5x + 6 = 0$\nII. $y^2 - 9y + 20 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 1,
+          "explanation": "I: $x = 2, 3$. II: $y = 4, 5$. Hence $x < y$."
+        },
+        {
+          "id": "q25",
+          "topic": "Quadratic Equations",
+          "difficulty": "easy",
+          "question": "Compare $x$ and $y$:\nI. $x^2 = 64$\nII. $y^2 + 16y + 64 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 2,
+          "explanation": "I: $x = +8, -8$. II: $(y+8)^2 = 0 \\Rightarrow y = -8$. Hence $x \\ge y$."
+        },
+        {
+          "id": "q26",
+          "topic": "Simple Interest",
+          "difficulty": "easy",
+          "question": "Find the simple interest earned on ₹7,500 at 6% per annum for 4 years.",
+          "options": [
+            "₹1,600",
+            "₹1,700",
+            "₹1,800",
+            "₹1,900",
+            "₹2,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "$\\text{SI} = \\frac{7500 \\times 6 \\times 4}{100} = 75 \\times 24 = ₹1,800$."
+        },
+        {
+          "id": "q27",
+          "topic": "Profit & Loss",
+          "difficulty": "easy",
+          "question": "A wrist-watch purchased for ₹1,600 is sold at a profit of 15%. What is its selling price?",
+          "options": [
+            "₹1,760",
+            "₹1,800",
+            "₹1,840",
+            "₹1,880",
+            "₹1,920"
+          ],
+          "correctIndex": 2,
+          "explanation": "SP = $1600 \\times 1.15 = ₹1,840$."
+        },
+        {
+          "id": "q28",
+          "topic": "Time & Work",
+          "difficulty": "easy",
+          "question": "A completes a work in 15 days and B completes it in 10 days. Working together, how many days will they take?",
+          "options": [
+            "4 days",
+            "5 days",
+            "6 days",
+            "7 days",
+            "8 days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Time = $\\frac{15 \\times 10}{15 + 10} = \\frac{150}{25} = 6$ days."
+        },
+        {
+          "id": "q29",
+          "topic": "Boats & Streams",
+          "difficulty": "easy",
+          "question": "A boat moves at 12 km/h in still water and the stream flows at 3 km/h. How far will the boat go upstream in 4 hours?",
+          "options": [
+            "32 km",
+            "36 km",
+            "40 km",
+            "48 km",
+            "60 km"
+          ],
+          "correctIndex": 1,
+          "explanation": "Upstream speed = $12 - 3 = 9\\text{ km/h}$. Distance in 4 hrs = $9 \\times 4 = 36\\text{ km}$."
+        },
+        {
+          "id": "q30",
+          "topic": "Ages",
+          "difficulty": "easy",
+          "question": "Present ages of Ritu and Sonal are in the ratio $3 : 4$. Five years later, the ratio becomes $4 : 5$. What is Ritu's present age?",
+          "options": [
+            "12 years",
+            "15 years",
+            "18 years",
+            "20 years",
+            "24 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "1 ratio unit = 5 years ⇒ Ritu = $3 \\times 5 = 15$ years."
+        },
+        {
+          "id": "q31",
+          "topic": "Percentage",
+          "difficulty": "easy",
+          "question": "A salary of ₹25,000 is first increased by 10% and then increased again by 20%. What is the final salary?",
+          "options": [
+            "₹32,000",
+            "₹32,500",
+            "₹33,000",
+            "₹33,500",
+            "₹34,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "$25000 \\times 1.10 \\times 1.20 = 25000 \\times 1.32 = ₹33,000$."
+        },
+        {
+          "id": "q32",
+          "topic": "Trains",
+          "difficulty": "easy",
+          "question": "A 160 m long train travelling at 72 km/h crosses a signal post in how many seconds?",
+          "options": [
+            "6 seconds",
+            "7 seconds",
+            "8 seconds",
+            "9 seconds",
+            "10 seconds"
+          ],
+          "correctIndex": 2,
+          "explanation": "Speed = $72 \\times \\frac{5}{18} = 20\\text{ m/s}$. Time = $160 / 20 = 8$ seconds."
+        },
+        {
+          "id": "q33",
+          "topic": "Mixture",
+          "difficulty": "easy",
+          "question": "In 40 litres of a milk-water mixture, the ratio of milk to water is $3 : 1$. How many litres of water are present in the mixture?",
+          "options": [
+            "8 litres",
+            "10 litres",
+            "12 litres",
+            "15 litres",
+            "20 litres"
+          ],
+          "correctIndex": 1,
+          "explanation": "Water = $\\frac{1}{4} \\times 40 = 10$ litres."
+        },
+        {
+          "id": "q34",
+          "topic": "Mensuration 2D",
+          "difficulty": "easy",
+          "question": "The side of a square is 14 cm. What is the area of the largest circle inscribed inside this square ($\\pi = \\frac{22}{7}$)?",
+          "options": [
+            "$144\\text{ cm}^2$",
+            "$150\\text{ cm}^2$",
+            "$154\\text{ cm}^2$",
+            "$164\\text{ cm}^2$",
+            "$196\\text{ cm}^2$"
+          ],
+          "correctIndex": 2,
+          "explanation": "Diameter = 14 cm ⇒ radius = 7 cm. Area = $\\frac{22}{7} \\times 7 \\times 7 = 154\\text{ cm}^2$."
+        },
+        {
+          "id": "q35",
+          "topic": "Partnership",
+          "difficulty": "easy",
+          "question": "X and Y invest ₹20,000 and ₹30,000 respectively for the same duration. Out of a total profit of ₹15,000, what is Y's share?",
+          "options": [
+            "₹6,000",
+            "₹7,500",
+            "₹8,000",
+            "₹9,000",
+            "₹10,000"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ratio = $2 : 3$. Y's share = $\\frac{3}{5} \\times 15000 = ₹9,000$."
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning Ability",
+      "durationMinutes": 20,
+      "questions": [
+        {
+          "id": "r1",
+          "topic": "Circular Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p1",
+          "question": "Who sits directly **opposite to E**?",
+          "options": [
+            "F",
+            "D",
+            "G",
+            "H",
+            "C"
+          ],
+          "correctIndex": 0,
+          "explanation": "Counter-clockwise (moving right): A → E → C → G → B → F → D → H. Opposite pairs: A↔B, **E↔F**, C↔D, G↔H."
+        },
+        {
+          "id": "r2",
+          "topic": "Circular Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p1",
+          "question": "Who sits **second to the left of A**?",
+          "options": [
+            "H",
+            "D",
+            "F",
+            "C",
+            "G"
+          ],
+          "correctIndex": 1,
+          "explanation": "Moving left from A: 1st is H, 2nd is **D**."
+        },
+        {
+          "id": "r3",
+          "topic": "Circular Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p1",
+          "question": "Who sits directly **opposite to G**?",
+          "options": [
+            "C",
+            "D",
+            "H",
+            "E",
+            "F"
+          ],
+          "correctIndex": 2,
+          "explanation": "Opposite pairs: A↔B, E↔F, C↔D, **G↔H**."
+        },
+        {
+          "id": "r4",
+          "topic": "Circular Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p1",
+          "question": "Who sits immediately to the **left of B**?",
+          "options": [
+            "F",
+            "G",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 1,
+          "explanation": "In right-order ...→ G → B → F →..., immediately left of B is **G**."
+        },
+        {
+          "id": "r5",
+          "topic": "Circular Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p1",
+          "question": "How many persons sit between **E** and **B** when counted from the right of E?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 1,
+          "explanation": "Moving right from E: **C and G** sit between E and B (2 persons)."
+        },
+        {
+          "id": "r6",
+          "topic": "Floor Puzzle",
+          "difficulty": "easy",
+          "passageId": "clerk_p2",
+          "question": "Who lives on **Floor 2**?",
+          "options": [
+            "T",
+            "R",
+            "U",
+            "P",
+            "V"
+          ],
+          "correctIndex": 1,
+          "explanation": "Floors (7 down to 1): 7-S, 6-P, 5-U, 4-Q, 3-T, 2-**R**, 1-V."
+        },
+        {
+          "id": "r7",
+          "topic": "Floor Puzzle",
+          "difficulty": "easy",
+          "passageId": "clerk_p2",
+          "question": "How many persons live between **P** and **T**?",
+          "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Between P (Floor 6) and T (Floor 3) live **U (5) and Q (4)** — 2 persons."
+        },
+        {
+          "id": "r8",
+          "topic": "Floor Puzzle",
+          "difficulty": "easy",
+          "passageId": "clerk_p2",
+          "question": "Which floor does **U** live on?",
+          "options": [
+            "Floor 2",
+            "Floor 3",
+            "Floor 5",
+            "Floor 6",
+            "Floor 7"
+          ],
+          "correctIndex": 2,
+          "explanation": "U lives immediately above Q (Floor 4) ⇒ **Floor 5**."
+        },
+        {
+          "id": "r9",
+          "topic": "Floor Puzzle",
+          "difficulty": "easy",
+          "passageId": "clerk_p2",
+          "question": "Who lives immediately **above R**?",
+          "options": [
+            "V",
+            "T",
+            "Q",
+            "U",
+            "P"
+          ],
+          "correctIndex": 1,
+          "explanation": "**T (Floor 3)** lives immediately above R (Floor 2)."
+        },
+        {
+          "id": "r10",
+          "topic": "Floor Puzzle",
+          "difficulty": "easy",
+          "passageId": "clerk_p2",
+          "question": "Four of the following five live on odd-numbered floors. Who is the odd one out?",
+          "options": [
+            "S",
+            "U",
+            "T",
+            "V",
+            "P"
+          ],
+          "correctIndex": 4,
+          "explanation": "S(7), U(5), T(3), V(1) live on odd floors; **P(6)** lives on an even floor."
+        },
+        {
+          "id": "r11",
+          "topic": "Linear Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p3",
+          "question": "Who sits immediately to the **left of O**?",
+          "options": [
+            "P",
+            "L",
+            "M",
+            "J",
+            "N"
+          ],
+          "correctIndex": 1,
+          "explanation": "Row L-to-R: K – N – J – M – P – **L** – O."
+        },
+        {
+          "id": "r12",
+          "topic": "Linear Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p3",
+          "question": "How many friends sit between **N** and **L**?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 2,
+          "explanation": "Between N(2nd) and L(6th) sit **J, M, and P** — **Three** friends."
+        },
+        {
+          "id": "r13",
+          "topic": "Linear Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p3",
+          "question": "What is the position of **P** with respect to **K**?",
+          "options": [
+            "Second to the right",
+            "Third to the right",
+            "Fourth to the right",
+            "Fifth to the right",
+            "Immediate right"
+          ],
+          "correctIndex": 2,
+          "explanation": "K is 1st and P is 5th ($5 - 1 = 4$), so P is **fourth to the right** of K."
+        },
+        {
+          "id": "r14",
+          "topic": "Linear Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p3",
+          "question": "Who sits **second to the left of P**?",
+          "options": [
+            "N",
+            "J",
+            "M",
+            "K",
+            "L"
+          ],
+          "correctIndex": 1,
+          "explanation": "P is 5th; 2nd to the left is 3rd = **J**."
+        },
+        {
+          "id": "r15",
+          "topic": "Linear Seating",
+          "difficulty": "easy",
+          "passageId": "clerk_p3",
+          "question": "Who sits immediately between **J** and **P**?",
+          "options": [
+            "N",
+            "L",
+            "M",
+            "K",
+            "O"
+          ],
+          "correctIndex": 2,
+          "explanation": "**M** sits at the centre immediately between J and P."
+        },
+        {
+          "id": "r16",
+          "topic": "Alphanumeric Series",
+          "difficulty": "easy",
+          "passageId": "clerk_alpha",
+          "question": "How many such **numbers** are there in the arrangement each of which is immediately preceded by a **letter** and immediately followed by a **symbol**?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "correctIndex": 3,
+          "explanation": "Matching triplets (Letter-Number-Symbol): `M7@`, `R2$`, `W3&`, `D6!`, `H1^` — exactly **Five**."
+        },
+        {
+          "id": "r17",
+          "topic": "Alphanumeric Series",
+          "difficulty": "easy",
+          "passageId": "clerk_alpha",
+          "question": "Which element is **6th to the left** of the **15th element from the left end**?",
+          "options": [
+            "R",
+            "2",
+            "$",
+            "#",
+            "T"
+          ],
+          "correctIndex": 1,
+          "explanation": "Left + Left = subtract: $15 - 6 = 9\\text{th}$ from the left end, which is `2`."
+        },
+        {
+          "id": "r18",
+          "topic": "Alphanumeric Series",
+          "difficulty": "medium",
+          "passageId": "clerk_alpha",
+          "question": "If all the **symbols** are dropped from the arrangement, which element will be **8th from the right end**?",
+          "options": [
+            "P",
+            "8",
+            "W",
+            "3",
+            "5"
+          ],
+          "correctIndex": 1,
+          "explanation": "Remaining sequence (18 items): `M 7 K 4 9 R 2 T 5 P 8 W 3 D 6 H 1 L`. Counting 8 from right: L(1), 1(2), H(3), 6(4), D(5), 3(6), W(7), **8(8)**."
+        },
+        {
+          "id": "r19",
+          "topic": "Alphanumeric Series",
+          "difficulty": "easy",
+          "passageId": "clerk_alpha",
+          "question": "What is the **sum of all numbers** lying between `@` and `&` in the given arrangement?",
+          "options": [
+            "28",
+            "30",
+            "31",
+            "33",
+            "35"
+          ],
+          "correctIndex": 2,
+          "explanation": "Numbers between `@` and `&`: $4 + 9 + 2 + 5 + 8 + 3 = 31$."
+        },
+        {
+          "id": "r20",
+          "topic": "Alphanumeric Series",
+          "difficulty": "easy",
+          "passageId": "clerk_alpha",
+          "question": "How many **letters** are immediately preceded by a **symbol** in the arrangement?",
+          "options": [
+            "Four",
+            "Five",
+            "Six",
+            "Seven",
+            "Three"
+          ],
+          "correctIndex": 2,
+          "explanation": "Symbol-Letter pairs: `@K`, `#R`, `$T`, `&D`, `!H`, `^L` — **Six** letters (`%8` is a number)."
+        },
+        {
+          "id": "r21",
+          "topic": "Substitution Coding",
+          "difficulty": "easy",
+          "passageId": "clerk_code",
+          "question": "What is the code for the word `transfer`?",
+          "options": [
+            "li",
+            "ra",
+            "ve",
+            "ti",
+            "nu"
+          ],
+          "correctIndex": 1,
+          "explanation": "`transfer` is common to sentences 2 and 4; common code = `ra`."
+        },
+        {
+          "id": "r22",
+          "topic": "Substitution Coding",
+          "difficulty": "easy",
+          "passageId": "clerk_code",
+          "question": "What is the code for the word `mode`?",
+          "options": [
+            "ka",
+            "li",
+            "ve",
+            "po",
+            "nu"
+          ],
+          "correctIndex": 3,
+          "explanation": "In sentence 3: digital=`ka`, bank=`li`, instant=`ve`, so remaining `mode` = `po`."
+        },
+        {
+          "id": "r23",
+          "topic": "Substitution Coding",
+          "difficulty": "easy",
+          "passageId": "clerk_code",
+          "question": "What does the code `nu` stand for?",
+          "options": [
+            "payment",
+            "instant",
+            "online",
+            "bank",
+            "digital"
+          ],
+          "correctIndex": 2,
+          "explanation": "In sentence 4: instant=`ve`, payment=`ti`, transfer=`ra`, leaving `online` = `nu`."
+        },
+        {
+          "id": "r24",
+          "topic": "Substitution Coding",
+          "difficulty": "medium",
+          "passageId": "clerk_code",
+          "question": "What is the code for `secure`?",
+          "options": [
+            "mo",
+            "su",
+            "Either mo or su",
+            "li",
+            "ka"
+          ],
+          "correctIndex": 2,
+          "explanation": "`secure` and `fast` both appear only in sentences 1 & 2, so `secure` is coded as **Either mo or su**."
+        },
+        {
+          "id": "r25",
+          "topic": "Substitution Coding",
+          "difficulty": "easy",
+          "passageId": "clerk_code",
+          "question": "What will be the code for `digital bank online`?",
+          "options": [
+            "ka li nu",
+            "ka ti nu",
+            "li ve nu",
+            "ka po nu",
+            "ra li nu"
+          ],
+          "correctIndex": 0,
+          "explanation": "digital = `ka`, bank = `li`, online = `nu` ⇒ `ka li nu`."
+        },
+        {
+          "id": "r26",
+          "topic": "Syllogism",
+          "difficulty": "easy",
+          "question": "Statements:\n1. All files are folders.\n2. Some folders are archives.\n\nConclusions:\nI. Some folders are files.\nII. All files are archives.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "correctIndex": 0,
+          "explanation": "Conversion of Statement 1 gives I (`Some folders are files`). II does not follow."
+        },
+        {
+          "id": "r27",
+          "topic": "Syllogism",
+          "difficulty": "easy",
+          "question": "Statements:\n1. Only a few cheques are drafts.\n2. All drafts are vouchers.\n\nConclusions:\nI. Some cheques are vouchers.\nII. Some cheques are not drafts.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 4,
+          "explanation": "'Only a few cheques are drafts' implies both 'Some cheques are drafts' (hence Some cheques are vouchers → I) and 'Some cheques are not drafts' (→ II). Both follow."
+        },
+        {
+          "id": "r28",
+          "topic": "Syllogism",
+          "difficulty": "easy",
+          "question": "Statements:\n1. No pen is ink.\n2. All ink are blue.\n\nConclusions:\nI. Some blue are not pens.\nII. No pen is blue.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "correctIndex": 0,
+          "explanation": "The blue that is ink cannot be pens ⇒ I follows. Pens could still overlap with non-ink blue ⇒ II fails."
+        },
+        {
+          "id": "r29",
+          "topic": "Syllogism",
+          "difficulty": "easy",
+          "question": "Statements:\n1. All coins are metal.\n2. No metal is plastic.\n\nConclusions:\nI. No coin is plastic.\nII. Some metal are coins.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 4,
+          "explanation": "Since Coins ⊂ Metal and Metal ∩ Plastic = ∅, no coin is plastic (I) and some metal are coins (II). Both follow."
+        },
+        {
+          "id": "r30",
+          "topic": "Inequality",
+          "difficulty": "easy",
+          "question": "Statement: `D < E ≤ F = G < H`\n\nConclusions:\nI. `H > E`\nII. `D < G`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both I and II are true"
+          ],
+          "correctIndex": 4,
+          "explanation": "`E ≤ F = G < H` ⇒ `H > E` (I); `D < E ≤ F = G` ⇒ `D < G` (II). Both are true."
+        },
+        {
+          "id": "r31",
+          "topic": "Inequality",
+          "difficulty": "easy",
+          "question": "Statement: `P ≥ Q > R < S ≤ T`\n\nConclusions:\nI. `P > R`\nII. `T > Q`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both are true"
+          ],
+          "correctIndex": 0,
+          "explanation": "`P ≥ Q > R` ⇒ `P > R` (I true). Opposing signs between Q and T ⇒ II false."
+        },
+        {
+          "id": "r32",
+          "topic": "Inequality",
+          "difficulty": "easy",
+          "question": "Statement: `A ≤ B = C ≤ D`\n\nConclusions:\nI. `D > A`\nII. `D = A`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both are true"
+          ],
+          "correctIndex": 2,
+          "explanation": "`D ≥ A` splits into `D > A` or `D = A` ⇒ **Either I or II is true**."
+        },
+        {
+          "id": "r33",
+          "topic": "Blood Relations",
+          "difficulty": "easy",
+          "question": "Pointing to a woman, Ajay said, \"She is the daughter of my father's only sister.\" How is that woman related to Ajay?",
+          "options": [
+            "Sister",
+            "Cousin",
+            "Aunt",
+            "Niece",
+            "Mother"
+          ],
+          "correctIndex": 1,
+          "explanation": "Father's sister is Ajay's aunt; aunt's daughter is Ajay's **Cousin**."
+        },
+        {
+          "id": "r34",
+          "topic": "Direction Sense",
+          "difficulty": "easy",
+          "question": "Riya walks 5 m East, turns left and walks 12 m North. What is the shortest distance between her starting point and ending point?",
+          "options": [
+            "11 m",
+            "13 m",
+            "15 m",
+            "17 m",
+            "14 m"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = 13\\text{ m}$."
+        },
+        {
+          "id": "r35",
+          "topic": "Order & Ranking",
+          "difficulty": "easy",
+          "question": "Among five friends P, Q, R, S, and T of different heights, P is taller than only T. R is taller than S but shorter than Q. Who is the **second tallest**?",
+          "options": [
+            "Q",
+            "R",
+            "S",
+            "P",
+            "T"
+          ],
+          "correctIndex": 1,
+          "explanation": "Descending height order: `Q > R > S > P > T`. Second tallest is **R**."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1453 @@
+{
+  "title": "SSC CHSL (10+2) Tier-I — Full-Length CBT Mock Paper",
+  "subtitle": "100 Questions • 60 Minutes • 200 Marks • Official +2 / -0.50 Marking",
+  "category": "SSC",
+  "description": "Exact full-length SSC Combined Higher Secondary Level (10+2) Tier-I CBT replica modelled on 2023–2024 Tier-I papers: 100 objective MCQs across English Language (25), General Intelligence (25), Quantitative Aptitude (25), and General Awareness (25) in 60 minutes.",
+  "durationMinutes": 60,
+  "sectionalTiming": false,
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.5,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact SSC CHSL (10+2) Tier-I pattern: 4 sections × 25 questions = 100 questions (200 maximum marks) in 60 minutes.",
+    "Official marking scheme: +2 marks for each correct answer, -0.50 marks penalty for each wrong answer, and 0 for unattempted questions.",
+    "Free navigation across all four sections is enabled throughout the 60-minute composite duration."
+  ],
+  "passages": {
+    "chsl_cloze_1": {
+      "title": "Cloze Test — Questions 21 to 25 (English Language)",
+      "content": "Read the following passage carefully and choose the most appropriate word for each blank.\n\nPublic libraries have long served as democratic pillars of lifelong learning. In an era dominated by short-form digital feeds, quiet reading halls __(1)__ students and citizens a rare sanctuary for deep concentration. Modern community libraries are no longer __(2)__ to dusty bookshelves; they now provide high-speed internet terminals, competitive exam archives, and Braille collections for __(3)__ readers. By investing steadily __(4)__ neighbourhood libraries, state governments can bridge educational divides and nurture an __(5)__ electorate."
+    }
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Language",
+      "questions": [
+        {
+          "id": "e1",
+          "topic": "Synonyms",
+          "difficulty": "easy",
+          "question": "Select the most appropriate SYNONYM of the given word: `PRUDENT`",
+          "options": [
+            "Reckless",
+            "Wise",
+            "Arrogant",
+            "Clumsy"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Prudent' means acting with or showing care and thought for the future; wise and judicious."
+        },
+        {
+          "id": "e2",
+          "topic": "Antonyms",
+          "difficulty": "easy",
+          "question": "Select the most appropriate ANTONYM of the given word: `ABUNDANT`",
+          "options": [
+            "Plentiful",
+            "Scarce",
+            "Copious",
+            "Ample"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Abundant' means existing in large quantities; its antonym is 'Scarce'."
+        },
+        {
+          "id": "e3",
+          "topic": "One-Word Substitution",
+          "difficulty": "easy",
+          "question": "Select the one-word substitute for:\n`A life history of a person written by that person himself`",
+          "options": [
+            "Biography",
+            "Autobiography",
+            "Calligraphy",
+            "Bibliography"
+          ],
+          "correctIndex": 1,
+          "explanation": "An 'Autobiography' is a self-written account of one's own life."
+        },
+        {
+          "id": "e4",
+          "topic": "Idioms & Phrases",
+          "difficulty": "medium",
+          "question": "Select the most appropriate meaning of the idiom:\n`Once in a blue moon`",
+          "options": [
+            "Very frequently",
+            "Very rarely",
+            "Under moonlight",
+            "Without warning"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Once in a blue moon' means something that happens very rarely."
+        },
+        {
+          "id": "e5",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment that contains a grammatical error:\n`She is senior / than me / by three years / in this department.`",
+          "options": [
+            "She is senior",
+            "than me",
+            "by three years",
+            "in this department"
+          ],
+          "correctIndex": 1,
+          "explanation": "Latin comparatives like senior, junior, superior, inferior, and prior take 'to', not 'than': `senior to me`."
+        },
+        {
+          "id": "e6",
+          "topic": "Fill in the Blanks",
+          "difficulty": "easy",
+          "question": "The suspect was acquitted ______ all charges due to lack of credible evidence.",
+          "options": [
+            "from",
+            "of",
+            "with",
+            "by"
+          ],
+          "correctIndex": 1,
+          "explanation": "The standard legal collocation is `acquitted of` charges."
+        },
+        {
+          "id": "e7",
+          "topic": "Spelling Detection",
+          "difficulty": "easy",
+          "question": "Select the INCORRECTLY spelt word.",
+          "options": [
+            "Committee",
+            "Questionnaire",
+            "Millenium",
+            "Privilege"
+          ],
+          "correctIndex": 2,
+          "explanation": "The correct spelling is `Millennium` (double 'l' and double 'n')."
+        },
+        {
+          "id": "e8",
+          "topic": "Active & Passive Voice",
+          "difficulty": "medium",
+          "question": "Select the correct passive form:\n`Did the postman deliver the registered parcel yesterday?`",
+          "options": [
+            "Was the registered parcel delivered by the postman yesterday?",
+            "Were the registered parcel delivered by the postman yesterday?",
+            "Has the registered parcel been delivered by the postman yesterday?",
+            "Is the registered parcel delivered by the postman yesterday?"
+          ],
+          "correctIndex": 0,
+          "explanation": "Simple Past Interrogative (`Did + S + V1`) becomes `Was/Were + O + V3` in Passive voice."
+        },
+        {
+          "id": "e9",
+          "topic": "Direct & Indirect Speech",
+          "difficulty": "medium",
+          "question": "Convert into indirect speech:\n`Ramesh said, \"I am preparing for the CHSL examination.\"`",
+          "options": [
+            "Ramesh said that he is preparing for the CHSL examination.",
+            "Ramesh said that he was preparing for the CHSL examination.",
+            "Ramesh told that I was preparing for the CHSL examination.",
+            "Ramesh said that he had been preparing for the CHSL examination."
+          ],
+          "correctIndex": 1,
+          "explanation": "Reporting verb in past tense shifts Present Continuous (`am preparing`) to Past Continuous (`was preparing`)."
+        },
+        {
+          "id": "e10",
+          "topic": "Sentence Improvement",
+          "difficulty": "medium",
+          "question": "Improve the bracketed part:\n`No sooner did the bell ring (when) the students rushed out of the hall.`",
+          "options": [
+            "than",
+            "then",
+            "while",
+            "No improvement"
+          ],
+          "correctIndex": 0,
+          "explanation": "`No sooner` is always followed by `than`."
+        },
+        {
+          "id": "e11",
+          "topic": "Idioms & Phrases",
+          "difficulty": "medium",
+          "question": "Select the meaning of the idiom:\n`Spill the beans`",
+          "options": [
+            "To waste food",
+            "To reveal a secret prematurely",
+            "To start farming",
+            "To make a mess in the kitchen"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Spill the beans' means to disclose secret or confidential information unintentionally or prematurely."
+        },
+        {
+          "id": "e12",
+          "topic": "One-Word Substitution",
+          "difficulty": "medium",
+          "question": "Select the one-word substitute for:\n`A place where birds are kept`",
+          "options": [
+            "Apiary",
+            "Aviary",
+            "Aquarium",
+            "Sanctuary"
+          ],
+          "correctIndex": 1,
+          "explanation": "An `Aviary` is a large enclosure for keeping birds (whereas an `Apiary` is for bees)."
+        },
+        {
+          "id": "e13",
+          "topic": "Synonyms",
+          "difficulty": "medium",
+          "question": "Select the most appropriate SYNONYM of: `CANDID`",
+          "options": [
+            "Deceptive",
+            "Frank",
+            "Timid",
+            "Vague"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Candid' means truthful, straightforward, and frank."
+        },
+        {
+          "id": "e14",
+          "topic": "Antonyms",
+          "difficulty": "medium",
+          "question": "Select the most appropriate ANTONYM of: `OPTIMISTIC`",
+          "options": [
+            "Hopeful",
+            "Cheerful",
+            "Pessimistic",
+            "Confident"
+          ],
+          "correctIndex": 2,
+          "explanation": "The direct opposite of 'Optimistic' (hopeful) is 'Pessimistic' (expecting the worst)."
+        },
+        {
+          "id": "e15",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`One of my closest friend / has been selected / for the national / scholarship programme.`",
+          "options": [
+            "One of my closest friend",
+            "has been selected",
+            "for the national",
+            "scholarship programme"
+          ],
+          "correctIndex": 0,
+          "explanation": "`One of + plural noun` is required: `One of my closest friends`."
+        },
+        {
+          "id": "e16",
+          "topic": "Para Jumbles",
+          "difficulty": "medium",
+          "question": "Rearrange the segments to form a meaningful sentence:\nP. of solar micro-grids\nQ. has transformed rural\nR. the rapid deployment\nS. livelihoods across India",
+          "options": [
+            "R-P-Q-S",
+            "P-R-Q-S",
+            "Q-S-R-P",
+            "R-Q-P-S"
+          ],
+          "correctIndex": 0,
+          "explanation": "'The rapid deployment (R) of solar micro-grids (P) has transformed rural (Q) livelihoods across India (S).'"
+        },
+        {
+          "id": "e17",
+          "topic": "Fill in the Blanks",
+          "difficulty": "medium",
+          "question": "Despite facing severe financial ______, the young inventor completed her prototype on schedule.",
+          "options": [
+            "prosperity",
+            "constraints",
+            "applause",
+            "privileges"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Despite' introduces a contrast, so 'financial constraints' (limitations) fits logically."
+        },
+        {
+          "id": "e18",
+          "topic": "Spelling Detection",
+          "difficulty": "medium",
+          "question": "Select the CORRECTLY spelt word.",
+          "options": [
+            "Suveillance",
+            "Surveilance",
+            "Surveillance",
+            "Servelliance"
+          ],
+          "correctIndex": 2,
+          "explanation": "`Surveillance` (sur + veil + lance) is the correct spelling."
+        },
+        {
+          "id": "e19",
+          "topic": "Sentence Improvement",
+          "difficulty": "medium",
+          "question": "Substitute the bracketed segment:\n`If I (was) you, I would accept the transfer order immediately.`",
+          "options": [
+            "am",
+            "were",
+            "have been",
+            "No substitution required"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hypothetical/subjunctive conditional sentences use `were` for all subjects: `If I were you`."
+        },
+        {
+          "id": "e20",
+          "topic": "Active & Passive Voice",
+          "difficulty": "easy",
+          "question": "Select the passive form of the imperative sentence:\n`Switch off the fans before leaving.`",
+          "options": [
+            "Let the fans be switched off before leaving.",
+            "The fans are switched off before leaving.",
+            "Let the fans switched off before leaving.",
+            "You were told to switch off the fans before leaving."
+          ],
+          "correctIndex": 0,
+          "explanation": "Imperative sentences follow `Let + object + be + V3`: `Let the fans be switched off before leaving.`"
+        },
+        {
+          "id": "e21",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "chsl_cloze_1",
+          "question": "Select the most appropriate option for blank (1).",
+          "options": [
+            "deny",
+            "offer",
+            "forbid",
+            "prevent"
+          ],
+          "correctIndex": 1,
+          "explanation": "Quiet reading halls 'offer' students and citizens a sanctuary for deep concentration."
+        },
+        {
+          "id": "e22",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "chsl_cloze_1",
+          "question": "Select the most appropriate option for blank (2).",
+          "options": [
+            "confined",
+            "expanded",
+            "opened",
+            "linked"
+          ],
+          "correctIndex": 0,
+          "explanation": "'No longer confined to dusty bookshelves' means not limited solely to print books."
+        },
+        {
+          "id": "e23",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "chsl_cloze_1",
+          "question": "Select the most appropriate option for blank (3).",
+          "options": [
+            "visually impaired",
+            "financially wealthy",
+            "physically distant",
+            "socially isolated"
+          ],
+          "correctIndex": 0,
+          "explanation": "Braille collections specifically serve 'visually impaired' readers."
+        },
+        {
+          "id": "e24",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "chsl_cloze_1",
+          "question": "Select the most appropriate option for blank (4).",
+          "options": [
+            "on",
+            "in",
+            "over",
+            "upon"
+          ],
+          "correctIndex": 1,
+          "explanation": "The verb 'invest' takes the preposition 'in' (`investing steadily in neighbourhood libraries`)."
+        },
+        {
+          "id": "e25",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "chsl_cloze_1",
+          "question": "Select the most appropriate option for blank (5).",
+          "options": [
+            "ignorant",
+            "informed",
+            "indifferent",
+            "hesitant"
+          ],
+          "correctIndex": 1,
+          "explanation": "Libraries nurture an 'informed' electorate."
+        }
+      ]
+    },
+    {
+      "id": "intelligence",
+      "name": "General Intelligence",
+      "questions": [
+        {
+          "id": "r1",
+          "topic": "Word Analogy",
+          "difficulty": "easy",
+          "question": "`Ammeter : Electric Current :: Barometer : ?`",
+          "options": [
+            "Humidity",
+            "Atmospheric Pressure",
+            "Wind Speed",
+            "Earthquake Intensity"
+          ],
+          "correctIndex": 1,
+          "explanation": "An Ammeter measures electric current; a Barometer measures atmospheric pressure."
+        },
+        {
+          "id": "r2",
+          "topic": "Number Series",
+          "difficulty": "easy",
+          "question": "Find the next term in the series:\n`4, 9, 19, 39, 79, ?`",
+          "options": [
+            "149",
+            "159",
+            "169",
+            "179"
+          ],
+          "correctIndex": 1,
+          "explanation": "Each term follows $2n + 1$: $79 \\times 2 + 1 = 159$."
+        },
+        {
+          "id": "r3",
+          "topic": "Coding-Decoding",
+          "difficulty": "medium",
+          "question": "In a certain code language, `DELHI` is written as `CCIDD`. How is `BOMBAY` written in that code?",
+          "options": [
+            "AJMTVT",
+            "AMJXVS",
+            "MJXVSU",
+            "WXYZAB"
+          ],
+          "correctIndex": 1,
+          "explanation": "Letters shift backward by -1, -2, -3, -4, -5, -6: B-1=A, O-2=M, M-3=J, B-4=X, A-5=V, Y-6=S ⇒ `AMJXVS`."
+        },
+        {
+          "id": "r4",
+          "topic": "Odd One Out",
+          "difficulty": "easy",
+          "question": "Three of the following four numbers are alike in a certain way and one is different. Select the odd one out.",
+          "options": [
+            "121",
+            "169",
+            "225",
+            "243"
+          ],
+          "correctIndex": 3,
+          "explanation": "$121 = 11^2$, $169 = 13^2$, $225 = 15^2$ are perfect squares; $243 = 3^5$ is not a perfect square."
+        },
+        {
+          "id": "r5",
+          "topic": "Blood Relations",
+          "difficulty": "medium",
+          "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is A related to D?",
+          "options": [
+            "Son",
+            "Grandson",
+            "Nephew",
+            "Brother"
+          ],
+          "correctIndex": 1,
+          "explanation": "A and B are children of C, and D is C's father. Since A is male (brother of B), A is D's Grandson."
+        },
+        {
+          "id": "r6",
+          "topic": "Direction Sense",
+          "difficulty": "easy",
+          "question": "Meera walks 6 km East, then turns left and walks 8 km. What is the shortest straight-line distance from her starting point?",
+          "options": [
+            "10 km",
+            "12 km",
+            "14 km",
+            "9 km"
+          ],
+          "correctIndex": 0,
+          "explanation": "Right triangle with legs 6 km and 8 km: $\\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = 10\\text{ km}$."
+        },
+        {
+          "id": "r7",
+          "topic": "Mathematical Operations",
+          "difficulty": "medium",
+          "question": "If `A` denotes `+`, `B` denotes `×`, `C` denotes `-`, and `D` denotes `÷`, find the value of:\n`72 D 9 B 4 A 15 C 11`",
+          "options": [
+            "32",
+            "36",
+            "40",
+            "44"
+          ],
+          "correctIndex": 1,
+          "explanation": "$72 \\div 9 \\times 4 + 15 - 11 = 8 \\times 4 + 4 = 32 + 4 = 36$."
+        },
+        {
+          "id": "r8",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All apples are fruits.\n2. All fruits are sweet.\n\nConclusions:\nI. All apples are sweet.\nII. Some sweet things are apples.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither follows"
+          ],
+          "correctIndex": 2,
+          "explanation": "Apples ⊂ Fruits ⊂ Sweet ⇒ All apples are sweet (I) and its valid conversion Some sweet things are apples (II) both follow."
+        },
+        {
+          "id": "r9",
+          "topic": "Letter Series",
+          "difficulty": "easy",
+          "question": "Complete the series:\n`AZ, CX, EV, GT, ?`",
+          "options": [
+            "IR",
+            "IS",
+            "JQ",
+            "HR"
+          ],
+          "correctIndex": 0,
+          "explanation": "First letter +2 (A,C,E,G,I) and second letter -2 (Z,X,V,T,R), forming opposite pairs ⇒ `IR`."
+        },
+        {
+          "id": "r10",
+          "topic": "Number Analogy",
+          "difficulty": "medium",
+          "question": "`14 : 210 :: 18 : ?`",
+          "options": [
+            "324",
+            "342",
+            "360",
+            "306"
+          ],
+          "correctIndex": 1,
+          "explanation": "Logic: $n : n(n+1)$. Check: $14 \\times 15 = 210$. So $18 \\times 19 = 342$."
+        },
+        {
+          "id": "r11",
+          "topic": "Order & Ranking",
+          "difficulty": "medium",
+          "question": "In a queue, Neha is 12th from the front and Priya is 15th from the back. If there are 4 persons standing between them (and Neha is ahead of Priya), how many persons are in the queue?",
+          "options": [
+            "29",
+            "30",
+            "31",
+            "32"
+          ],
+          "correctIndex": 2,
+          "explanation": "Non-overlapping total = $12 + 4 + 15 = 31$ persons."
+        },
+        {
+          "id": "r12",
+          "topic": "Clock Angle",
+          "difficulty": "medium",
+          "question": "What is the acute angle between the hour hand and the minute hand of a clock at 3:30?",
+          "options": [
+            "$60^\\circ$",
+            "$75^\\circ$",
+            "$85^\\circ$",
+            "$90^\\circ$"
+          ],
+          "correctIndex": 1,
+          "explanation": "Angle = $|30H - 5.5M| = |30(3) - 5.5(30)| = |90 - 165| = 75^\\circ$."
+        },
+        {
+          "id": "r13",
+          "topic": "Mirror Time",
+          "difficulty": "easy",
+          "question": "If a wall clock shows 4:20, what time will appear in its vertical mirror reflection?",
+          "options": [
+            "7:40",
+            "8:40",
+            "7:20",
+            "6:40"
+          ],
+          "correctIndex": 0,
+          "explanation": "Subtract from 11:60 ⇒ $11:60 - 4:20 = 7:40$."
+        },
+        {
+          "id": "r14",
+          "topic": "Coding-Decoding (Opposite Letters)",
+          "difficulty": "medium",
+          "question": "If `KING` is coded as `PRMT` using reverse-alphabet pairs (A↔Z, B↔Y), how is `QUEEN` coded?",
+          "options": [
+            "JFVVM",
+            "JFVUM",
+            "KFVVM",
+            "JEVVM"
+          ],
+          "correctIndex": 0,
+          "explanation": "Reverse pairs: Q(17)↔J(10), U(21)↔F(6), E(5)↔V(22), E(5)↔V(22), N(14)↔M(13) ⇒ `JFVVM`."
+        },
+        {
+          "id": "r15",
+          "topic": "Venn Diagram",
+          "difficulty": "easy",
+          "question": "Which relationship best represents: `Asia`, `India`, and `New Delhi`?",
+          "options": [
+            "Three concentric circles (New Delhi inside India inside Asia)",
+            "Three intersecting circles",
+            "Two circles inside a third separate circle",
+            "Three completely disjoint circles"
+          ],
+          "correctIndex": 0,
+          "explanation": "New Delhi is completely inside India, and India is completely inside Asia (concentric nested circles)."
+        },
+        {
+          "id": "r16",
+          "topic": "Missing Number",
+          "difficulty": "medium",
+          "question": "Find the missing number in the sequence:\n`3, 7, 16, 35, 74, ?`",
+          "options": [
+            "148",
+            "151",
+            "153",
+            "155"
+          ],
+          "correctIndex": 2,
+          "explanation": "Pattern: $\\times 2 + 1, \\times 2 + 2, \\times 2 + 3, \\times 2 + 4, \\times 2 + 5$: $74 \\times 2 + 5 = 153$."
+        },
+        {
+          "id": "r17",
+          "topic": "Word Formation",
+          "difficulty": "easy",
+          "question": "Which of the following words CANNOT be formed using the letters of `ENVIRONMENT` (each letter used at most as many times as it appears)?",
+          "options": [
+            "MENTOR",
+            "ENTER",
+            "MOVEMENT",
+            "RIVER"
+          ],
+          "correctIndex": 2,
+          "explanation": "`ENVIRONMENT` contains only one `M`, whereas `MOVEMENT` requires two `M`s."
+        },
+        {
+          "id": "r18",
+          "topic": "Dictionary Order",
+          "difficulty": "easy",
+          "question": "Which word will appear THIRD if arranged in English dictionary order?\n1. Monitor  2. Monkey  3. Monologue  4. Monument  5. Monarch",
+          "options": [
+            "Monitor",
+            "Monkey",
+            "Monologue",
+            "Monarch"
+          ],
+          "correctIndex": 1,
+          "explanation": "Order: Monarch (1) → Monitor (2) → Monkey (3) → Monologue (4) → Monument (5). Third word is `Monkey`."
+        },
+        {
+          "id": "r19",
+          "topic": "Dice",
+          "difficulty": "medium",
+          "question": "In an unfolded standard cube net where face `1` is adjacent to `2, 3, 4, 5` in a cross shape and `6` is attached to `2`, which face is opposite to `1`?",
+          "options": [
+            "2",
+            "3",
+            "5",
+            "6"
+          ],
+          "correctIndex": 3,
+          "explanation": "Since `1` is adjacent to all four faces `2, 3, 4, 5`, the only remaining face `6` must lie opposite to `1`."
+        },
+        {
+          "id": "r20",
+          "topic": "Set Analogy",
+          "difficulty": "medium",
+          "question": "Select the set related in the same way as `(5, 12, 13)` and `(8, 15, 17)`:",
+          "options": [
+            "(7, 24, 25)",
+            "(6, 9, 12)",
+            "(9, 12, 16)",
+            "(10, 20, 25)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pythagorean triplets ($a^2 + b^2 = c^2$): $7^2 + 24^2 = 49 + 576 = 625 = 25^2$."
+        },
+        {
+          "id": "r21",
+          "topic": "Age Puzzle",
+          "difficulty": "easy",
+          "question": "The sum of the present ages of a father and his son is 54 years. Six years ago, the father was twice as old as his son. What is the son's present age?",
+          "options": [
+            "18 years",
+            "20 years",
+            "22 years",
+            "24 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "6 years ago, sum = $54 - 12 = 42$. Ratio $2:1 \\Rightarrow$ son was $42/3 = 14$. Present age = $14 + 6 = 20$ years."
+        },
+        {
+          "id": "r22",
+          "topic": "Classification (Word)",
+          "difficulty": "easy",
+          "question": "Select the odd word out from the given alternatives.",
+          "options": [
+            "Sitar",
+            "Violin",
+            "Flute",
+            "Guitar"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sitar, Violin, and Guitar are stringed instruments; Flute is a wind instrument."
+        },
+        {
+          "id": "r23",
+          "topic": "Calendar",
+          "difficulty": "medium",
+          "question": "Which of the following years is NOT a leap year?",
+          "options": [
+            "1600",
+            "1900",
+            "2000",
+            "2024"
+          ],
+          "correctIndex": 1,
+          "explanation": "Century years must be divisible by 400 to be leap years. 1900 is not divisible by 400, so it is an ordinary year."
+        },
+        {
+          "id": "r24",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. Some books are novels.\n2. All novels are stories.\n\nConclusions:\nI. Some books are stories.\nII. All stories are novels.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+          ],
+          "correctIndex": 0,
+          "explanation": "Since some books are novels and all novels are stories, those books are stories (I follows). II does not follow."
+        },
+        {
+          "id": "r25",
+          "topic": "Logical Sequence",
+          "difficulty": "easy",
+          "question": "Arrange in a meaningful logical order:\n1. Seed  2. Plant  3. Fruit  4. Tree  5. Flower",
+          "options": [
+            "1, 2, 4, 5, 3",
+            "1, 4, 2, 5, 3",
+            "1, 2, 5, 4, 3",
+            "2, 1, 4, 5, 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "Biological growth order: Seed (1) → Plant (2) → Tree (4) → Flower (5) → Fruit (3)."
+        }
+      ]
+    },
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude",
+      "questions": [
+        {
+          "id": "q1",
+          "topic": "Simplification",
+          "difficulty": "easy",
+          "question": "Evaluate: $25 \\times 16 \\div 8 + 14 - 9$",
+          "options": [
+            "45",
+            "55",
+            "65",
+            "50"
+          ],
+          "correctIndex": 1,
+          "explanation": "By BODMAS: $(25 \\times 16) \\div 8 + 14 - 9 = 50 + 5 = 55$."
+        },
+        {
+          "id": "q2",
+          "topic": "Percentage",
+          "difficulty": "easy",
+          "question": "In an examination, a student scored 32% marks and failed by 24 marks. Another student scored 40% marks and got 16 marks above the pass mark. Find the maximum marks.",
+          "options": [
+            "400",
+            "450",
+            "500",
+            "600"
+          ],
+          "correctIndex": 2,
+          "explanation": "$40\\% - 32\\% = 8\\%$ corresponds to $24 + 16 = 40$ marks. Hence $100\\% = \\frac{40}{8} \\times 100 = 500$."
+        },
+        {
+          "id": "q3",
+          "topic": "Profit & Loss",
+          "difficulty": "medium",
+          "question": "By selling an article for ₹720, a trader loses 10%. At what price should he sell it to gain 15%?",
+          "options": [
+            "₹880",
+            "₹900",
+            "₹920",
+            "₹960"
+          ],
+          "correctIndex": 2,
+          "explanation": "$90\\%$ of CP = 720 ⇒ CP = ₹800. For 15% gain: SP = $800 \\times 1.15 = ₹920$."
+        },
+        {
+          "id": "q4",
+          "topic": "Simple Interest",
+          "difficulty": "easy",
+          "question": "Find the simple interest on ₹6,400 at $7.5\\%$ per annum for 4 years.",
+          "options": [
+            "₹1,800",
+            "₹1,920",
+            "₹2,040",
+            "₹2,160"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\text{SI} = \\frac{6400 \\times 7.5 \\times 4}{100} = 64 \\times 30 = ₹1,920$."
+        },
+        {
+          "id": "q5",
+          "topic": "Compound Interest",
+          "difficulty": "medium",
+          "question": "A sum of ₹8,000 is invested at 5% per annum compounded annually. What will be the compound interest after 2 years?",
+          "options": [
+            "₹800",
+            "₹820",
+            "₹840",
+            "₹860"
+          ],
+          "correctIndex": 1,
+          "explanation": "Amount = $8000 \\times (1.05)^2 = 8000 \\times 1.1025 = ₹8,820$. CI = $8820 - 8000 = ₹820$."
+        },
+        {
+          "id": "q6",
+          "topic": "Ratio & Proportion",
+          "difficulty": "easy",
+          "question": "Divide ₹1,560 among A, B, and C in the ratio $3 : 4 : 5$. What is C's share?",
+          "options": [
+            "₹520",
+            "₹600",
+            "₹650",
+            "₹700"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sum of parts = $3+4+5=12$. C's share = $\\frac{5}{12} \\times 1560 = 5 \\times 130 = ₹650$."
+        },
+        {
+          "id": "q7",
+          "topic": "Average",
+          "difficulty": "easy",
+          "question": "Find the average of the first 25 natural numbers.",
+          "options": [
+            "12",
+            "12.5",
+            "13",
+            "13.5"
+          ],
+          "correctIndex": 2,
+          "explanation": "Average of first $n$ natural numbers = $\\frac{n+1}{2} = \\frac{26}{2} = 13$."
+        },
+        {
+          "id": "q8",
+          "topic": "Time & Work",
+          "difficulty": "medium",
+          "question": "12 men can complete a project in 18 days. How many men are required to complete the same project in 8 days?",
+          "options": [
+            "24",
+            "27",
+            "30",
+            "32"
+          ],
+          "correctIndex": 1,
+          "explanation": "$M_1 D_1 = M_2 D_2 \\Rightarrow 12 \\times 18 = M_2 \\times 8 \\Rightarrow M_2 = \\frac{216}{8} = 27$ men."
+        },
+        {
+          "id": "q9",
+          "topic": "Time & Distance",
+          "difficulty": "medium",
+          "question": "A car covers a journey at 40 km/h and returns along the same route at 60 km/h. What is its average speed for the entire round trip?",
+          "options": [
+            "48 km/h",
+            "50 km/h",
+            "52 km/h",
+            "45 km/h"
+          ],
+          "correctIndex": 0,
+          "explanation": "Average speed = $\\frac{2xy}{x+y} = \\frac{2 \\times 40 \\times 60}{40 + 60} = \\frac{4800}{100} = 48\\text{ km/h}$."
+        },
+        {
+          "id": "q10",
+          "topic": "Algebra",
+          "difficulty": "medium",
+          "question": "If $x - \\frac{1}{x} = 6$, find the value of $x^2 + \\frac{1}{x^2}$.",
+          "options": [
+            "34",
+            "36",
+            "38",
+            "40"
+          ],
+          "correctIndex": 2,
+          "explanation": "$x^2 + \\frac{1}{x^2} = \\left(x - \\frac{1}{x}\\right)^2 + 2 = 6^2 + 2 = 38$."
+        },
+        {
+          "id": "q11",
+          "topic": "Geometry (Angles)",
+          "difficulty": "easy",
+          "question": "The angles of a triangle are in the ratio $2 : 3 : 4$. What is the measure of the largest angle?",
+          "options": [
+            "$60^\\circ$",
+            "$72^\\circ$",
+            "$80^\\circ$",
+            "$90^\\circ$"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sum = $9x = 180^\\circ \\Rightarrow x = 20^\\circ$. Largest angle = $4x = 80^\\circ$."
+        },
+        {
+          "id": "q12",
+          "topic": "Mensuration 2D",
+          "difficulty": "easy",
+          "question": "The circumference of a circle is $88\\text{ cm}$. Taking $\\pi = \\frac{22}{7}$, find its area.",
+          "options": [
+            "$516\\text{ cm}^2$",
+            "$616\\text{ cm}^2$",
+            "$624\\text{ cm}^2$",
+            "$704\\text{ cm}^2$"
+          ],
+          "correctIndex": 1,
+          "explanation": "$2 \\times \\frac{22}{7} \\times r = 88 \\Rightarrow r = 14\\text{ cm}$. Area = $\\frac{22}{7} \\times 14 \\times 14 = 616\\text{ cm}^2$."
+        },
+        {
+          "id": "q13",
+          "topic": "Mensuration 3D",
+          "difficulty": "medium",
+          "question": "Find the total surface area of a cube whose volume is $343\\text{ cm}^3$.",
+          "options": [
+            "$196\\text{ cm}^2$",
+            "$245\\text{ cm}^2$",
+            "$294\\text{ cm}^2$",
+            "$343\\text{ cm}^2$"
+          ],
+          "correctIndex": 2,
+          "explanation": "Side $a = \\sqrt[3]{343} = 7\\text{ cm}$. Total Surface Area = $6a^2 = 6 \\times 49 = 294\\text{ cm}^2$."
+        },
+        {
+          "id": "q14",
+          "topic": "Trigonometry",
+          "difficulty": "medium",
+          "question": "If $\\sin\\theta = \\frac{5}{13}$ (where $\\theta$ is acute), find the value of $\\tan\\theta$.",
+          "options": [
+            "$\\frac{5}{12}$",
+            "$\\frac{12}{13}$",
+            "$\\frac{12}{5}$",
+            "$\\frac{5}{8}$"
+          ],
+          "correctIndex": 0,
+          "explanation": "Adjacent side = $\\sqrt{13^2 - 5^2} = 12$. Hence $\\tan\\theta = \\frac{5}{12}$."
+        },
+        {
+          "id": "q15",
+          "topic": "Partnership",
+          "difficulty": "medium",
+          "question": "A invests ₹40,000 for 12 months and B invests ₹60,000 for 8 months in a business. If total profit is ₹18,000, what is A's share?",
+          "options": [
+            "₹7,200",
+            "₹9,000",
+            "₹10,800",
+            "₹8,000"
+          ],
+          "correctIndex": 1,
+          "explanation": "Profit ratio = $(40000 \\times 12) : (60000 \\times 8) = 480000 : 480000 = 1 : 1$. A's share = $18000 / 2 = ₹9,000$."
+        },
+        {
+          "id": "q16",
+          "topic": "Discount",
+          "difficulty": "medium",
+          "question": "An item marked at ₹1,200 is sold for ₹960 after a single discount. What is the discount percentage?",
+          "options": [
+            "15%",
+            "18%",
+            "20%",
+            "25%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Discount = $1200 - 960 = 240$. Discount % = $\\frac{240}{1200} \\times 100 = 20\\%$."
+        },
+        {
+          "id": "q17",
+          "topic": "Mixture",
+          "difficulty": "medium",
+          "question": "A 45-litre mixture of milk and water contains milk and water in the ratio $4 : 1$. How many litres of water must be added to make the ratio $3 : 2$?",
+          "options": [
+            "12 litres",
+            "15 litres",
+            "18 litres",
+            "20 litres"
+          ],
+          "correctIndex": 1,
+          "explanation": "Milk = 36 L, Water = 9 L. For ratio $3:2$, water must be $\\frac{2}{3} \\times 36 = 24$ L. Added water = $24 - 9 = 15$ litres."
+        },
+        {
+          "id": "q18",
+          "topic": "Number System",
+          "difficulty": "medium",
+          "question": "Find the unit digit of $7^{53}$.",
+          "options": [
+            "1",
+            "3",
+            "7",
+            "9"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cyclicity of 7 is 4 (7, 9, 3, 1). $53 \\bmod 4 = 1 \\Rightarrow$ unit digit is $7^1 = 7$."
+        },
+        {
+          "id": "q19",
+          "topic": "Geometry (Polygons)",
+          "difficulty": "easy",
+          "question": "What is the sum of all interior angles of a regular octagon (8-sided polygon)?",
+          "options": [
+            "$900^\\circ$",
+            "$1080^\\circ$",
+            "$1260^\\circ$",
+            "$720^\\circ$"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sum of interior angles = $(n - 2) \\times 180^\\circ = 6 \\times 180^\\circ = 1080^\\circ$."
+        },
+        {
+          "id": "q20",
+          "topic": "Algebra (Linear)",
+          "difficulty": "easy",
+          "question": "If $3x + 2y = 19$ and $x - y = 3$, find the value of $x + y$.",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 2,
+          "explanation": "From $x = y + 3$: $3(y+3) + 2y = 19 \\Rightarrow 5y = 10 \\Rightarrow y = 2, x = 5$. Thus $x + y = 7$."
+        },
+        {
+          "id": "q21",
+          "topic": "Trigonometry (Identities)",
+          "difficulty": "medium",
+          "question": "Find the value of $\\cos 1^\\circ \\cdot \\cos 2^\\circ \\cdot \\cos 3^\\circ \\cdots \\cos 180^\\circ$.",
+          "options": [
+            "-1",
+            "0",
+            "1",
+            "$\\frac{1}{2}$"
+          ],
+          "correctIndex": 1,
+          "explanation": "The product includes $\\cos 90^\\circ = 0$, making the entire product equal to 0."
+        },
+        {
+          "id": "q22",
+          "topic": "Trains",
+          "difficulty": "medium",
+          "question": "Two trains of lengths 140 m and 160 m run on parallel tracks in opposite directions at 54 km/h and 36 km/h respectively. How long will they take to cross each other completely?",
+          "options": [
+            "10 seconds",
+            "12 seconds",
+            "15 seconds",
+            "18 seconds"
+          ],
+          "correctIndex": 1,
+          "explanation": "Relative speed = $(54+36) \\times \\frac{5}{18} = 25\\text{ m/s}$. Total length = $140+160=300\\text{ m}$. Time = $300/25 = 12$ s."
+        },
+        {
+          "id": "q23",
+          "topic": "Square Roots",
+          "difficulty": "easy",
+          "question": "Evaluate: $\\sqrt{169} + \\sqrt{289} - \\sqrt{144}$",
+          "options": [
+            "16",
+            "18",
+            "20",
+            "22"
+          ],
+          "correctIndex": 1,
+          "explanation": "$13 + 17 - 12 = 18$."
+        },
+        {
+          "id": "q24",
+          "topic": "Data Interpretation",
+          "difficulty": "medium",
+          "question": "Marks scored by a student in 5 subjects (each out of 100):\n\n| Subject | Marks |\n|---|---|\n| Maths | 88 |\n| Physics | 76 |\n| Chemistry | 84 |\n| English | 72 |\n| Computer | 90 |\n\nWhat is the student's overall percentage?",
+          "options": [
+            "80%",
+            "81%",
+            "82%",
+            "84%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total marks = $88 + 76 + 84 + 72 + 90 = 410$ out of 500. Percentage = $\\frac{410}{500} \\times 100 = 82\\%$."
+        },
+        {
+          "id": "q25",
+          "topic": "Geometry (Circles)",
+          "difficulty": "medium",
+          "question": "In a cyclic quadrilateral $ABCD$, if $\\angle A = 78^\\circ$, what is the measure of $\\angle C$?",
+          "options": [
+            "$78^\\circ$",
+            "$92^\\circ$",
+            "$102^\\circ$",
+            "$112^\\circ$"
+          ],
+          "correctIndex": 2,
+          "explanation": "Opposite angles of a cyclic quadrilateral sum to $180^\\circ$: $\\angle C = 180^\\circ - 78^\\circ = 102^\\circ$."
+        }
+      ]
+    },
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "questions": [
+        {
+          "id": "g1",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "Who was the Chairman of the Drafting Committee of the Constituent Assembly of India?",
+          "options": [
+            "Dr. Rajendra Prasad",
+            "Dr. B. R. Ambedkar",
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dr. B. R. Ambedkar chaired the seven-member Drafting Committee set up on 29 August 1947."
+        },
+        {
+          "id": "g2",
+          "topic": "Geography",
+          "difficulty": "easy",
+          "question": "The Tropic of Cancer ($23.5^\\circ\\text{ N}$) passes through how many Indian states?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correctIndex": 2,
+          "explanation": "It passes through 8 states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+        },
+        {
+          "id": "g3",
+          "topic": "Art & Culture",
+          "difficulty": "easy",
+          "question": "Kuchipudi is the classical dance form originating from which Indian state?",
+          "options": [
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Kerala",
+            "Odisha"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kuchipudi derives its name from Kuchipudi village in Krishna district of Andhra Pradesh."
+        },
+        {
+          "id": "g4",
+          "topic": "History",
+          "difficulty": "easy",
+          "question": "The Battle of Plassey (1757) was fought between the British East India Company and which Nawab of Bengal?",
+          "options": [
+            "Mir Jafar",
+            "Siraj-ud-Daulah",
+            "Mir Qasim",
+            "Alivardi Khan"
+          ],
+          "correctIndex": 1,
+          "explanation": "Robert Clive's forces defeated Nawab Siraj-ud-Daulah on 23 June 1757 at Plassey."
+        },
+        {
+          "id": "g5",
+          "topic": "General Science (Physics)",
+          "difficulty": "easy",
+          "question": "Which instrument is used to measure the purity (density) of milk?",
+          "options": [
+            "Hygrometer",
+            "Lactometer",
+            "Anemometer",
+            "Fathometer"
+          ],
+          "correctIndex": 1,
+          "explanation": "A Lactometer works on Archimedes' principle to measure the specific gravity/purity of milk."
+        },
+        {
+          "id": "g6",
+          "topic": "General Science (Chemistry)",
+          "difficulty": "easy",
+          "question": "Which acid is naturally present in tamarind and grapes?",
+          "options": [
+            "Citric acid",
+            "Tartaric acid",
+            "Oxalic acid",
+            "Formic acid"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tartaric acid is found in tamarind and grapes (Oxalic in tomato/spinach, Formic in ant sting)."
+        },
+        {
+          "id": "g7",
+          "topic": "General Science (Biology)",
+          "difficulty": "easy",
+          "question": "Which blood group is universally known as the 'Universal Donor' for red blood cell transfusions?",
+          "options": [
+            "AB+",
+            "AB-",
+            "O+",
+            "O-"
+          ],
+          "correctIndex": 3,
+          "explanation": "O-negative blood lacks A, B, and Rh(D) antigens on RBCs, making it the universal RBC donor."
+        },
+        {
+          "id": "g8",
+          "topic": "Economics",
+          "difficulty": "medium",
+          "question": "In India, who issues the one-rupee currency note and all coins?",
+          "options": [
+            "Reserve Bank of India",
+            "Ministry of Finance, Government of India",
+            "State Bank of India",
+            "SEBI"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under the Coinage Act, ₹1 notes (signed by the Finance Secretary) and coins are issued by the Ministry of Finance, while all other notes are issued by RBI."
+        },
+        {
+          "id": "g9",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "What is the minimum age required to contest elections for the Lok Sabha in India?",
+          "options": [
+            "21 years",
+            "25 years",
+            "30 years",
+            "35 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under Article 84, minimum age is 25 years for Lok Sabha and 30 years for Rajya Sabha."
+        },
+        {
+          "id": "g10",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which is the largest brackish water lagoon in India?",
+          "options": [
+            "Pulicat Lake",
+            "Chilika Lake",
+            "Vembanad Lake",
+            "Wular Lake"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chilika Lake in Odisha is India's largest brackish water lagoon and Asia's largest coastal lagoon."
+        },
+        {
+          "id": "g11",
+          "topic": "Ancient History",
+          "difficulty": "easy",
+          "question": "The Great Bath, an iconic brick water tank of the Indus Valley Civilization, was excavated at which site?",
+          "options": [
+            "Harappa",
+            "Mohenjo-daro",
+            "Lothal",
+            "Kalibangan"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Great Bath was discovered at Mohenjo-daro (Sindh, Pakistan) in the 1920s."
+        },
+        {
+          "id": "g12",
+          "topic": "Computer Awareness",
+          "difficulty": "easy",
+          "question": "In computing, what does `HTTP` stand for?",
+          "options": [
+            "HyperText Transfer Protocol",
+            "High Transmission Text Program",
+            "Hyperlink Tracking Transport Protocol",
+            "Host Terminal Transfer Process"
+          ],
+          "correctIndex": 0,
+          "explanation": "HTTP stands for HyperText Transfer Protocol, the foundation of web data communication."
+        },
+        {
+          "id": "g13",
+          "topic": "Static GK",
+          "difficulty": "easy",
+          "question": "Which Indian city is home to the headquarters of the Indian Space Research Organisation (ISRO)?",
+          "options": [
+            "Hyderabad",
+            "Thiruvananthapuram",
+            "Bengaluru",
+            "Sriharikota"
+          ],
+          "correctIndex": 2,
+          "explanation": "ISRO Headquarters (Antariksh Bhavan) is located in Bengaluru, Karnataka."
+        },
+        {
+          "id": "g14",
+          "topic": "Sports",
+          "difficulty": "easy",
+          "question": "Neeraj Chopra won India's first-ever Olympic athletics gold medal at Tokyo 2020 in which event?",
+          "options": [
+            "Shot Put",
+            "Discus Throw",
+            "Javelin Throw",
+            "Long Jump"
+          ],
+          "correctIndex": 2,
+          "explanation": "Neeraj Chopra won gold in Men's Javelin Throw with a throw of 87.58 m at Tokyo 2020 (held in 2021)."
+        },
+        {
+          "id": "g15",
+          "topic": "Modern History",
+          "difficulty": "medium",
+          "question": "Who gave the slogan 'Do or Die' during the launch of the Quit India Movement in August 1942?",
+          "options": [
+            "Subhas Chandra Bose",
+            "Mahatma Gandhi",
+            "Bhagat Singh",
+            "Bal Gangadhar Tilak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mahatma Gandhi gave the clarion call 'Do or Die' at Gowalia Tank Maidan, Bombay on 8 August 1942."
+        },
+        {
+          "id": "g16",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Which Constitutional Amendment introduced the Goods and Services Tax (GST) in India?",
+          "options": [
+            "99th Amendment Act",
+            "100th Amendment Act",
+            "101st Amendment Act",
+            "103rd Amendment Act"
+          ],
+          "correctIndex": 2,
+          "explanation": "The 101st Constitutional Amendment Act (2016) enabled the nationwide rollout of GST from 1 July 2017."
+        },
+        {
+          "id": "g17",
+          "topic": "Biology",
+          "difficulty": "medium",
+          "question": "Which hormone secreted by the pancreas regulates blood glucose levels by promoting cellular uptake of glucose?",
+          "options": [
+            "Adrenaline",
+            "Thyroxine",
+            "Insulin",
+            "Estrogen"
+          ],
+          "correctIndex": 2,
+          "explanation": "Beta cells of the Islets of Langerhans in the pancreas secrete Insulin to lower blood sugar."
+        },
+        {
+          "id": "g18",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which Indian state shares the longest international land border with Bangladesh?",
+          "options": [
+            "Assam",
+            "Tripura",
+            "West Bengal",
+            "Meghalaya"
+          ],
+          "correctIndex": 2,
+          "explanation": "West Bengal shares over 2,216 km of India's 4,096 km border with Bangladesh."
+        },
+        {
+          "id": "g19",
+          "topic": "Art & Culture",
+          "difficulty": "medium",
+          "question": "The Sun Temple at Konark (a UNESCO World Heritage Site) was built in the 13th century by which ruler of the Eastern Ganga dynasty?",
+          "options": [
+            "Rajaraja Chola I",
+            "Narasimhadeva I",
+            "Krishnadevaraya",
+            "Pulakeshin II"
+          ],
+          "correctIndex": 1,
+          "explanation": "King Narasimhadeva I constructed the Konark Sun Temple in Odisha around 1250 CE."
+        },
+        {
+          "id": "g20",
+          "topic": "Chemistry",
+          "difficulty": "easy",
+          "question": "Which metal remains in a liquid state at standard room temperature?",
+          "options": [
+            "Gallium",
+            "Sodium",
+            "Mercury",
+            "Lead"
+          ],
+          "correctIndex": 2,
+          "explanation": "Mercury (Hg, melting point $-38.8^\\circ\\text{C}$) is the only metal liquid at standard room temperature ($25^\\circ\\text{C}$)."
+        },
+        {
+          "id": "g21",
+          "topic": "Economics",
+          "difficulty": "medium",
+          "question": "NITI Aayog replaced the Planning Commission of India on which date?",
+          "options": [
+            "15 August 2014",
+            "1 January 2015",
+            "1 April 2015",
+            "26 January 2016"
+          ],
+          "correctIndex": 1,
+          "explanation": "NITI Aayog (National Institution for Transforming India) came into effect on 1 January 2015."
+        },
+        {
+          "id": "g22",
+          "topic": "Physics",
+          "difficulty": "medium",
+          "question": "The phenomenon responsible for the sparkling brilliance of a cut diamond and signal transmission in optical fibres is:",
+          "options": [
+            "Dispersion",
+            "Total Internal Reflection",
+            "Diffraction",
+            "Polarization"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total Internal Reflection (TIR) occurs when light travels from a denser to a rarer medium above the critical angle."
+        },
+        {
+          "id": "g23",
+          "topic": "Awards & Honours",
+          "difficulty": "easy",
+          "question": "The Dronacharya Award is conferred annually by the Government of India for excellence in:",
+          "options": [
+            "Literature",
+            "Sports Coaching",
+            "Classical Music",
+            "Scientific Research"
+          ],
+          "correctIndex": 1,
+          "explanation": "Instituted in 1985, the Dronacharya Award honours outstanding coaches in sports and games."
+        },
+        {
+          "id": "g24",
+          "topic": "Medieval History",
+          "difficulty": "medium",
+          "question": "Who built the Grand Trunk Road (Sadak-e-Azam) stretching from Sonargaon in Bengal to Attock in the northwest?",
+          "options": [
+            "Akbar",
+            "Sher Shah Suri",
+            "Babur",
+            "Shah Jahan"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sher Shah Suri rebuilt and standardized the Grand Trunk Road (Sadak-e-Azam) and introduced the silver 'Rupiya'."
+        },
+        {
+          "id": "g25",
+          "topic": "Environment",
+          "difficulty": "easy",
+          "question": "Jim Corbett National Park, India's oldest national park (established 1936 as Hailey National Park), is situated in which state?",
+          "options": [
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Madhya Pradesh",
+            "Assam"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jim Corbett National Park lies in Nainital and Pauri Garhwal districts of Uttarakhand."
+        }
+      ]
+    }
+  ]
+}

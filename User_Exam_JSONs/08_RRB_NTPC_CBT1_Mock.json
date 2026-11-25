@@ -1,0 +1,1436 @@
+{
+  "title": "RRB NTPC CBT-1 — Full-Length Railway Recruitment Mock Paper",
+  "subtitle": "100 Questions • 90 Minutes • 100 Marks • Official +1 / -0.33 (1/3rd) Marking",
+  "category": "Railways",
+  "description": "Exact full-length Railway Recruitment Board (RRB) NTPC CBT-1 replica modelled on official CEN 01/2019 & NTPC shifts: General Awareness (40 Qs), Mathematics (30 Qs), and General Intelligence & Reasoning (30 Qs) in 90 minutes with +1 / -1/3rd negative marking.",
+  "durationMinutes": 90,
+  "sectionalTiming": false,
+  "defaultMarks": 1,
+  "defaultNegativeMarks": 0.3333,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact RRB NTPC CBT-1 pattern: 100 objective MCQs (100 marks) in 90 minutes composite duration.",
+    "Sectional distribution: General Awareness (40 Qs) • Mathematics (30 Qs) • General Intelligence & Reasoning (30 Qs).",
+    "Official Railway marking scheme: +1 mark per correct answer and -1/3rd (-0.33) negative marking for every wrong answer."
+  ],
+  "sections": [
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "questions": [
+        {
+          "id": "g1",
+          "topic": "Indian Railways GK",
+          "difficulty": "easy",
+          "question": "Between which two stations did India's first passenger train run on 16 April 1853?",
+          "options": [
+            "Howrah to Hooghly",
+            "Bori Bunder (Bombay) to Thane",
+            "Royapuram to Wallajah Road",
+            "Delhi to Agra"
+          ],
+          "correctIndex": 1,
+          "explanation": "India's first passenger train ran 34 km from Bori Bunder (now Chhatrapati Shivaji Maharaj Terminus) to Thane on 16 April 1853."
+        },
+        {
+          "id": "g2",
+          "topic": "Indian Railways GK",
+          "difficulty": "medium",
+          "question": "Where is the headquarters of the South Central Railway (SCR) zone located?",
+          "options": [
+            "Chennai",
+            "Secunderabad",
+            "Hubballi",
+            "Visakhapatnam"
+          ],
+          "correctIndex": 1,
+          "explanation": "South Central Railway (SCR) is headquartered at Rail Nilayam, Secunderabad (Telangana)."
+        },
+        {
+          "id": "g3",
+          "topic": "Indian Railways GK",
+          "difficulty": "medium",
+          "question": "Which railway station in India currently holds the Guinness World Record for the world's longest railway platform (1,507 m)?",
+          "options": [
+            "Gorakhpur Junction",
+            "Kollam Junction",
+            "Shree Siddharoodha Swamiji Hubballi Junction",
+            "Kharagpur Junction"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hubballi Junction (Karnataka, South Western Railway) has the world's longest railway platform at 1,507 metres, inaugurated in March 2023."
+        },
+        {
+          "id": "g4",
+          "topic": "Indian Railways GK",
+          "difficulty": "easy",
+          "question": "The Integral Coach Factory (ICF), which manufactures Vande Bharat Express trainsets, is situated in:",
+          "options": [
+            "Kapurthala",
+            "Perambur, Chennai",
+            "Raebareli",
+            "Chittaranjan"
+          ],
+          "correctIndex": 1,
+          "explanation": "ICF is located in Perambur, Chennai (Tamil Nadu); RCF is in Kapurthala, MCF in Raebareli, and CLW in Chittaranjan."
+        },
+        {
+          "id": "g5",
+          "topic": "Modern History",
+          "difficulty": "easy",
+          "question": "Who was the first Governor-General of independent India?",
+          "options": [
+            "C. Rajagopalachari",
+            "Lord Mountbatten",
+            "Dr. Rajendra Prasad",
+            "Lord Wavell"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lord Mountbatten was the first Governor-General of independent India (1947–48); C. Rajagopalachari was the first and only Indian Governor-General."
+        },
+        {
+          "id": "g6",
+          "topic": "Modern History",
+          "difficulty": "easy",
+          "question": "The Non-Cooperation Movement was called off by Mahatma Gandhi in February 1922 following which incident?",
+          "options": [
+            "Kakori Conspiracy",
+            "Chauri Chaura incident",
+            "Jallianwala Bagh Massacre",
+            "Simon Commission boycott"
+          ],
+          "correctIndex": 1,
+          "explanation": "After a violent clash at Chauri Chaura (Gorakhpur, UP) on 4 February 1922, Gandhiji suspended the Non-Cooperation Movement."
+        },
+        {
+          "id": "g7",
+          "topic": "Ancient History",
+          "difficulty": "medium",
+          "question": "Who composed the 'Arthashastra', the ancient Indian treatise on statecraft and economic policy?",
+          "options": [
+            "Megasthenes",
+            "Kautilya (Chanakya)",
+            "Kalidasa",
+            "Panini"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kautilya (Chanakya / Vishnugupta), chief advisor to Chandragupta Maurya, authored the Arthashastra."
+        },
+        {
+          "id": "g8",
+          "topic": "Medieval History",
+          "difficulty": "medium",
+          "question": "In which year was the First Battle of Panipat fought between Babur and Ibrahim Lodi?",
+          "options": [
+            "1526",
+            "1556",
+            "1761",
+            "1527"
+          ],
+          "correctIndex": 0,
+          "explanation": "Babur defeated Ibrahim Lodi in the First Battle of Panipat on 21 April 1526, founding the Mughal Empire."
+        },
+        {
+          "id": "g9",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "How many Schedules are currently present in the Constitution of India?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "correctIndex": 2,
+          "explanation": "Originally there were 8 Schedules; subsequent amendments expanded the Constitution to 12 Schedules."
+        },
+        {
+          "id": "g10",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "Which Article empowers the President of India to promulgate Ordinances when Parliament is not in session?",
+          "options": [
+            "Article 72",
+            "Article 110",
+            "Article 123",
+            "Article 213"
+          ],
+          "correctIndex": 2,
+          "explanation": "Article 123 grants ordinance-making power to the President (Article 213 grants the analogous power to State Governors)."
+        },
+        {
+          "id": "g11",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Who is the Guardian of the Public Purse and audits all receipts and expenditure of the Union and States under Article 148?",
+          "options": [
+            "Attorney General of India",
+            "Comptroller and Auditor General (CAG)",
+            "Finance Secretary",
+            "Solicitor General"
+          ],
+          "correctIndex": 1,
+          "explanation": "The CAG of India (Article 148) heads the Indian Audit and Accounts Department."
+        },
+        {
+          "id": "g12",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "Which Constitutional Amendment gave constitutional status to Panchayati Raj Institutions (Part IX)?",
+          "options": [
+            "42nd Amendment",
+            "73rd Amendment",
+            "74th Amendment",
+            "86th Amendment"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 73rd Constitutional Amendment Act (1992) added Part IX and the Eleventh Schedule for Panchayati Raj."
+        },
+        {
+          "id": "g13",
+          "topic": "Geography",
+          "difficulty": "easy",
+          "question": "Which is the highest mountain peak located entirely within India (undisputed Indian territory)?",
+          "options": [
+            "Mount Everest",
+            "Kangchenjunga",
+            "Nanda Devi",
+            "Anamudi"
+          ],
+          "correctIndex": 2,
+          "explanation": "Nanda Devi (7,816 m in Uttarakhand) is the highest peak entirely inside India; Kangchenjunga (8,586 m) lies on the India-Nepal border."
+        },
+        {
+          "id": "g14",
+          "topic": "Geography",
+          "difficulty": "easy",
+          "question": "Which strait separates India from Sri Lanka?",
+          "options": [
+            "Malacca Strait",
+            "Palk Strait",
+            "Hormuz Strait",
+            "Bering Strait"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Palk Strait connects the Bay of Bengal with the Gulf of Mannar, separating Tamil Nadu from Sri Lanka."
+        },
+        {
+          "id": "g15",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Hirakud Dam, one of the longest earthen dams in the world, is constructed across which river?",
+          "options": [
+            "Godavari",
+            "Mahanadi",
+            "Narmada",
+            "Sutlej"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hirakud Dam is built across the Mahanadi River near Sambalpur in Odisha."
+        },
+        {
+          "id": "g16",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Black soil (Regur soil), rich in clay and moisture-retentive, is most ideal for cultivating which crop?",
+          "options": [
+            "Tea",
+            "Cotton",
+            "Jute",
+            "Saffron"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deccan Trap black (Regur) soil is famously known as Black Cotton Soil."
+        },
+        {
+          "id": "g17",
+          "topic": "Physics",
+          "difficulty": "easy",
+          "question": "What is the SI unit of Power?",
+          "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "correctIndex": 2,
+          "explanation": "Power = Work / Time, measured in Joules per second = Watt (W)."
+        },
+        {
+          "id": "g18",
+          "topic": "Physics",
+          "difficulty": "easy",
+          "question": "Light year is a unit used to measure:",
+          "options": [
+            "Time",
+            "Speed of light",
+            "Astronomical distance",
+            "Luminous intensity"
+          ],
+          "correctIndex": 2,
+          "explanation": "One light year is the distance light travels in vacuum in one Julian year ($\\approx 9.46 \\times 10^{15}\\text{ m}$)."
+        },
+        {
+          "id": "g19",
+          "topic": "Physics",
+          "difficulty": "medium",
+          "question": "Which lens is prescribed to correct Myopia (nearsightedness)?",
+          "options": [
+            "Convex lens",
+            "Concave lens",
+            "Cylindrical lens",
+            "Plane glass"
+          ],
+          "correctIndex": 1,
+          "explanation": "A diverging (concave) lens shifts the image backward onto the retina to correct Myopia."
+        },
+        {
+          "id": "g20",
+          "topic": "Chemistry",
+          "difficulty": "easy",
+          "question": "Which gas is filled in electric filament bulbs along with argon to prevent oxidation of the tungsten filament?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Chlorine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Inert Nitrogen and Argon suppress filament evaporation and prevent tungsten oxidation."
+        },
+        {
+          "id": "g21",
+          "topic": "Chemistry",
+          "difficulty": "easy",
+          "question": "Brass is an alloy primarily composed of which two metals?",
+          "options": [
+            "Copper and Tin",
+            "Copper and Zinc",
+            "Lead and Tin",
+            "Iron and Chromium"
+          ],
+          "correctIndex": 1,
+          "explanation": "Brass = Copper + Zinc (whereas Bronze = Copper + Tin)."
+        },
+        {
+          "id": "g22",
+          "topic": "Chemistry",
+          "difficulty": "medium",
+          "question": "Which isotope of Carbon is used in radiocarbon dating to estimate the age of ancient organic fossils?",
+          "options": [
+            "Carbon-12",
+            "Carbon-13",
+            "Carbon-14",
+            "Carbon-11"
+          ],
+          "correctIndex": 2,
+          "explanation": "Radioactive $^{14}\\text{C}$ (half-life ~5,730 years) is used in radiocarbon dating."
+        },
+        {
+          "id": "g23",
+          "topic": "Biology",
+          "difficulty": "easy",
+          "question": "Which organelle is called the 'Powerhouse of the Cell' because it generates ATP via cellular respiration?",
+          "options": [
+            "Chloroplast",
+            "Mitochondria",
+            "Ribosome",
+            "Nucleus"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mitochondria synthesize ATP (adenosine triphosphate) through oxidative phosphorylation."
+        },
+        {
+          "id": "g24",
+          "topic": "Biology",
+          "difficulty": "easy",
+          "question": "Malaria is caused by the protozoan parasite *Plasmodium* and transmitted to humans by the bite of:",
+          "options": [
+            "Female Aedes mosquito",
+            "Female Anopheles mosquito",
+            "Culex mosquito",
+            "Sandfly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Female *Anopheles* mosquitoes transmit Malaria (*Aedes aegypti* transmits Dengue/Chikungunya)."
+        },
+        {
+          "id": "g25",
+          "topic": "Biology",
+          "difficulty": "medium",
+          "question": "Which is the largest gland in the human body?",
+          "options": [
+            "Pancreas",
+            "Thyroid",
+            "Liver",
+            "Pituitary"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Liver is the largest internal organ and largest gland in the human body."
+        },
+        {
+          "id": "g26",
+          "topic": "Computer Awareness",
+          "difficulty": "easy",
+          "question": "Which of the following is a volatile primary memory in a computer?",
+          "options": [
+            "ROM",
+            "RAM",
+            "SSD",
+            "Hard Disk"
+          ],
+          "correctIndex": 1,
+          "explanation": "RAM (Random Access Memory) loses all stored data when power is turned off (volatile)."
+        },
+        {
+          "id": "g27",
+          "topic": "Computer Awareness",
+          "difficulty": "easy",
+          "question": "In computer terminology, 1 Kilobyte (KB) in binary IEC/classic railway exam convention equals:",
+          "options": [
+            "512 bytes",
+            "1000 bytes",
+            "1024 bytes",
+            "2048 bytes"
+          ],
+          "correctIndex": 2,
+          "explanation": "$2^{10} = 1024$ bytes = 1 KB."
+        },
+        {
+          "id": "g28",
+          "topic": "Computer Awareness",
+          "difficulty": "easy",
+          "question": "Who is widely regarded as the 'Father of the Computer' for designing the Analytical Engine?",
+          "options": [
+            "Alan Turing",
+            "Charles Babbage",
+            "Tim Berners-Lee",
+            "John von Neumann"
+          ],
+          "correctIndex": 1,
+          "explanation": "Charles Babbage designed the Difference Engine and Analytical Engine in the 19th century."
+        },
+        {
+          "id": "g29",
+          "topic": "Computer Awareness",
+          "difficulty": "easy",
+          "question": "Which shortcut key is universally used in Windows/office applications to 'Undo' the last action?",
+          "options": [
+            "Ctrl + Y",
+            "Ctrl + Z",
+            "Ctrl + X",
+            "Ctrl + U"
+          ],
+          "correctIndex": 1,
+          "explanation": "`Ctrl + Z` performs Undo (`Ctrl + Y` performs Redo)."
+        },
+        {
+          "id": "g30",
+          "topic": "Economics",
+          "difficulty": "medium",
+          "question": "Which type of tax is the Goods and Services Tax (GST) in India?",
+          "options": [
+            "Direct and progressive tax",
+            "Destination-based indirect consumption tax",
+            "Origin-based wealth tax",
+            "Corporate income tax"
+          ],
+          "correctIndex": 1,
+          "explanation": "GST is a comprehensive, multi-stage, destination-based indirect tax on the supply of goods and services."
+        },
+        {
+          "id": "g31",
+          "topic": "Economics",
+          "difficulty": "medium",
+          "question": "The National Bank for Agriculture and Rural Development (NABARD) was established in 1982 on the recommendation of which committee?",
+          "options": [
+            "Narasimham Committee",
+            "B. Sivaraman Committee (CRAFICARD)",
+            "Kelkar Committee",
+            "Urjit Patel Committee"
+          ],
+          "correctIndex": 1,
+          "explanation": "NABARD was set up on 12 July 1982 following the B. Sivaraman Committee recommendation."
+        },
+        {
+          "id": "g32",
+          "topic": "International Organizations",
+          "difficulty": "easy",
+          "question": "Where is the headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) located?",
+          "options": [
+            "Geneva",
+            "Paris",
+            "Rome",
+            "New York"
+          ],
+          "correctIndex": 1,
+          "explanation": "UNESCO is headquartered in Paris, France."
+        },
+        {
+          "id": "g33",
+          "topic": "International Organizations",
+          "difficulty": "easy",
+          "question": "How many permanent members with veto power sit on the United Nations Security Council (UNSC)?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "10"
+          ],
+          "correctIndex": 1,
+          "explanation": "The five permanent members (P5) are China, France, Russia, the United Kingdom, and the United States."
+        },
+        {
+          "id": "g34",
+          "topic": "Space & Defence",
+          "difficulty": "easy",
+          "question": "India's Chandrayaan-3 Vikram lander achieved a historic soft landing near the Moon's south pole on which date (now celebrated as National Space Day)?",
+          "options": [
+            "14 July 2023",
+            "15 August 2023",
+            "23 August 2023",
+            "2 September 2023"
+          ],
+          "correctIndex": 2,
+          "explanation": "Chandrayaan-3 touched down on 23 August 2023 at Shiv Shakti Point; India observes 23 August as National Space Day."
+        },
+        {
+          "id": "g35",
+          "topic": "Space & Defence",
+          "difficulty": "medium",
+          "question": "What is the name of India's first dedicated solar observatory mission launched by ISRO to the Sun-Earth L1 point?",
+          "options": [
+            "Gaganyaan",
+            "Aditya-L1",
+            "Mangalyaan-2",
+            "AstroSat"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aditya-L1 was launched on 2 September 2023 aboard PSLV-C57 to study the Sun's corona and solar winds from L1."
+        },
+        {
+          "id": "g36",
+          "topic": "Art & Culture",
+          "difficulty": "easy",
+          "question": "Ajanta and Ellora Caves, renowned for Buddhist, Hindu, and Jain rock-cut monuments, are located in which district of Maharashtra?",
+          "options": [
+            "Pune",
+            "Chhatrapati Sambhajinagar (Aurangabad)",
+            "Nashik",
+            "Nagpur"
+          ],
+          "correctIndex": 1,
+          "explanation": "Both UNESCO World Heritage sites lie in Chhatrapati Sambhajinagar (formerly Aurangabad) district, Maharashtra."
+        },
+        {
+          "id": "g37",
+          "topic": "Sports",
+          "difficulty": "easy",
+          "question": "Who was the first Indian woman to win two Olympic medals (silver at Rio 2016 and bronze at Tokyo 2020)?",
+          "options": [
+            "Saina Nehwal",
+            "P. V. Sindhu",
+            "Mary Kom",
+            "Mirabai Chanu"
+          ],
+          "correctIndex": 1,
+          "explanation": "Badminton star P. V. Sindhu became the first Indian woman to win two individual Olympic medals."
+        },
+        {
+          "id": "g38",
+          "topic": "Environment",
+          "difficulty": "medium",
+          "question": "The 'Ramsar Convention' (1971) is an international treaty dedicated to the conservation and sustainable use of:",
+          "options": [
+            "Coral reefs only",
+            "Wetlands",
+            "Ozone layer",
+            "Endangered migratory birds only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Signed in Ramsar, Iran (2 Feb 1971), the Ramsar Convention protects Wetlands of International Importance."
+        },
+        {
+          "id": "g39",
+          "topic": "Static GK",
+          "difficulty": "easy",
+          "question": "Which Indian classical language was the VERY FIRST to be declared a Classical Language by the Government of India in 2004?",
+          "options": [
+            "Sanskrit",
+            "Tamil",
+            "Kannada",
+            "Telugu"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tamil was declared India's first Classical Language in 2004, followed by Sanskrit in 2005."
+        },
+        {
+          "id": "g40",
+          "topic": "Books & Authors",
+          "difficulty": "easy",
+          "question": "Who wrote 'The Discovery of India' while imprisoned at Ahmednagar Fort?",
+          "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Sardar Patel",
+            "Maulana Abul Kalam Azad"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' during 1942–1946 at Ahmednagar Fort."
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "questions": [
+        {
+          "id": "m1",
+          "topic": "BODMAS",
+          "difficulty": "easy",
+          "question": "Evaluate: $96 \\div 8 + 14 \\times 3 - 18$",
+          "options": [
+            "34",
+            "36",
+            "38",
+            "40"
+          ],
+          "correctIndex": 1,
+          "explanation": "$12 + 42 - 18 = 36$."
+        },
+        {
+          "id": "m2",
+          "topic": "Number System",
+          "difficulty": "easy",
+          "question": "How many prime numbers lie strictly between 20 and 50?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correctIndex": 1,
+          "explanation": "Primes between 20 and 50: 23, 29, 31, 37, 41, 43, 47 — total **7**."
+        },
+        {
+          "id": "m3",
+          "topic": "LCM & HCF",
+          "difficulty": "medium",
+          "question": "Find the smallest number which when divided by 12, 15, and 20 leaves a remainder of 5 in each case.",
+          "options": [
+            "55",
+            "65",
+            "75",
+            "125"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\text{LCM}(12, 15, 20) + 5 = 60 + 5 = 65$."
+        },
+        {
+          "id": "m4",
+          "topic": "Decimals & Fractions",
+          "difficulty": "easy",
+          "question": "Express the recurring decimal $0.\\overline{36}$ as a simplified fraction.",
+          "options": [
+            "$\\frac{4}{11}$",
+            "$\\frac{9}{25}$",
+            "$\\frac{3}{11}$",
+            "$\\frac{6}{11}$"
+          ],
+          "correctIndex": 0,
+          "explanation": "$0.\\overline{36} = \\frac{36}{99} = \\frac{4}{11}$."
+        },
+        {
+          "id": "m5",
+          "topic": "Ratio & Proportion",
+          "difficulty": "easy",
+          "question": "What is the fourth proportional to 6, 9, and 16?",
+          "options": [
+            "20",
+            "22",
+            "24",
+            "28"
+          ],
+          "correctIndex": 2,
+          "explanation": "$6 : 9 :: 16 : x \\Rightarrow x = \\frac{9 \\times 16}{6} = 24$."
+        },
+        {
+          "id": "m6",
+          "topic": "Percentage",
+          "difficulty": "easy",
+          "question": "A town's population increases by 10% every year. If its present population is 20,000, what will it be after 2 years?",
+          "options": [
+            "24,000",
+            "24,200",
+            "24,400",
+            "24,600"
+          ],
+          "correctIndex": 1,
+          "explanation": "$20000 \\times 1.1 \\times 1.1 = 24,200$."
+        },
+        {
+          "id": "m7",
+          "topic": "Profit & Loss",
+          "difficulty": "medium",
+          "question": "If the cost price of 15 pens equals the selling price of 12 pens, find the gain percentage.",
+          "options": [
+            "20%",
+            "25%",
+            "30%",
+            "33.33%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Gain % = $\\frac{15 - 12}{12} \\times 100 = 25\\%$."
+        },
+        {
+          "id": "m8",
+          "topic": "Simple Interest",
+          "difficulty": "medium",
+          "question": "In how many years will ₹4,000 yield ₹1,440 as simple interest at 9% per annum?",
+          "options": [
+            "3 years",
+            "4 years",
+            "4.5 years",
+            "5 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "$T = \\frac{1440 \\times 100}{4000 \\times 9} = \\frac{1440}{360} = 4$ years."
+        },
+        {
+          "id": "m9",
+          "topic": "Compound Interest",
+          "difficulty": "medium",
+          "question": "A sum doubles in 4 years at compound interest. In how many years will it become 8 times itself at the same rate?",
+          "options": [
+            "8 years",
+            "12 years",
+            "16 years",
+            "24 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "$8 = 2^3$, so time = $3 \\times 4 = 12$ years."
+        },
+        {
+          "id": "m10",
+          "topic": "Time & Work",
+          "difficulty": "medium",
+          "question": "A can do a job in 16 days and B in 24 days. With the help of C, they complete it in 6 days. In how many days can C alone do the job?",
+          "options": [
+            "12 days",
+            "14 days",
+            "16 days",
+            "18 days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Work = 48. A=3, B=2, A+B+C=8 ⇒ C=3 units/day ⇒ C alone takes $48/3 = 16$ days."
+        },
+        {
+          "id": "m11",
+          "topic": "Pipes & Cisterns",
+          "difficulty": "medium",
+          "question": "Tap A fills a cistern in 10 hours and Tap B empties it in 15 hours. If both are opened together, in how many hours will the empty cistern be full?",
+          "options": [
+            "20 hours",
+            "25 hours",
+            "30 hours",
+            "35 hours"
+          ],
+          "correctIndex": 2,
+          "explanation": "Net rate = $\\frac{1}{10} - \\frac{1}{15} = \\frac{1}{30}$ per hour ⇒ 30 hours."
+        },
+        {
+          "id": "m12",
+          "topic": "Time & Distance (Trains)",
+          "difficulty": "easy",
+          "question": "A 250 m long train running at 54 km/h crosses a 350 m long bridge in how many seconds?",
+          "options": [
+            "30 s",
+            "36 s",
+            "40 s",
+            "45 s"
+          ],
+          "correctIndex": 2,
+          "explanation": "Speed = $15\\text{ m/s}$. Total distance = $600\\text{ m}$. Time = $600 / 15 = 40$ s."
+        },
+        {
+          "id": "m13",
+          "topic": "Average",
+          "difficulty": "easy",
+          "question": "The average of 7 numbers is 24. If one number is excluded, the average of the remaining 6 numbers becomes 22. What was the excluded number?",
+          "options": [
+            "32",
+            "34",
+            "36",
+            "38"
+          ],
+          "correctIndex": 2,
+          "explanation": "Excluded = $7\\times 24 - 6\\times 22 = 168 - 132 = 36$."
+        },
+        {
+          "id": "m14",
+          "topic": "Mensuration 2D",
+          "difficulty": "easy",
+          "question": "Find the area of a right-angled triangle whose base is 18 cm and hypotenuse is 30 cm.",
+          "options": [
+            "$180\\text{ cm}^2$",
+            "$216\\text{ cm}^2$",
+            "$240\\text{ cm}^2$",
+            "$270\\text{ cm}^2$"
+          ],
+          "correctIndex": 1,
+          "explanation": "Height = $\\sqrt{30^2 - 18^2} = 24\\text{ cm}$. Area = $\\frac{1}{2} \\times 18 \\times 24 = 216\\text{ cm}^2$."
+        },
+        {
+          "id": "m15",
+          "topic": "Mensuration 3D",
+          "difficulty": "medium",
+          "question": "Find the length of the longest rod that can be placed inside a cuboid room of dimensions $12\\text{ m} \\times 9\\text{ m} \\times 8\\text{ m}$.",
+          "options": [
+            "15 m",
+            "17 m",
+            "19 m",
+            "21 m"
+          ],
+          "correctIndex": 1,
+          "explanation": "Space diagonal = $\\sqrt{12^2 + 9^2 + 8^2} = \\sqrt{144 + 81 + 64} = \\sqrt{289} = 17\\text{ m}$."
+        },
+        {
+          "id": "m16",
+          "topic": "Elementary Statistics (Mean)",
+          "difficulty": "easy",
+          "question": "Find the arithmetic mean of the dataset: `14, 18, 22, 26, 30, 34`.",
+          "options": [
+            "22",
+            "23",
+            "24",
+            "25"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sum = 144, count = 6 ⇒ Mean = $144 / 6 = 24$."
+        },
+        {
+          "id": "m17",
+          "topic": "Elementary Statistics (Median)",
+          "difficulty": "easy",
+          "question": "Find the **median** of the observations: `15, 8, 23, 12, 19, 7, 21`.",
+          "options": [
+            "12",
+            "15",
+            "19",
+            "16"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sorted: `7, 8, 12, 15, 19, 21, 23`. Middle (4th) value = **15**."
+        },
+        {
+          "id": "m18",
+          "topic": "Elementary Statistics (Mode & Empirical)",
+          "difficulty": "medium",
+          "question": "If the Mean of a moderately skewed distribution is 28 and the Median is 26, find the approximate **Mode** using the empirical formula.",
+          "options": [
+            "20",
+            "22",
+            "24",
+            "30"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\text{Mode} = 3\\,\\text{Median} - 2\\,\\text{Mean} = 3(26) - 2(28) = 78 - 56 = 22$."
+        },
+        {
+          "id": "m19",
+          "topic": "Elementary Statistics (Standard Deviation)",
+          "difficulty": "medium",
+          "question": "If the variance of a dataset is 169, what is its standard deviation?",
+          "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+          ],
+          "correctIndex": 2,
+          "explanation": "Standard Deviation = $\\sqrt{\\text{Variance}} = \\sqrt{169} = 13$."
+        },
+        {
+          "id": "m20",
+          "topic": "Algebra",
+          "difficulty": "easy",
+          "question": "If $a + b = 9$ and $ab = 14$, find $a^2 + b^2$.",
+          "options": [
+            "51",
+            "53",
+            "55",
+            "57"
+          ],
+          "correctIndex": 1,
+          "explanation": "$a^2 + b^2 = (a+b)^2 - 2ab = 81 - 28 = 53$."
+        },
+        {
+          "id": "m21",
+          "topic": "Algebra (Quadratic)",
+          "difficulty": "medium",
+          "question": "Find the sum of the roots of the quadratic equation $2x^2 - 14x + 19 = 0$.",
+          "options": [
+            "-7",
+            "7",
+            "14",
+            "9.5"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sum of roots = $-\\frac{b}{a} = \\frac{14}{2} = 7$."
+        },
+        {
+          "id": "m22",
+          "topic": "Geometry (Lines & Angles)",
+          "difficulty": "easy",
+          "question": "Two supplementary angles are in the ratio $4 : 5$. Find the smaller angle.",
+          "options": [
+            "$70^\\circ$",
+            "$75^\\circ$",
+            "$80^\\circ$",
+            "$100^\\circ$"
+          ],
+          "correctIndex": 2,
+          "explanation": "$4x + 5x = 180^\\circ \\Rightarrow x = 20^\\circ$. Smaller angle = $4 \\times 20^\\circ = 80^\\circ$."
+        },
+        {
+          "id": "m23",
+          "topic": "Geometry (Polygons)",
+          "difficulty": "medium",
+          "question": "Each exterior angle of a regular polygon measures $40^\\circ$. How many sides does the polygon have?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "correctIndex": 2,
+          "explanation": "Number of sides $n = \\frac{360^\\circ}{40^\\circ} = 9$ (nonagon)."
+        },
+        {
+          "id": "m24",
+          "topic": "Trigonometry",
+          "difficulty": "medium",
+          "question": "If $\\tan\\theta = \\frac{3}{4}$ (for acute $\\theta$), find the value of $\\sin\\theta + \\cos\\theta$.",
+          "options": [
+            "$\\frac{7}{5}$",
+            "$\\frac{5}{7}$",
+            "$\\frac{6}{5}$",
+            "$\\frac{8}{5}$"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hypotenuse = $\\sqrt{3^2+4^2}=5$. $\\sin\\theta = 3/5$, $\\cos\\theta = 4/5 \\Rightarrow \\text{sum} = 7/5$."
+        },
+        {
+          "id": "m25",
+          "topic": "Trigonometry (Identities)",
+          "difficulty": "easy",
+          "question": "Find the value of $\\frac{\\sin 38^\\circ}{\\cos 52^\\circ} + \\frac{\\tan 25^\\circ}{\\cot 65^\\circ}$.",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "correctIndex": 2,
+          "explanation": "$\\sin 38^\\circ = \\cos 52^\\circ$ and $\\tan 25^\\circ = \\cot 65^\\circ$, so $1 + 1 = 2$."
+        },
+        {
+          "id": "m26",
+          "topic": "Heights & Distances",
+          "difficulty": "medium",
+          "question": "The shadow of a vertical pole of height 15 m is $15\\sqrt{3}\\text{ m}$ long. What is the angle of elevation of the Sun?",
+          "options": [
+            "$30^\\circ$",
+            "$45^\\circ$",
+            "$60^\\circ$",
+            "$75^\\circ$"
+          ],
+          "correctIndex": 0,
+          "explanation": "$\\tan\\theta = \\frac{15}{15\\sqrt{3}} = \\frac{1}{\\sqrt{3}} \\Rightarrow \\theta = 30^\\circ$."
+        },
+        {
+          "id": "m27",
+          "topic": "Partnership",
+          "difficulty": "easy",
+          "question": "A and B invest ₹15,000 and ₹25,000 respectively for 1 year. If total profit is ₹16,000, find A's profit share.",
+          "options": [
+            "₹5,000",
+            "₹6,000",
+            "₹7,500",
+            "₹10,000"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ratio = $3:5$. A's share = $\\frac{3}{8} \\times 16000 = ₹6,000$."
+        },
+        {
+          "id": "m28",
+          "topic": "Ages",
+          "difficulty": "easy",
+          "question": "A mother is 3 times as old as her daughter. After 12 years, she will be twice as old as her daughter. What is the daughter's present age?",
+          "options": [
+            "10 years",
+            "12 years",
+            "14 years",
+            "16 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "$3x + 12 = 2(x + 12) \\Rightarrow x = 12$ years."
+        },
+        {
+          "id": "m29",
+          "topic": "Square Roots & Surds",
+          "difficulty": "easy",
+          "question": "Evaluate: $\\sqrt{0.0625} + \\sqrt{0.0225}$",
+          "options": [
+            "0.35",
+            "0.40",
+            "0.45",
+            "0.50"
+          ],
+          "correctIndex": 1,
+          "explanation": "$0.25 + 0.15 = 0.40$."
+        },
+        {
+          "id": "m30",
+          "topic": "Data Interpretation",
+          "difficulty": "easy",
+          "question": "Passenger tickets (in thousands) booked at a railway zone over 4 quarters:\n\n| Quarter | Q1 | Q2 | Q3 | Q4 |\n|---|---|---|---|---|\n| **Tickets (k)** | 120 | 150 | 180 | 150 |\n\nWhat percentage of the annual bookings occurred in **Q3**?",
+          "options": [
+            "25%",
+            "28%",
+            "30%",
+            "35%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Annual total = $120+150+180+150 = 600$. Q3 share = $\\frac{180}{600} \\times 100 = 30\\%$."
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "questions": [
+        {
+          "id": "r1",
+          "topic": "Analogy",
+          "difficulty": "easy",
+          "question": "`Heart : Cardiologist :: Kidney : ?`",
+          "options": [
+            "Neurologist",
+            "Nephrologist",
+            "Dermatologist",
+            "Ophthalmologist"
+          ],
+          "correctIndex": 1,
+          "explanation": "A Nephrologist specializes in kidney diseases."
+        },
+        {
+          "id": "r2",
+          "topic": "Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number:\n`9, 16, 25, 36, 49, ?`",
+          "options": [
+            "56",
+            "60",
+            "64",
+            "81"
+          ],
+          "correctIndex": 2,
+          "explanation": "Consecutive squares $3^2, 4^2, 5^2, 6^2, 7^2, 8^2 = 64$."
+        },
+        {
+          "id": "r3",
+          "topic": "Alphabet Series",
+          "difficulty": "easy",
+          "question": "Complete the series:\n`B, E, H, K, N, ?`",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "correctIndex": 1,
+          "explanation": "Each letter advances by +3: N(14) + 3 = Q(17)."
+        },
+        {
+          "id": "r4",
+          "topic": "Coding-Decoding",
+          "difficulty": "medium",
+          "question": "If `TRAIN` is coded as `WUDLQ`, how is `METRO` coded?",
+          "options": [
+            "PHWUR",
+            "PHVUR",
+            "QHWUR",
+            "PGWUR"
+          ],
+          "correctIndex": 0,
+          "explanation": "Each letter shifts +3: M→P, E→H, T→W, R→U, O→R ⇒ `PHWUR`."
+        },
+        {
+          "id": "r5",
+          "topic": "Mathematical Operations",
+          "difficulty": "easy",
+          "question": "If `×` means `+`, `÷` means `-`, `+` means `×`, and `-` means `÷`, find:\n`20 - 4 + 3 × 8 ÷ 5`",
+          "options": [
+            "16",
+            "18",
+            "20",
+            "22"
+          ],
+          "correctIndex": 1,
+          "explanation": "$20 \\div 4 \\times 3 + 8 - 5 = 5 \\times 3 + 3 = 18$."
+        },
+        {
+          "id": "r6",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All trains are vehicles.\n2. Some vehicles are electric.\n\nConclusions:\nI. Some vehicles are trains.\nII. All electric things are trains.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+          ],
+          "correctIndex": 0,
+          "explanation": "From Statement 1, 'Some vehicles are trains' (I) definitely follows; II does not."
+        },
+        {
+          "id": "r7",
+          "topic": "Venn Diagram",
+          "difficulty": "easy",
+          "question": "In a group of 50 commuters, 32 travel by Metro, 28 travel by Bus, and every commuter uses at least one of the two. How many use BOTH Metro and Bus?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "correctIndex": 1,
+          "explanation": "$n(M \\cap B) = 32 + 28 - 50 = 10$."
+        },
+        {
+          "id": "r8",
+          "topic": "Data Sufficiency",
+          "difficulty": "medium",
+          "question": "Question: How is Ravi related to Suman?\nStatements:\nI. Ravi is the only son of Suman's mother.\nII. Suman is a female.\n\nWhich statements are sufficient to answer the question?",
+          "options": [
+            "Only Statement I is sufficient",
+            "Only Statement II is sufficient",
+            "Both I and II together are needed",
+            "Neither I nor II is sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "From I alone, Ravi could be Suman himself (if Suman is male) or Suman's brother (if Suman is female). Statement II confirms Suman is female, making Ravi definitively her brother. Hence **Both I and II together** are required."
+        },
+        {
+          "id": "r9",
+          "topic": "Statement & Conclusion",
+          "difficulty": "medium",
+          "question": "Statement: All high-speed Vande Bharat trains have automatic sliding doors for passenger safety.\nConclusions:\nI. Automatic sliding doors enhance passenger safety.\nII. Ordinary local passenger trains do not have any safety features.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+          ],
+          "correctIndex": 0,
+          "explanation": "Conclusion I follows directly from the statement; II makes an unsupported generalization about ordinary trains."
+        },
+        {
+          "id": "r10",
+          "topic": "Statement & Assumption",
+          "difficulty": "medium",
+          "question": "Statement: A railway notice reads: \"Please do not cross railway tracks; use the foot overbridge.\"\nAssumptions:\nI. Some passengers tend to cross railway tracks directly.\nII. A foot overbridge is available at the station.",
+          "options": [
+            "Only Assumption I is implicit",
+            "Only Assumption II is implicit",
+            "Both I and II are implicit",
+            "Neither I nor II is implicit"
+          ],
+          "correctIndex": 2,
+          "explanation": "Issuing the warning assumes passengers might cross tracks (I) and that a foot overbridge exists for them to use (II)."
+        },
+        {
+          "id": "r11",
+          "topic": "Blood Relations",
+          "difficulty": "easy",
+          "question": "A is the father of B, but B is not the son of A. How is B related to A?",
+          "options": [
+            "Nephew",
+            "Daughter",
+            "Brother",
+            "Cousin"
+          ],
+          "correctIndex": 1,
+          "explanation": "If A is B's father and B is not his son, B must be his **Daughter**."
+        },
+        {
+          "id": "r12",
+          "topic": "Direction Sense",
+          "difficulty": "easy",
+          "question": "Mohan walks 10 m South, turns left and walks 15 m, then turns left again and walks 10 m. How far and in which direction is he from the start?",
+          "options": [
+            "15 m West",
+            "15 m East",
+            "10 m North",
+            "25 m East"
+          ],
+          "correctIndex": 1,
+          "explanation": "10 m South and 10 m North cancel; turning left from South goes East ⇒ **15 m East**."
+        },
+        {
+          "id": "r13",
+          "topic": "Odd One Out",
+          "difficulty": "easy",
+          "question": "Select the odd word from the given alternatives.",
+          "options": [
+            "Copper",
+            "Aluminium",
+            "Iron",
+            "Wood"
+          ],
+          "correctIndex": 3,
+          "explanation": "Copper, Aluminium, and Iron are metals; Wood is a non-metallic organic insulator."
+        },
+        {
+          "id": "r14",
+          "topic": "Jumbling (Word Formation)",
+          "difficulty": "easy",
+          "question": "Rearrange the jumbled letters `A R N I T` to form a meaningful English word. What is the middle letter of that word?",
+          "options": [
+            "R",
+            "A",
+            "I",
+            "T"
+          ],
+          "correctIndex": 1,
+          "explanation": "Unscrambled word = `TRAIN`. Middle (3rd) letter is `A`."
+        },
+        {
+          "id": "r15",
+          "topic": "Order & Ranking",
+          "difficulty": "easy",
+          "question": "In a row of 40 passengers, Rajesh is 14th from the right end. What is his position from the left end?",
+          "options": [
+            "25th",
+            "26th",
+            "27th",
+            "28th"
+          ],
+          "correctIndex": 2,
+          "explanation": "$40 - 14 + 1 = 27\\text{th}$."
+        },
+        {
+          "id": "r16",
+          "topic": "Number Analogy",
+          "difficulty": "easy",
+          "question": "`7 : 56 :: 9 : ?`",
+          "options": [
+            "72",
+            "81",
+            "90",
+            "99"
+          ],
+          "correctIndex": 2,
+          "explanation": "$n : n(n+1) \\Rightarrow 7 \\times 8 = 56$, so $9 \\times 10 = 90$."
+        },
+        {
+          "id": "r17",
+          "topic": "Missing Number",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`3, 10, 29, 66, 127, ?`",
+          "options": [
+            "214",
+            "216",
+            "218",
+            "220"
+          ],
+          "correctIndex": 2,
+          "explanation": "Pattern $n^3 + 2$: $1^3+2=3, 2^3+2=10, 3^3+2=29, 4^3+2=66, 5^3+2=127, 6^3+2=218$."
+        },
+        {
+          "id": "r18",
+          "topic": "Coding-Decoding (Number)",
+          "difficulty": "easy",
+          "question": "If `E = 5` and `PEN = 35`, then `PAGE = ?`",
+          "options": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ],
+          "correctIndex": 2,
+          "explanation": "P(16) + A(1) + G(7) + E(5) = 29."
+        },
+        {
+          "id": "r19",
+          "topic": "Calendar",
+          "difficulty": "medium",
+          "question": "If today is Tuesday, what day of the week will it be after 64 days?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "correctIndex": 1,
+          "explanation": "$64 \\bmod 7 = 1$ odd day. Tuesday + 1 = **Wednesday**."
+        },
+        {
+          "id": "r20",
+          "topic": "Clock",
+          "difficulty": "medium",
+          "question": "How many times do the hands of a standard clock coincide (overlap at $0^\\circ$) in a 12-hour period?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "22"
+          ],
+          "correctIndex": 1,
+          "explanation": "The hands coincide 11 times in 12 hours (22 times in 24 hours), because between 11 and 1 they coincide only once at 12:00."
+        },
+        {
+          "id": "r21",
+          "topic": "Seating Arrangement",
+          "difficulty": "medium",
+          "question": "Six people A, B, C, D, E, and F sit in a circle facing the centre. A sits between B and F. D sits opposite to A. C sits immediately to the right of D. E sits opposite to B. Who sits immediately to the left of D?",
+          "options": [
+            "C",
+            "E",
+            "F",
+            "B"
+          ],
+          "correctIndex": 1,
+          "explanation": "With A opposite D, and B/F adjacent to A, C/E are adjacent to D. Since C is immediately right of D, **E** sits immediately to the left of D."
+        },
+        {
+          "id": "r22",
+          "topic": "Odd Number Out",
+          "difficulty": "easy",
+          "question": "Find the odd number out.",
+          "options": [
+            "17",
+            "23",
+            "29",
+            "39"
+          ],
+          "correctIndex": 3,
+          "explanation": "17, 23, and 29 are prime numbers; $39 = 3 \\times 13$ is composite."
+        },
+        {
+          "id": "r23",
+          "topic": "Analytical Reasoning",
+          "difficulty": "medium",
+          "question": "Five cities P, Q, R, S, and T are compared by population: P has more people than Q, R has fewer people than S, T has more people than S, and Q has more people than T. Which city has the **highest** population?",
+          "options": [
+            "P",
+            "Q",
+            "S",
+            "T"
+          ],
+          "correctIndex": 0,
+          "explanation": "Order: `P > Q > T > S > R`. Highest = **P**."
+        },
+        {
+          "id": "r24",
+          "topic": "Word Analogy",
+          "difficulty": "easy",
+          "question": "`Author : Novel :: Sculptor : ?`",
+          "options": [
+            "Chisel",
+            "Statue",
+            "Stone",
+            "Museum"
+          ],
+          "correctIndex": 1,
+          "explanation": "An author creates a novel; a sculptor creates a statue."
+        },
+        {
+          "id": "r25",
+          "topic": "Letter Cluster Odd One Out",
+          "difficulty": "easy",
+          "question": "Pick the odd letter-cluster out.",
+          "options": [
+            "AEI",
+            "IOU",
+            "OUA",
+            "BCD"
+          ],
+          "correctIndex": 3,
+          "explanation": "AEI, IOU, and OUA consist exclusively of vowels; BCD consists of consonants."
+        },
+        {
+          "id": "r26",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. No fruit is a vegetable.\n2. All apples are fruits.\n\nConclusions:\nI. No apple is a vegetable.\nII. Some fruits are apples.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Both I and II follow",
+            "Neither follows"
+          ],
+          "correctIndex": 2,
+          "explanation": "Apples ⊂ Fruits and Fruits ∩ Vegetables = ∅ ⇒ No apple is a vegetable (I) and Some fruits are apples (II). Both follow."
+        },
+        {
+          "id": "r27",
+          "topic": "Direction Sense (Shadow)",
+          "difficulty": "medium",
+          "question": "One morning after sunrise, Vikram and Ajay were standing face-to-face talking. Vikram's shadow fell exactly to Ajay's left. Which direction was Vikram facing?",
+          "options": [
+            "East",
+            "West",
+            "North",
+            "South"
+          ],
+          "correctIndex": 3,
+          "explanation": "In the morning, the Sun is in the East so shadows fall West. West is to Ajay's left ⇒ Ajay faces North ⇒ facing Ajay, Vikram faces **South**."
+        },
+        {
+          "id": "r28",
+          "topic": "Number Series",
+          "difficulty": "medium",
+          "question": "Find the missing term in the series:\n`2, 5, 11, 23, 47, ?`",
+          "options": [
+            "93",
+            "95",
+            "97",
+            "99"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rule $2n + 1$: $47 \\times 2 + 1 = 95$."
+        },
+        {
+          "id": "r29",
+          "topic": "Data Sufficiency",
+          "difficulty": "medium",
+          "question": "Question: What is the weight of Box X?\nStatements:\nI. Box X weighs 5 kg more than Box Y.\nII. Total weight of Box X and Box Y is 35 kg.\n\nWhich statements are sufficient?",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Both I and II together are sufficient",
+            "Even together they are not sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "$X - Y = 5$ and $X + Y = 35 \\Rightarrow 2X = 40 \\Rightarrow X = 20\\text{ kg}$. Both together are sufficient."
+        },
+        {
+          "id": "r30",
+          "topic": "Mirror Image (Letters)",
+          "difficulty": "easy",
+          "question": "How many capital English letters among `A, H, M, P, T, V, W` appear identical in a vertical plane mirror?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correctIndex": 2,
+          "explanation": "`A, H, M, T, V, W` (6 letters) are horizontally symmetric; `P` reverses in a vertical mirror."
+        }
+      ]
+    }
+  ]
+}

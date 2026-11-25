@@ -1,0 +1,35 @@
+name: Bug Report
+description: Report a UI issue, scoring bug, timer problem, or JSON parser error
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for reporting an issue in BharatCBT! Please share enough detail so we can reproduce and fix it quickly.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Describe the bug
+      description: Clear description of what happened and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Dashboard / Profile & Backup / Exam Runner
+        2. Load mock exam "..."
+        3. Click "..."
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser & Viewport
+      placeholder: "e.g., Chrome 131 on Windows 11, 1280x800, Light/Dark mode"
+  - type: textarea
+    id: json-snippet
+    attributes:
+      label: Sample JSON or Console Output (optional)
+      render: json

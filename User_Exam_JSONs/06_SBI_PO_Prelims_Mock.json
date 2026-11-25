@@ -1,0 +1,1630 @@
+{
+  "title": "SBI PO Prelims — Full-Length Sectional Timed CBT Mock",
+  "subtitle": "100 Questions • 60 Minutes (20+20+20m) • 100 Marks • Official Revised 40/30/30 Split • 5 Options",
+  "category": "Banking",
+  "description": "Exact full-length State Bank of India Probationary Officer (SBI PO) Prelims replica matching the revised official pattern: English Language (40 Qs / 20 min), Quantitative Aptitude (30 Qs / 20 min), and Reasoning Ability (30 Qs / 20 min), 5-option MCQs, +1 / -0.25 negative marking.",
+  "durationMinutes": 60,
+  "sectionalTiming": true,
+  "allowBackNavigationInSectionalTiming": false,
+  "defaultMarks": 1,
+  "defaultNegativeMarks": 0.25,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact revised SBI PO Prelims pattern: 100 questions (100 marks) across 3 strictly locked 20-minute sections (60 minutes total).",
+    "Official revised sectional distribution: English Language (40 Qs / 20 min) → Quantitative Aptitude (30 Qs / 20 min) → Reasoning Ability (30 Qs / 20 min).",
+    "5 options per question, +1 mark for each correct response, and -0.25 mark penalty for each incorrect response."
+  ],
+  "passages": {
+    "sbi_po_rc": {
+      "title": "Reading Comprehension — Questions 1 to 10",
+      "content": "For decades, India's logistics costs hovered near 13–14% of GDP—substantially higher than the 8–9% benchmark seen across advanced manufacturing economies. This efficiency gap stemmed less from a single bottleneck than from a fragmented modal mix: nearly two-thirds of domestic freight moved on congested highways, while rail corridors struggled with mixed passenger-freight priority and coastal shipping remained underutilized. Fragmented documentation across state check-posts and disconnected port portals further inflated inventory holding costs for exporters.\n\nThe launch of the **PM Gati Shakti National Master Plan** and the National Logistics Policy marked a deliberate shift from piecemeal road-building to integrated multimodal planning. By overlaying sixteen ministries' spatial infrastructure layers—including Dedicated Freight Corridors (DFCs), inland waterways, multimodal logistics parks, and industrial clusters—onto a unified GIS portal, planners can now spot missing last-mile connectors before tenders are even floated. On the western and eastern DFCs, double-stack container trains running at average speeds exceeding 50 km/h have already halved transit times between northern manufacturing belts and Gujarat ports.\n\nYet logistics economists caution that physical steel and concrete alone will not deliver sub-9% logistics costs. Small fleet operators, who own over three-quarters of India's trucking capacity, still grapple with empty return trips, delayed e-way bill reconciliation, and unpredictable toll compliance. Embedding open digital freight exchanges, standardized palletization, and cold-chain warehousing across Tier-II agro-clusters will be equally **vital** if India is to convert infrastructure expansion into durable export competitiveness."
+    },
+    "sbi_po_cloze": {
+      "title": "Cloze Test — Questions 11 to 17",
+      "content": "Read the following passage carefully and pick the most appropriate word for each numbered blank.\n\nGreen hydrogen—produced by splitting water using electricity generated from renewable sources—is widely hailed as a __(11)__ fuel for hard-to-abate sectors such as steelmaking, fertilizers, and heavy maritime shipping. Unlike battery electric vehicles, which excel in light passenger transport, industrial blast furnaces require extreme thermal energy that electricity alone cannot easily __(12)__. However, green hydrogen currently remains two to three times more __(13)__ than conventional grey hydrogen derived from natural gas. To close this cost __(14)__, governments are deploying production-linked incentives and funding domestic electrolyser __(15)__. As solar tariffs continue to fall and stack efficiencies __(16)__, analysts project that green hydrogen will reach commercial __(17)__ within the next decade."
+    },
+    "sbi_po_pj": {
+      "title": "Para Jumble — Questions 24 to 28",
+      "content": "Rearrange the following FIVE sentences (A), (B), (C), (D), and (E) to form a coherent paragraph and answer Questions 24 to 28:\n\n**(A)** Consequently, municipal landfills overflow with hazardous lead, cadmium, and lithium-ion residues that leach into local aquifers.\n**(B)** Rapid smartphone upgrade cycles and falling appliance prices have made India one of the world's fastest-growing generators of electronic waste.\n**(C)** Formal recycling parks equipped with automated precious-metal recovery lines can simultaneously curb pollution and supply domestic semiconductor fabs with recycled copper and cobalt.\n**(D)** Despite strict Extended Producer Responsibility (EPR) rules, over 70% of discarded gadgets still enter unregulated backyard dismantling units.\n**(E)** Bridging this gap requires accessible consumer buy-back kiosks and financial incentives that integrate informal scrap collectors into certified recycling networks."
+    },
+    "sbi_po_di1": {
+      "title": "Data Interpretation Set 1 — Questions 1 to 5 (Quant)",
+      "content": "Study the table below carefully and answer Questions 1 to 5.\n\n**Annual Revenue and Expenditure (in ₹ Crore) of Five Fintech Startups in FY24**\n*(Note: $\\text{Profit} = \\text{Revenue} - \\text{Expenditure}$; $\\text{Profit \\%} = \\frac{\\text{Profit}}{\\text{Expenditure}} \\times 100$)*\n\n| Company | Revenue (₹ Cr) | Expenditure (₹ Cr) |\n|---|---|---|\n| **Alpha** | 180 | 150 |\n| **Beta** | 260 | 200 |\n| **Gamma** | 200 | 160 |\n| **Delta** | 350 | 250 |\n| **Epsilon** | 300 | 240 |"
+    },
+    "sbi_po_di2": {
+      "title": "Data Interpretation Set 2 — Questions 6 to 10 (Quant)",
+      "content": "Study the table below carefully and answer Questions 6 to 10.\n\n**Total Books Published (Fiction + Non-Fiction) and Percentage of Fiction Books by Five Publishers in 2024**\n\n| Publisher | Total Books Published | % Fiction Books |\n|---|---|---|\n| **P1** | 400 | 60% |\n| **P2** | 500 | 44% |\n| **P3** | 600 | 55% |\n| **P4** | 350 | 40% |\n| **P5** | 450 | 60% |"
+    },
+    "sbi_po_p1": {
+      "title": "Puzzle 1 (Parallel Rows) — Questions 1 to 5 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 1 to 5:\n\nTen executives sit in two parallel rows of five seats each facing each other.\n- **Row 1 (facing South):** A, B, C, D, and E.\n- **Row 2 (facing North):** P, Q, R, S, and T.\n\nClues:\n1. **E** sits exactly in the middle of Row 1 and faces **T**.\n2. **P** sits immediately to the left of **T** and faces **A**.\n3. **R** sits at the extreme left end of Row 2 and faces **C**.\n4. **Q** sits immediately to the right of **T** and faces **B**.\n5. **S** sits at the extreme right end of Row 2 and faces **D**."
+    },
+    "sbi_po_p2": {
+      "title": "Puzzle 2 (Designation Hierarchy) — Questions 6 to 10 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 6 to 10:\n\nEight bank officers — **Vikram, Neha, Arjun, Priya, Rohan, Sneha, Karan, and Divya** — hold eight different designations in a public sector bank in descending order of seniority: **CMD (highest), GM, DGM, AGM, CM, SM, PO, and Clerk (lowest)**.\n- **Vikram** is the seniormost officer (CMD), while **Divya** is the juniormost (Clerk).\n- **Priya** is the AGM.\n- Exactly two officers are senior to **Arjun**, and **Neha** is immediately senior to **Arjun**.\n- **Rohan** is immediately junior to **Priya**.\n- **Sneha** is immediately senior to **Karan**, and **Karan** is immediately senior to **Divya**."
+    },
+    "sbi_po_p3": {
+      "title": "Puzzle 3 (Box-Stacking) — Questions 11 to 15 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 11 to 15:\n\nSeven coloured boxes — **Red, Blue, Green, Yellow, White, Orange, and Black** — are stacked vertically one above another from position **1 (bottom)** to **7 (top)**.\n- The **Yellow** box is placed exactly in the middle (position 4).\n- The **Red** box is at the topmost position (7), and the **Black** box is at the bottommost position (1).\n- The **Blue** box is immediately below the **Red** box.\n- The **Green** box is immediately above the **Yellow** box.\n- The **White** box is immediately below the **Yellow** box."
+    },
+    "sbi_po_p4": {
+      "title": "Puzzle 4 (Month & Date) — Questions 16 to 20 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 16 to 20:\n\nEight candidates — **Ankit, Bhavna, Chirag, Deepak, Esha, Farhan, Gaurav, and Hina** — have interviews on either the **10th** or **25th** of four months: **January, March, June, and September** (one candidate per date).\n- **Ankit** has the very first interview (January 10), and **Hina** has the very last interview (September 25).\n- **Bhavna**'s interview is in the same month as **Ankit**.\n- **Chirag** and **Deepak** have interviews in March, with **Chirag** before **Deepak**.\n- **Esha** has her interview on June 10, immediately before **Farhan**.\n- **Gaurav** has his interview on the 10th of a month having 30 days (not June)."
+    }
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Language",
+      "durationMinutes": 20,
+      "questions": [
+        {
+          "id": "e1",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "According to the passage, how did India's historical logistics costs compare with advanced manufacturing economies?",
+          "options": [
+            "India's costs (8–9% of GDP) were lower than advanced economies (13–14%)",
+            "India's costs (~13–14% of GDP) were substantially higher than the 8–9% benchmark",
+            "Both stood identically at 10% of GDP for decades",
+            "India had zero logistics costs due to coastal shipping",
+            "Advanced economies spent over 20% of GDP on highways"
+          ],
+          "correctIndex": 1,
+          "explanation": "The opening sentence states India's logistics costs hovered near 13–14% of GDP compared to 8–9% in advanced manufacturing economies."
+        },
+        {
+          "id": "e2",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "Which factor is cited as a primary structural cause of India's historic logistics inefficiency?",
+          "options": [
+            "Over-reliance on congested highways (~2/3rds of freight) and underutilized rail/coastal modes",
+            "Complete absence of any highway network across northern India",
+            "Excessive reliance on inland waterways for container exports",
+            "Banning of double-stack trains on Gujarat ports",
+            "Lack of private fleet operators in the trucking industry"
+          ],
+          "correctIndex": 0,
+          "explanation": "Paragraph 1 notes nearly two-thirds of domestic freight moved on congested highways while rail corridors faced mixed traffic and coastal shipping was underutilized."
+        },
+        {
+          "id": "e3",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "How does the PM Gati Shakti National Master Plan improve infrastructure planning?",
+          "options": [
+            "By abolishing all state-level industrial clusters",
+            "By overlaying 16 ministries' spatial layers onto a unified GIS portal to spot missing connectors early",
+            "By restricting all freight movement exclusively to highways",
+            "By privatizing all municipal toll plazas overnight",
+            "By suspending rail corridor expansion until 2040"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 2 explains that overlaying 16 ministries' spatial layers on a unified GIS portal lets planners identify missing last-mile connectors before floating tenders."
+        },
+        {
+          "id": "e4",
+          "topic": "Reading Comprehension",
+          "difficulty": "easy",
+          "passageId": "sbi_po_rc",
+          "question": "What concrete impact have Dedicated Freight Corridors (DFCs) already demonstrated?",
+          "options": [
+            "Doubling inventory holding costs for northern exporters",
+            "Halving transit times between northern manufacturing belts and Gujarat ports via >50 km/h double-stack trains",
+            "Replacing all Gujarat seaports with air cargo hubs",
+            "Reducing average train speeds below 20 km/h",
+            "Eliminating the need for cold-chain warehousing"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 2 highlights that double-stack trains exceeding 50 km/h on DFCs have halved transit times to Gujarat ports."
+        },
+        {
+          "id": "e5",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "What share of India's trucking capacity is owned by small fleet operators according to the passage?",
+          "options": [
+            "Less than 10%",
+            "Exactly 25%",
+            "Around 50%",
+            "Over three-quarters (75%)",
+            "100%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Paragraph 3 states small fleet operators own 'over three-quarters of India's trucking capacity'."
+        },
+        {
+          "id": "e6",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "Which operational challenge do small fleet operators continue to face?",
+          "options": [
+            "Empty return trips, delayed e-way bill reconciliation, and unpredictable toll compliance",
+            "Excessive railway subsidies on passenger tickets",
+            "Inability to purchase diesel fuel in Gujarat",
+            "Over-abundance of automated palletized warehouses",
+            "Prohibition on operating across Tier-II towns"
+          ],
+          "correctIndex": 0,
+          "explanation": "Paragraph 3 lists empty return trips, delayed e-way bill reconciliation, and unpredictable toll compliance."
+        },
+        {
+          "id": "e7",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "What complementary reforms do economists recommend alongside physical infrastructure?",
+          "options": [
+            "Open digital freight exchanges, standardized palletization, and Tier-II cold-chain warehousing",
+            "Re-introducing manual state border check-posts",
+            "Increasing import tariffs on shipping containers",
+            "Halting GIS mapping across ministries",
+            "Closing inland waterways to private cargo"
+          ],
+          "correctIndex": 0,
+          "explanation": "The concluding sentence prescribes open digital freight exchanges, standardized palletization, and cold-chain warehousing across Tier-II agro-clusters."
+        },
+        {
+          "id": "e8",
+          "topic": "Vocabulary in Context",
+          "difficulty": "easy",
+          "passageId": "sbi_po_rc",
+          "question": "Which word is MOST SIMILAR in meaning to `VITAL` as highlighted in the passage?",
+          "options": [
+            "Optional",
+            "Indispensable",
+            "Negligible",
+            "Harmful",
+            "Outdated"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Vital' means absolutely necessary or essential — synonymous with 'Indispensable'."
+        },
+        {
+          "id": "e9",
+          "topic": "Vocabulary in Context",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "Which word is MOST OPPOSITE in meaning to `FRAGMENTED` as used in paragraph 1?",
+          "options": [
+            "Scattered",
+            "Broken",
+            "Unified",
+            "Disjointed",
+            "Divided"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Fragmented' means broken into disconnected parts; its antonym is 'Unified'."
+        },
+        {
+          "id": "e10",
+          "topic": "Reading Comprehension (Tone)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_rc",
+          "question": "What is the overall tone of the author in the passage?",
+          "options": [
+            "Sarcastic and dismissive",
+            "Analytical and constructively pragmatic",
+            "Alarmist and fatalistic",
+            "Purely satirical",
+            "Indifferent and detached"
+          ],
+          "correctIndex": 1,
+          "explanation": "The author objectively diagnoses causes, credits multimodal policy progress, and pragmatically outlines remaining operational reforms."
+        },
+        {
+          "id": "e11",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (11).",
+          "options": [
+            "decarbonizing",
+            "polluting",
+            "obsolete",
+            "toxic",
+            "trivial"
+          ],
+          "correctIndex": 0,
+          "explanation": "Green hydrogen is hailed as a 'decarbonizing' fuel for heavy, hard-to-abate industries."
+        },
+        {
+          "id": "e12",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (12).",
+          "options": [
+            "destroy",
+            "deliver",
+            "conceal",
+            "postpone",
+            "forbid"
+          ],
+          "correctIndex": 1,
+          "explanation": "Blast furnaces need extreme heat that electricity alone cannot easily 'deliver'."
+        },
+        {
+          "id": "e13",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (13).",
+          "options": [
+            "abundant",
+            "expensive",
+            "fragile",
+            "silent",
+            "harmless"
+          ],
+          "correctIndex": 1,
+          "explanation": "'However' introduces the cost drawback: green hydrogen is two to three times more 'expensive'."
+        },
+        {
+          "id": "e14",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (14).",
+          "options": [
+            "surplus",
+            "gap",
+            "monopoly",
+            "profit",
+            "bonus"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Close this cost gap' is the exact idiomatic expression."
+        },
+        {
+          "id": "e15",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (15).",
+          "options": [
+            "manufacturing",
+            "demolition",
+            "suspension",
+            "prohibition",
+            "abandonment"
+          ],
+          "correctIndex": 0,
+          "explanation": "Governments fund domestic electrolyser 'manufacturing' to scale production."
+        },
+        {
+          "id": "e16",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (16).",
+          "options": [
+            "collapse",
+            "improve",
+            "vanish",
+            "stagnate",
+            "deteriorate"
+          ],
+          "correctIndex": 1,
+          "explanation": "Falling solar tariffs paired with stack efficiencies that 'improve' drive down costs."
+        },
+        {
+          "id": "e17",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "sbi_po_cloze",
+          "question": "Select the most appropriate option for blank (17).",
+          "options": [
+            "parity",
+            "bankruptcy",
+            "scarcity",
+            "obscurity",
+            "hostility"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Commercial parity' (cost competitiveness with grey hydrogen) is the standard energy-economics term."
+        },
+        {
+          "id": "e18",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`(A) The number of digital loan applications / (B) have risen sharply / (C) over the past / (D) eighteen months. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 1,
+          "explanation": "`The number of + plural noun` takes a singular verb (`has risen`), unlike `A number of` which takes plural."
+        },
+        {
+          "id": "e19",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`(A) Scarcely had the RBI Governor / (B) concluded his address / (C) than equity indices / (D) rallied sharply. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 2,
+          "explanation": "`Scarcely` takes `when`, not `than`."
+        },
+        {
+          "id": "e20",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`(A) The regional manager, / (B) along with three credit analysts, / (C) are visiting the Pune branch / (D) tomorrow morning. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Subjects joined by `along with` agree with the first subject (`The regional manager`, singular) ⇒ `is visiting`."
+        },
+        {
+          "id": "e21",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`(A) She is one of those rare economists / (B) who consistently predicts / (C) macroeconomic turning points / (D) with remarkable accuracy. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 1,
+          "explanation": "In `one of those [plural noun] who...`, the relative pronoun `who` refers to `economists` (plural), requiring `predict`."
+        },
+        {
+          "id": "e22",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`(A) Unless you do not submit / (B) the KYC verification form, / (C) your account cannot / (D) be activated. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 0,
+          "explanation": "`Unless` already carries negative meaning; `do not` creates a double negative. Correct form: `Unless you submit`."
+        },
+        {
+          "id": "e23",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment with a grammatical error:\n`(A) By the time the auditors arrived, / (B) the branch staff had already / (C) reconciled all pending / (D) treasury accounts. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 4,
+          "explanation": "Correct sequence of tenses (Past Perfect for earlier completed action, Simple Past for later action). No error."
+        },
+        {
+          "id": "e24",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "sbi_po_pj",
+          "question": "Which sentence should come **FIRST** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sequence: **B – D – A – C – E**. B introduces India's surging e-waste generation."
+        },
+        {
+          "id": "e25",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "sbi_po_pj",
+          "question": "Which sentence should come **SECOND** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 3,
+          "explanation": "Sequence **B – D – A – C – E**: D highlights that >70% of discarded gadgets enter informal dismantling despite EPR rules."
+        },
+        {
+          "id": "e26",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "sbi_po_pj",
+          "question": "Which sentence should come **THIRD** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sequence **B – D – A – C – E**: A ('Consequently...') states the environmental fallout of informal dismantling."
+        },
+        {
+          "id": "e27",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "sbi_po_pj",
+          "question": "Which sentence should come **FOURTH** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sequence **B – D – A – C – E**: C presents formal recycling parks as the industrial solution."
+        },
+        {
+          "id": "e28",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "sbi_po_pj",
+          "question": "Which sentence should come **FIFTH (LAST)** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 4,
+          "explanation": "Sequence **B – D – A – C – E**: E concludes with the actionable policy steps ('Bridging this gap...')."
+        },
+        {
+          "id": "e29",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Select the best replacement for the bracketed phrase:\n`Not only the branch increased deposits, (but it also reduced) non-performing assets.`",
+          "options": [
+            "Not only did the branch increase deposits, but it also reduced",
+            "Not only the branch increases deposits, and reduced",
+            "Not only had the branch increase deposits, but also reducing",
+            "No only the branch increased deposits, yet it reduced",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "When a sentence begins with `Not only`, subject-auxiliary inversion is mandatory: `Not only did the branch increase...`."
+        },
+        {
+          "id": "e30",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Select the best replacement for the bracketed phrase:\n`It is high time the regulator (takes) decisive action against unauthorized lending apps.`",
+          "options": [
+            "take",
+            "took",
+            "will take",
+            "has taken",
+            "No replacement required"
+          ],
+          "correctIndex": 1,
+          "explanation": "`It is high time + subject` always takes the Simple Past (subjunctive) verb: `took`."
+        },
+        {
+          "id": "e31",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Select the best replacement for the bracketed phrase:\n`The merger was called off (owing to the fact of) sharp valuation disagreements.`",
+          "options": [
+            "owing to",
+            "because of the fact to",
+            "due that",
+            "despite to",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "Concise and grammatically standard form is `owing to` (avoiding redundant 'the fact of')."
+        },
+        {
+          "id": "e32",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Select the best replacement for the bracketed phrase:\n`The analyst's forecast proved far more accurate (than any economist) on the panel.`",
+          "options": [
+            "than that of any other economist",
+            "than every economists",
+            "from any economist",
+            "as any other economist",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "Compare like with like (`forecast` with `that of any other economist`, excluding the analyst themselves)."
+        },
+        {
+          "id": "e33",
+          "topic": "Phrase Replacement",
+          "difficulty": "easy",
+          "question": "Select the best replacement for the bracketed phrase:\n`Every employee must comply (to) the cybersecurity protocol.`",
+          "options": [
+            "with",
+            "at",
+            "from",
+            "into",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "`Comply` always takes the preposition `with`."
+        },
+        {
+          "id": "e34",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Select the best replacement for the bracketed phrase:\n`Little (they realized) that the overnight bond yield spike would unsettle global equities.`",
+          "options": [
+            "did they realize",
+            "they had realized",
+            "were they realize",
+            "have they realize",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "Negative adverb `Little` at the start of a sentence triggers inversion: `Little did they realize`."
+        },
+        {
+          "id": "e35",
+          "topic": "Word Swap",
+          "difficulty": "medium",
+          "question": "Choose the pair of bold words to swap so the sentence makes contextual sense:\n`Rising rural **monsoons** (A) following abundant **incomes** (B) have boosted two-wheeler **sales** (C) across central **India** (D).`",
+          "options": [
+            "A-B",
+            "B-C",
+            "A-C",
+            "C-D",
+            "No swap required"
+          ],
+          "correctIndex": 0,
+          "explanation": "Swapping A and B yields: 'Rising rural **incomes** following abundant **monsoons** have boosted two-wheeler sales...'"
+        },
+        {
+          "id": "e36",
+          "topic": "Word Swap",
+          "difficulty": "medium",
+          "question": "Choose the pair of bold words to swap so the sentence is meaningful:\n`Strong capital **defaults** (A) shield commercial banks against sudden **buffers** (B) during economic **downturns** (C) and credit **shocks** (D).`",
+          "options": [
+            "A-C",
+            "A-B",
+            "B-D",
+            "C-D",
+            "No swap required"
+          ],
+          "correctIndex": 1,
+          "explanation": "Swapping A and B yields: 'Strong capital **buffers** shield commercial banks against sudden **defaults** during economic downturns and credit shocks.'"
+        },
+        {
+          "id": "e37",
+          "topic": "Double Fillers",
+          "difficulty": "medium",
+          "question": "Transparent sovereign debt disclosures ______ investor confidence and ______ borrowing costs in international bond markets.",
+          "options": [
+            "erode, elevate",
+            "bolster, lower",
+            "destroy, double",
+            "confuse, raise",
+            "weaken, inflate"
+          ],
+          "correctIndex": 1,
+          "explanation": "Transparent disclosures 'bolster' confidence and 'lower' borrowing costs."
+        },
+        {
+          "id": "e38",
+          "topic": "Double Fillers",
+          "difficulty": "medium",
+          "question": "The startup's rapid expansion proved ______ when rising customer acquisition costs began to ______ its cash reserves.",
+          "options": [
+            "unsustainable, deplete",
+            "profitable, multiply",
+            "effortless, expand",
+            "permanent, enrich",
+            "stable, restore"
+          ],
+          "correctIndex": 0,
+          "explanation": "Expansion became 'unsustainable' as costs began to 'deplete' cash reserves."
+        },
+        {
+          "id": "e39",
+          "topic": "Misspelt / Inappropriate Word",
+          "difficulty": "medium",
+          "question": "One of the four bold words in the sentence is either misspelt or contextually inappropriate. Identify it:\n`The **committee** (A) **recommended** (B) a **comprehansive** (C) audit of all **subsidiaries** (D).`",
+          "options": [
+            "A (committee)",
+            "B (recommended)",
+            "C (comprehansive)",
+            "D (subsidiaries)",
+            "All are correct"
+          ],
+          "correctIndex": 2,
+          "explanation": "The correct spelling is `comprehensive` (not `comprehansive`)."
+        },
+        {
+          "id": "e40",
+          "topic": "Sentence Connector",
+          "difficulty": "medium",
+          "question": "Choose the connector that best joins the two sentences without changing their meaning:\nI. Exports from the textile hub grew 18% this fiscal.\nII. Freight container availability remained tight throughout the third quarter.",
+          "options": [
+            "Although",
+            "Therefore",
+            "Because",
+            "Moreover",
+            "Consequently"
+          ],
+          "correctIndex": 0,
+          "explanation": "The two statements express contrast (strong export growth despite tight container supply), best joined by `Although`."
+        }
+      ]
+    },
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude",
+      "durationMinutes": 20,
+      "questions": [
+        {
+          "id": "q1",
+          "topic": "Data Interpretation (Profit Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di1",
+          "question": "Which company recorded the **highest profit percentage** on its expenditure in FY24?",
+          "options": [
+            "Alpha",
+            "Beta",
+            "Gamma",
+            "Delta",
+            "Epsilon"
+          ],
+          "correctIndex": 3,
+          "explanation": "Profit %: Alpha = 30/150 = 20%; Beta = 60/200 = 30%; Gamma = 40/160 = 25%; **Delta = 100/250 = 40%**; Epsilon = 60/240 = 25%."
+        },
+        {
+          "id": "q2",
+          "topic": "Data Interpretation (Profit Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di1",
+          "question": "What is the **overall profit percentage** of all five companies combined (Total Profit as % of Total Expenditure)?",
+          "options": [
+            "25%",
+            "27%",
+            "28%",
+            "29%",
+            "31%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Total Rev = ₹1,290 Cr, Total Exp = ₹1,000 Cr, Total Profit = ₹290 Cr. Overall Profit % = $\\frac{290}{1000}\\times 100 = 29\\%$."
+        },
+        {
+          "id": "q3",
+          "topic": "Data Interpretation (Profit Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di1",
+          "question": "What is the ratio of the profit earned by **Beta** to the profit earned by **Delta**?",
+          "options": [
+            "2 : 3",
+            "3 : 5",
+            "4 : 5",
+            "3 : 4",
+            "5 : 7"
+          ],
+          "correctIndex": 1,
+          "explanation": "Beta profit = $260 - 200 = 60$. Delta profit = $350 - 250 = 100$. Ratio = $60 : 100 = 3 : 5$."
+        },
+        {
+          "id": "q4",
+          "topic": "Data Interpretation (Profit Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di1",
+          "question": "What is the **average profit** earned per company across all five startups?",
+          "options": [
+            "₹52 Crore",
+            "₹54 Crore",
+            "₹56 Crore",
+            "₹58 Crore",
+            "₹60 Crore"
+          ],
+          "correctIndex": 3,
+          "explanation": "Total profit = $30 + 60 + 40 + 100 + 60 = ₹290\\text{ Cr}$. Average = $290 / 5 = ₹58\\text{ Crore}$."
+        },
+        {
+          "id": "q5",
+          "topic": "Data Interpretation (Profit Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di1",
+          "question": "The revenue of **Epsilon** is what percent MORE than the revenue of **Gamma**?",
+          "options": [
+            "40%",
+            "45%",
+            "50%",
+            "55%",
+            "60%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Epsilon Rev = 300, Gamma Rev = 200. Percent more = $\\frac{300 - 200}{200}\\times 100 = 50\\%$."
+        },
+        {
+          "id": "q6",
+          "topic": "Data Interpretation (Percentage Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di2",
+          "question": "Find the total number of **Non-Fiction** books published by **P1** and **P2** together.",
+          "options": [
+            "420",
+            "430",
+            "440",
+            "450",
+            "460"
+          ],
+          "correctIndex": 2,
+          "explanation": "P1 Non-Fiction = $40\\%$ of $400 = 160$. P2 Non-Fiction = $56\\%$ of $500 = 280$. Sum = $160 + 280 = 440$."
+        },
+        {
+          "id": "q7",
+          "topic": "Data Interpretation (Percentage Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di2",
+          "question": "What is the ratio of **Fiction** books published by **P3** to **Fiction** books published by **P5**?",
+          "options": [
+            "9 : 7",
+            "11 : 9",
+            "10 : 9",
+            "13 : 11",
+            "7 : 5"
+          ],
+          "correctIndex": 1,
+          "explanation": "P3 Fiction = $55\\%$ of $600 = 330$. P5 Fiction = $60\\%$ of $450 = 270$. Ratio = $330 : 270 = 11 : 9$."
+        },
+        {
+          "id": "q8",
+          "topic": "Data Interpretation (Percentage Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di2",
+          "question": "What is the difference between total **Fiction** books and total **Non-Fiction** books published across all five publishers?",
+          "options": [
+            "80",
+            "90",
+            "100",
+            "110",
+            "120"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total Fiction = $240+220+330+140+270 = 1200$. Total Non-Fiction = $160+280+270+210+180 = 1100$. Difference = $100$."
+        },
+        {
+          "id": "q9",
+          "topic": "Data Interpretation (Percentage Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di2",
+          "question": "Fiction books published by **P4** are what percent of Non-Fiction books published by **P2**?",
+          "options": [
+            "40%",
+            "45%",
+            "50%",
+            "55%",
+            "60%"
+          ],
+          "correctIndex": 2,
+          "explanation": "P4 Fiction = $40\\%$ of $350 = 140$. P2 Non-Fiction = $280$. Percentage = $\\frac{140}{280}\\times 100 = 50\\%$."
+        },
+        {
+          "id": "q10",
+          "topic": "Data Interpretation (Percentage Table)",
+          "difficulty": "medium",
+          "passageId": "sbi_po_di2",
+          "question": "What is the average number of **Fiction** books published per publisher across all five publishers?",
+          "options": [
+            "220",
+            "230",
+            "240",
+            "250",
+            "260"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total Fiction = $1200$. Average = $1200 / 5 = 240$."
+        },
+        {
+          "id": "q11",
+          "topic": "Wrong Number Series",
+          "difficulty": "hard",
+          "question": "Find the WRONG number in the series:\n`8, 12, 24, 60, 180, 620, 2520`",
+          "options": [
+            "12",
+            "24",
+            "60",
+            "180",
+            "620"
+          ],
+          "correctIndex": 4,
+          "explanation": "Multipliers: $\\times 1.5, \\times 2, \\times 2.5, \\times 3, \\times 3.5, \\times 4$. Thus $180 \\times 3.5 = 630$ (not 620), and $630 \\times 4 = 2520$."
+        },
+        {
+          "id": "q12",
+          "topic": "Wrong Number Series",
+          "difficulty": "medium",
+          "question": "Find the WRONG number in the series:\n`15, 22, 36, 57, 85, 122, 162`",
+          "options": [
+            "22",
+            "36",
+            "85",
+            "122",
+            "162"
+          ],
+          "correctIndex": 3,
+          "explanation": "Differences increase by +7: $+7, +14, +21, +28, +35, +42$. Thus $85 + 35 = 120$ (not 122), and $120 + 42 = 162$."
+        },
+        {
+          "id": "q13",
+          "topic": "Wrong Number Series",
+          "difficulty": "hard",
+          "question": "Find the WRONG number in the series:\n`4, 5, 13, 40, 104, 229, 446`",
+          "options": [
+            "5",
+            "13",
+            "40",
+            "229",
+            "446"
+          ],
+          "correctIndex": 4,
+          "explanation": "Differences are cubes $+1^3, +2^3, +3^3, +4^3, +5^3, +6^3$: $229 + 216 = 445$ (not 446)."
+        },
+        {
+          "id": "q14",
+          "topic": "Wrong Number Series",
+          "difficulty": "medium",
+          "question": "Find the WRONG number in the series:\n`3, 7, 15, 31, 64, 127, 255`",
+          "options": [
+            "7",
+            "15",
+            "31",
+            "64",
+            "127"
+          ],
+          "correctIndex": 3,
+          "explanation": "Pattern $2n + 1$: $31 \\times 2 + 1 = 63$ (not 64), and $63 \\times 2 + 1 = 127$."
+        },
+        {
+          "id": "q15",
+          "topic": "Wrong Number Series",
+          "difficulty": "medium",
+          "question": "Find the WRONG number in the series:\n`200, 196, 187, 171, 146, 112, 61`",
+          "options": [
+            "196",
+            "187",
+            "171",
+            "112",
+            "61"
+          ],
+          "correctIndex": 3,
+          "explanation": "Subtract consecutive squares $-2^2, -3^2, -4^2, -5^2, -6^2, -7^2$: $146 - 36 = 110$ (not 112), and $110 - 49 = 61$."
+        },
+        {
+          "id": "q16",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $x^2 - 13x + 42 = 0$\nII. $y^2 - 11y + 30 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 2,
+          "explanation": "I: $x = 6, 7$. II: $y = 5, 6$. Hence $x \\ge y$."
+        },
+        {
+          "id": "q17",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $3x^2 - 10x + 8 = 0$\nII. $2y^2 - 11y + 12 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 4,
+          "explanation": "I: $(3x-4)(x-2)=0 \\Rightarrow x = 1.33, 2$. II: $(2y-3)(y-4)=0 \\Rightarrow y = 1.5, 4$. Since $1.33 < 1.5$ and $2 > 1.5$, no fixed relation exists."
+        },
+        {
+          "id": "q18",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $x^2 + 9x + 20 = 0$\nII. $y^2 + 13y + 42 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 0,
+          "explanation": "I: $x = -4, -5$. II: $y = -6, -7$. Every root of $x$ exceeds every root of $y \\Rightarrow x > y$."
+        },
+        {
+          "id": "q19",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $x^3 = 216$\nII. $y^2 = 36$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 2,
+          "explanation": "I: $x = 6$ (real cube root). II: $y = +6, -6$. Hence $x \\ge y$."
+        },
+        {
+          "id": "q20",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $x^2 - 4x - 21 = 0$\nII. $y^2 + 10y + 21 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 2,
+          "explanation": "I: $x = 7, -3$. II: $y = -3, -7$. Since $7 > -3, -7$ and $-3 \\ge -3, -7$, we have $x \\ge y$."
+        },
+        {
+          "id": "q21",
+          "topic": "Time & Work (Efficiency)",
+          "difficulty": "medium",
+          "question": "A is 50% more efficient than B. Together they finish a task in 12 days. In how many days can A alone complete the task?",
+          "options": [
+            "16 days",
+            "18 days",
+            "20 days",
+            "24 days",
+            "30 days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Efficiency ratio A:B = 3:2. Combined rate = 5 units/day ⇒ Total work = $5 \\times 12 = 60$ units. A alone = $60/3 = 20$ days."
+        },
+        {
+          "id": "q22",
+          "topic": "Compound Interest",
+          "difficulty": "hard",
+          "question": "What is the compound interest on ₹20,000 at 10% per annum compounded half-yearly for 1 year?",
+          "options": [
+            "₹2,000",
+            "₹2,025",
+            "₹2,050",
+            "₹2,100",
+            "₹2,150"
+          ],
+          "correctIndex": 2,
+          "explanation": "Half-yearly rate = 5%, periods = 2. Amount = $20000 \\times (1.05)^2 = 20000 \\times 1.1025 = ₹22,050$. CI = ₹2,050."
+        },
+        {
+          "id": "q23",
+          "topic": "Boats & Streams",
+          "difficulty": "medium",
+          "question": "A boat's downstream speed is 18 km/h and its upstream speed is 12 km/h. What is the speed of the river current?",
+          "options": [
+            "2 km/h",
+            "2.5 km/h",
+            "3 km/h",
+            "3.5 km/h",
+            "4 km/h"
+          ],
+          "correctIndex": 2,
+          "explanation": "Current speed = $(18 - 12)/2 = 3\\text{ km/h}$."
+        },
+        {
+          "id": "q24",
+          "topic": "Mixture & Replacement",
+          "difficulty": "hard",
+          "question": "A container holds 50 litres of pure milk. 10 litres of milk are withdrawn and replaced with water; this process is repeated once more. How much pure milk remains in the container?",
+          "options": [
+            "30 litres",
+            "32 litres",
+            "34 litres",
+            "35 litres",
+            "36 litres"
+          ],
+          "correctIndex": 1,
+          "explanation": "Remaining milk = $50 \\times \\left(1 - \\frac{10}{50}\\right)^2 = 50 \\times (0.8)^2 = 50 \\times 0.64 = 32\\text{ litres}$."
+        },
+        {
+          "id": "q25",
+          "topic": "Partnership",
+          "difficulty": "medium",
+          "question": "A, B, and C invest in a startup in the ratio $4 : 5 : 6$. After 6 months, A doubles his capital. If total annual profit is ₹68,000, find A's share.",
+          "options": [
+            "₹20,000",
+            "₹22,000",
+            "₹24,000",
+            "₹26,000",
+            "₹28,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "A = $4\\times 6 + 8\\times 6 = 72$; B = $5\\times 12 = 60$; C = $6\\times 12 = 72$. Ratio = $72:60:72 = 6:5:6$ (sum 17). A's share = $\\frac{6}{17}\\times 68000 = ₹24,000$."
+        },
+        {
+          "id": "q26",
+          "topic": "Profit & Loss",
+          "difficulty": "medium",
+          "question": "A dishonest grocer claims to sell wheat at cost price but uses a 800 g weight instead of 1 kg. What is his actual profit percentage?",
+          "options": [
+            "20%",
+            "22.5%",
+            "25%",
+            "28%",
+            "30%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Profit % = $\\frac{1000 - 800}{800} \\times 100 = 25\\%$."
+        },
+        {
+          "id": "q27",
+          "topic": "Trains",
+          "difficulty": "medium",
+          "question": "A train running at 54 km/h overtakes a cyclist moving in the same direction at 18 km/h in 18 seconds. What is the length of the train?",
+          "options": [
+            "150 m",
+            "160 m",
+            "180 m",
+            "200 m",
+            "220 m"
+          ],
+          "correctIndex": 2,
+          "explanation": "Relative speed = $(54 - 18) \\times \\frac{5}{18} = 10\\text{ m/s}$. Length = $10 \\times 18 = 180\\text{ m}$."
+        },
+        {
+          "id": "q28",
+          "topic": "Permutation & Combination",
+          "difficulty": "medium",
+          "question": "In how many different ways can the letters of the word `BANKER` be arranged?",
+          "options": [
+            "120",
+            "360",
+            "600",
+            "720",
+            "840"
+          ],
+          "correctIndex": 3,
+          "explanation": "`BANKER` has 6 distinct letters, so arrangements = $6! = 720$."
+        },
+        {
+          "id": "q29",
+          "topic": "Mensuration 3D",
+          "difficulty": "medium",
+          "question": "Find the volume of a right circular cone of base radius $6\\text{ cm}$ and height $14\\text{ cm}$ ($\\pi = \\frac{22}{7}$).",
+          "options": [
+            "$484\\text{ cm}^3$",
+            "$508\\text{ cm}^3$",
+            "$528\\text{ cm}^3$",
+            "$548\\text{ cm}^3$",
+            "$564\\text{ cm}^3$"
+          ],
+          "correctIndex": 2,
+          "explanation": "$V = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3} \\times \\frac{22}{7} \\times 36 \\times 14 = 22 \\times 12 \\times 2 = 528\\text{ cm}^3$."
+        },
+        {
+          "id": "q30",
+          "topic": "Average",
+          "difficulty": "medium",
+          "question": "The average age of 8 officers in a branch is 34 years. When two new trainees aged 24 years and 24 years join, what is the new average age of all 10 members?",
+          "options": [
+            "30 years",
+            "31 years",
+            "32 years",
+            "32.5 years",
+            "33 years"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total age = $8 \\times 34 + 24 + 24 = 272 + 48 = 320$. New average = $320 / 10 = 32$ years."
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning Ability",
+      "durationMinutes": 20,
+      "questions": [
+        {
+          "id": "r1",
+          "topic": "Parallel Row Seating",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p1",
+          "question": "Who sits immediately to the **right of E** in Row 1 (remembering Row 1 faces South)?",
+          "options": [
+            "B",
+            "A",
+            "C",
+            "D",
+            "T"
+          ],
+          "correctIndex": 1,
+          "explanation": "Row 1 (facing South) left-to-right visually is C – A – E – B – D. Facing South, E's right is towards C/A, so **A** sits immediately to the right of E."
+        },
+        {
+          "id": "r2",
+          "topic": "Parallel Row Seating",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p1",
+          "question": "Who faces **B**?",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T"
+          ],
+          "correctIndex": 1,
+          "explanation": "Direct facing pairs: C↔R, A↔P, E↔T, **B↔Q**, D↔S."
+        },
+        {
+          "id": "r3",
+          "topic": "Parallel Row Seating",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p1",
+          "question": "Who sits at the **extreme right end** of Row 1 (from Row 1's own South-facing perspective)?",
+          "options": [
+            "C",
+            "D",
+            "A",
+            "B",
+            "E"
+          ],
+          "correctIndex": 0,
+          "explanation": "Facing South, the extreme right end is the viewer's left end, which is **C**."
+        },
+        {
+          "id": "r4",
+          "topic": "Parallel Row Seating",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p1",
+          "question": "How many persons sit between **R** and **Q** in Row 2?",
+          "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Row 2 is R – P – T – Q – S. Between R and Q sit **P and T** (2 persons)."
+        },
+        {
+          "id": "r5",
+          "topic": "Parallel Row Seating",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p1",
+          "question": "Four of the following five sit at extreme ends of the rows. Who is the odd one out?",
+          "options": [
+            "C",
+            "D",
+            "R",
+            "S",
+            "P"
+          ],
+          "correctIndex": 4,
+          "explanation": "C, D, R, and S occupy the four corners/extreme ends, whereas **P** sits 2nd from the left in Row 2."
+        },
+        {
+          "id": "r6",
+          "topic": "Designation Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p2",
+          "question": "Who holds the designation of **Chief Manager (CM)**?",
+          "options": [
+            "Arjun",
+            "Rohan",
+            "Sneha",
+            "Karan",
+            "Neha"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hierarchy: CMD-Vikram, GM-Neha, DGM-Arjun, AGM-Priya, **CM-Rohan**, SM-Sneha, PO-Karan, Clerk-Divya."
+        },
+        {
+          "id": "r7",
+          "topic": "Designation Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p2",
+          "question": "What is **Sneha**'s designation?",
+          "options": [
+            "DGM",
+            "AGM",
+            "CM",
+            "SM",
+            "PO"
+          ],
+          "correctIndex": 3,
+          "explanation": "Sneha is immediately senior to Karan (PO), so Sneha is **SM (Senior Manager)**."
+        },
+        {
+          "id": "r8",
+          "topic": "Designation Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p2",
+          "question": "How many officers are **junior to Neha**?",
+          "options": [
+            "Four",
+            "Five",
+            "Six",
+            "Seven",
+            "Three"
+          ],
+          "correctIndex": 2,
+          "explanation": "Neha is GM (2nd highest), so **Six** officers (Arjun, Priya, Rohan, Sneha, Karan, Divya) are junior to her."
+        },
+        {
+          "id": "r9",
+          "topic": "Designation Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p2",
+          "question": "How many officers are ranked between **Arjun** and **Karan**?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 2,
+          "explanation": "Arjun (DGM) and Karan (PO) have **Priya (AGM), Rohan (CM), and Sneha (SM)** between them — **Three** officers."
+        },
+        {
+          "id": "r10",
+          "topic": "Designation Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p2",
+          "question": "Who is immediately **senior to Priya**?",
+          "options": [
+            "Vikram",
+            "Neha",
+            "Arjun",
+            "Rohan",
+            "Sneha"
+          ],
+          "correctIndex": 2,
+          "explanation": "**Arjun (DGM)** is immediately senior to Priya (AGM)."
+        },
+        {
+          "id": "r11",
+          "topic": "Box-Based Puzzle",
+          "difficulty": "easy",
+          "passageId": "sbi_po_p3",
+          "question": "Which box is placed at **position 2** from the bottom?",
+          "options": [
+            "White",
+            "Orange",
+            "Green",
+            "Blue",
+            "Black"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stack (top 7 to bottom 1): 7-Red, 6-Blue, 5-Green, 4-Yellow, 3-White, 2-**Orange**, 1-Black."
+        },
+        {
+          "id": "r12",
+          "topic": "Box-Based Puzzle",
+          "difficulty": "easy",
+          "passageId": "sbi_po_p3",
+          "question": "How many boxes are placed between the **Blue** box and the **Orange** box?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 2,
+          "explanation": "Between Blue (6) and Orange (2) are Green (5), Yellow (4), and White (3) — **Three** boxes."
+        },
+        {
+          "id": "r13",
+          "topic": "Box-Based Puzzle",
+          "difficulty": "easy",
+          "passageId": "sbi_po_p3",
+          "question": "Which box is immediately **above the White** box?",
+          "options": [
+            "Green",
+            "Yellow",
+            "Orange",
+            "Blue",
+            "Black"
+          ],
+          "correctIndex": 1,
+          "explanation": "**Yellow (4)** is immediately above White (3)."
+        },
+        {
+          "id": "r14",
+          "topic": "Box-Based Puzzle",
+          "difficulty": "easy",
+          "passageId": "sbi_po_p3",
+          "question": "Which box is placed **two places above the Yellow** box?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "White",
+            "Orange"
+          ],
+          "correctIndex": 1,
+          "explanation": "Yellow is at 4; two places above is $4 + 2 = 6$, which is **Blue**."
+        },
+        {
+          "id": "r15",
+          "topic": "Box-Based Puzzle",
+          "difficulty": "easy",
+          "passageId": "sbi_po_p3",
+          "question": "How many boxes are above the **Green** box?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 1,
+          "explanation": "Green is at 5, so **Two** boxes (Blue at 6 and Red at 7) are above it."
+        },
+        {
+          "id": "r16",
+          "topic": "Month & Date Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p4",
+          "question": "On which date is **Farhan**'s interview scheduled?",
+          "options": [
+            "March 25",
+            "June 10",
+            "June 25",
+            "September 10",
+            "January 25"
+          ],
+          "correctIndex": 2,
+          "explanation": "Esha is on June 10 and Farhan is immediately after Esha ⇒ **June 25**."
+        },
+        {
+          "id": "r17",
+          "topic": "Month & Date Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p4",
+          "question": "Who has an interview on **September 10**?",
+          "options": [
+            "Farhan",
+            "Gaurav",
+            "Deepak",
+            "Esha",
+            "Hina"
+          ],
+          "correctIndex": 1,
+          "explanation": "September has 30 days (and isn't June), so **Gaurav** has his interview on September 10."
+        },
+        {
+          "id": "r18",
+          "topic": "Month & Date Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p4",
+          "question": "How many candidates have interviews between **Bhavna** and **Farhan**?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correctIndex": 2,
+          "explanation": "Order: Jan10-Ankit, Jan25-Bhavna, Mar10-Chirag, Mar25-Deepak, Jun10-Esha, Jun25-Farhan, Sep10-Gaurav, Sep25-Hina. Between Bhavna and Farhan are Chirag, Deepak, and Esha (**Three**)."
+        },
+        {
+          "id": "r19",
+          "topic": "Month & Date Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p4",
+          "question": "Who has an interview immediately **before Esha**?",
+          "options": [
+            "Chirag",
+            "Deepak",
+            "Bhavna",
+            "Farhan",
+            "Gaurav"
+          ],
+          "correctIndex": 1,
+          "explanation": "**Deepak (March 25)** is immediately before Esha (June 10)."
+        },
+        {
+          "id": "r20",
+          "topic": "Month & Date Puzzle",
+          "difficulty": "medium",
+          "passageId": "sbi_po_p4",
+          "question": "Four of the following five have interviews on the 10th of a month. Who is the odd one out?",
+          "options": [
+            "Ankit",
+            "Chirag",
+            "Esha",
+            "Gaurav",
+            "Deepak"
+          ],
+          "correctIndex": 4,
+          "explanation": "Ankit, Chirag, Esha, and Gaurav are on the 10th; **Deepak** is on March 25."
+        },
+        {
+          "id": "r21",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. Only a few clouds are rain.\n2. No rain is snow.\n\nConclusions:\nI. Some clouds are not snow.\nII. All clouds can be rain.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither I nor II follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 0,
+          "explanation": "Clouds that are rain cannot be snow ⇒ I follows. 'Only a few' excludes all clouds being rain ⇒ II fails."
+        },
+        {
+          "id": "r22",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All coins are notes.\n2. All notes are currency.\n3. Some currency is gold.\n\nConclusions:\nI. All coins are currency.\nII. Some coins are gold.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither I nor II follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 0,
+          "explanation": "Coins ⊂ Notes ⊂ Currency ⇒ I follows. No definite overlap is guaranteed between coins and gold ⇒ II fails."
+        },
+        {
+          "id": "r23",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. Some desks are chairs.\n2. Some chairs are tables.\n\nConclusions:\nI. Some desks are tables.\nII. No desk is a table.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither I nor II follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 2,
+          "explanation": "No definite link exists between desks and tables; 'Some + No' forms a complementary **Either I or II** pair."
+        },
+        {
+          "id": "r24",
+          "topic": "Inequality",
+          "difficulty": "medium",
+          "question": "Statement: `W > X ≥ Y = Z < U ≤ V`\n\nConclusions:\nI. `W > Z`\nII. `V > Y`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither I nor II is true",
+            "Both I and II are true"
+          ],
+          "correctIndex": 4,
+          "explanation": "`W > X ≥ Y = Z` ⇒ `W > Z` (I true). `Y = Z < U ≤ V` ⇒ `V > Y` (II true). Both are true."
+        },
+        {
+          "id": "r25",
+          "topic": "Inequality",
+          "difficulty": "medium",
+          "question": "Statements: `R ≥ S > T`; `U ≤ T < V`\n\nConclusions:\nI. `R > U`\nII. `V > S`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither I nor II is true",
+            "Both I and II are true"
+          ],
+          "correctIndex": 0,
+          "explanation": "`R ≥ S > T ≥ U` ⇒ `R > U` (I true). Between V and S: `S > T < V` (opposite signs), so II is false."
+        },
+        {
+          "id": "r26",
+          "topic": "Inequality",
+          "difficulty": "medium",
+          "question": "Statement: `F = G ≥ H ≥ I = J`\n\nConclusions:\nI. `F > J`\nII. `J = F`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither I nor II is true",
+            "Both I and II are true"
+          ],
+          "correctIndex": 2,
+          "explanation": "`F ≥ J` splits into `F > J` OR `F = J` ⇒ **Either I or II is true**."
+        },
+        {
+          "id": "r27",
+          "topic": "Blood Relations",
+          "difficulty": "medium",
+          "question": "M is the mother of N. N is the sister of O. O is married to P. Q is the father of P. If O is male, how is P related to M?",
+          "options": [
+            "Daughter",
+            "Daughter-in-law",
+            "Sister-in-law",
+            "Mother-in-law",
+            "Niece"
+          ],
+          "correctIndex": 1,
+          "explanation": "O is M's son and P is O's wife, so P is M's **Daughter-in-law**."
+        },
+        {
+          "id": "r28",
+          "topic": "Blood Relations",
+          "difficulty": "medium",
+          "question": "In a family of five, X is the father of Y, Z is the sister of X, and W is the mother of Z. How is W related to Y?",
+          "options": [
+            "Mother",
+            "Aunt",
+            "Paternal Grandmother",
+            "Maternal Grandmother",
+            "Sister"
+          ],
+          "correctIndex": 2,
+          "explanation": "W is the mother of Z and X (since Z is X's sister), and X is Y's father. Hence W is Y's **Paternal Grandmother**."
+        },
+        {
+          "id": "r29",
+          "topic": "Direction Sense",
+          "difficulty": "medium",
+          "question": "A delivery van drives 15 km North from depot O, turns right and drives 8 km to hub P, then stops. What is the shortest straight-line distance between depot O and hub P?",
+          "options": [
+            "16 km",
+            "17 km",
+            "19 km",
+            "21 km",
+            "23 km"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pythagorean triplet (8, 15, 17): $\\sqrt{15^2 + 8^2} = \\sqrt{225 + 64} = \\sqrt{289} = 17\\text{ km}$."
+        },
+        {
+          "id": "r30",
+          "topic": "Direction Sense",
+          "difficulty": "medium",
+          "question": "Point A is 10 m West of Point B. Point C is 10 m North of Point B. Point D is 10 m East of Point C. In which direction is Point D with respect to Point A?",
+          "options": [
+            "North-West",
+            "North-East",
+            "South-East",
+            "South-West",
+            "East"
+          ],
+          "correctIndex": 1,
+          "explanation": "With B(0,0): A(-10,0), C(0,10), D(10,10). From A(-10,0) to D(10,10) is +20 East and +10 North ⇒ **North-East**."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1424 @@
+{
+  "title": "UPSC CSE Prelims — General Studies Paper I (Full-Length Mock)",
+  "subtitle": "100 Questions • 120 Minutes • 200 Marks • Official +2 / -0.67 (1/3rd) Marking",
+  "category": "UPSC / PSC",
+  "description": "Exact full-length UPSC Civil Services Preliminary Examination (GS Paper I) replica: 100 objective MCQs, 200 marks, 2-hour composite timer, and official 1/3rd (-0.67) negative marking across Polity, Economy, History, Geography, Environment, Science & Tech, and IR.",
+  "durationMinutes": 120,
+  "sectionalTiming": false,
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.6667,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact UPSC CSE Prelims GS Paper I pattern: 100 questions, 200 maximum marks, 120 minutes (2 hours) composite duration.",
+    "Official marking scheme: +2 marks for every correct answer, -0.67 (1/3rd of 2 marks) negative penalty for every wrong answer, and 0 marks for unattempted questions.",
+    "Includes authentic UPSC formats: multi-statement code selection, Statement-I/Statement-II assertion-reason, and \"How many pairs\" questions modelled on 2022–2024 Prelims papers."
+  ],
+  "sections": [
+    {
+      "id": "gs_paper_1",
+      "name": "General Studies Paper I",
+      "questions": [
+        {
+          "id": "q1",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "With reference to the Constitution (71st Amendment) Act, 1992, which of the following languages were added to the Eighth Schedule?\n1. Konkani\n2. Manipuri\n3. Nepali\n4. Maithili\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 2 and 3 only",
+            "1, 2 and 4 only",
+            "1, 3 and 4 only",
+            "2, 3 and 4 only"
+          ],
+          "correctIndex": 0,
+          "explanation": "The 71st Constitutional Amendment Act (1992) added Konkani, Manipuri, and Nepali to the Eighth Schedule. Maithili (along with Bodo, Dogri, and Santhali) was added later by the 92nd Amendment Act, 2003."
+        },
+        {
+          "id": "q2",
+          "topic": "Indian Polity",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding Money Bills under Article 110 of the Constitution of India:\n1. A Money Bill can be introduced in either House of Parliament with the prior recommendation of the President.\n2. The Rajya Sabha cannot amend or reject a Money Bill and must return it within 14 days.\n3. The Speaker of the Lok Sabha certifies whether a Bill is a Money Bill.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under Article 109, a Money Bill can ONLY be introduced in the Lok Sabha (not in Rajya Sabha). Rajya Sabha can only make recommendations within 14 days, and the Speaker of the Lok Sabha certifies a Money Bill under Article 110(3). Hence statements 2 and 3 are correct."
+        },
+        {
+          "id": "q3",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Consider the following statements regarding the Delimitation Commission of India:\n1. Orders issued by the Delimitation Commission cannot be challenged in any court of law.\n2. When the orders are laid before the Lok Sabha or State Legislative Assembly, those Houses can modify the boundaries before final notification.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 0,
+          "explanation": "Under Article 329(a) and the Delimitation Act, orders of the Delimitation Commission have the force of law and cannot be called in question before any court. When laid before the Lok Sabha or State Assembly, no modifications are permitted by them."
+        },
+        {
+          "id": "q4",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Which of the following Writs is issued by the Supreme Court or a High Court to prevent a lower court or tribunal from exceeding its jurisdiction or acting contrary to the rules of natural justice?",
+          "options": [
+            "Mandamus",
+            "Quo Warranto",
+            "Prohibition",
+            "Habeas Corpus"
+          ],
+          "correctIndex": 2,
+          "explanation": "Prohibition (meaning \"to forbid\") is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction while proceedings are pending."
+        },
+        {
+          "id": "q5",
+          "topic": "Indian Polity",
+          "difficulty": "hard",
+          "question": "Under the Tenth Schedule (Anti-Defection Law) of the Constitution of India, who decides questions as to disqualification of a member of a House on the ground of defection?",
+          "options": [
+            "President of India on the advice of Election Commission",
+            "Chairman or Speaker of that House",
+            "Supreme Court of India directly",
+            "Union Minister of Parliamentary Affairs"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 6 of the Tenth Schedule vests the authority to decide defection disqualification questions in the Chairman (for Rajya Sabha) or Speaker (for Lok Sabha) of the House, subject to judicial review (Kihoto Hollohan case, 1992)."
+        },
+        {
+          "id": "q6",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "Which Constitutional Amendment reduced the voting age from 21 years to 18 years for Lok Sabha and State Legislative Assembly elections?",
+          "options": [
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978",
+            "61st Amendment Act, 1988",
+            "73rd Amendment Act, 1992"
+          ],
+          "correctIndex": 2,
+          "explanation": "The 61st Constitutional Amendment Act, 1988 (effective March 1989) amended Article 326 to lower the voting age from 21 years to 18 years."
+        },
+        {
+          "id": "q7",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "With reference to the Finance Commission of India (Article 280), consider the following statements:\n1. It is a quasi-judicial constitutional body constituted by the President every fifth year or earlier.\n2. Its recommendations are strictly binding on the Union Government.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 0,
+          "explanation": "Statement 1 is correct: the President constitutes the Finance Commission every 5 years (or earlier) under Article 280. Statement 2 is incorrect: its recommendations are advisory in nature and not legally binding on the government."
+        },
+        {
+          "id": "q8",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Which Schedule of the Constitution of India contains provisions relating to the administration of Tribal Areas in the States of Assam, Meghalaya, Tripura, and Mizoram?",
+          "options": [
+            "Fourth Schedule",
+            "Fifth Schedule",
+            "Sixth Schedule",
+            "Ninth Schedule"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Sixth Schedule (Articles 244(2) and 275(1)) provides for Autonomous District Councils for tribal areas in Assam, Meghalaya, Tripura, and Mizoram. The Fifth Schedule covers Scheduled Areas in other states."
+        },
+        {
+          "id": "q9",
+          "topic": "Indian Economy",
+          "difficulty": "hard",
+          "question": "Which of the following instruments/entities are classified under Alternative Investment Funds (AIFs) regulated by SEBI in India?\n1. Venture Capital Funds\n2. Hedge Funds\n3. Private Equity Funds\n4. Angel Funds\nSelect the correct answer:",
+          "options": [
+            "1 and 3 only",
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4"
+          ],
+          "correctIndex": 3,
+          "explanation": "Under SEBI (Alternative Investment Funds) Regulations, 2012, Category I AIFs include Venture Capital Funds and Angel Funds; Category II includes Private Equity Funds; and Category III includes Hedge Funds. All four are AIFs."
+        },
+        {
+          "id": "q10",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "Which of the following constitute sources of revenue/income for the Reserve Bank of India (RBI)?\n1. Interest earned on Government of India securities held in its portfolio\n2. Interest and returns from deployment of Foreign Currency Assets abroad\n3. Commission on managing Central and State Government debt\nSelect the correct answer:",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 3,
+          "explanation": "RBI derives income from domestic government securities (open market operations), foreign currency assets held abroad, and agency/debt-management commissions from Central and State Governments."
+        },
+        {
+          "id": "q11",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "If the Reserve Bank of India raises the Cash Reserve Ratio (CRR) for scheduled commercial banks, what is the immediate macroeconomic effect?",
+          "options": [
+            "Lending capacity and money supply increase immediately",
+            "Banks must hold more cash reserves with RBI, reducing lendable liquidity",
+            "Government bond yields drop automatically to zero",
+            "Statutory Liquidity Ratio (SLR) decreases proportionally"
+          ],
+          "correctIndex": 1,
+          "explanation": "Raising CRR increases the fraction of Net Demand and Time Liabilities (NDTL) that banks must park as interest-free cash reserves with RBI, thereby tightening banking system liquidity and curbing credit expansion."
+        },
+        {
+          "id": "q12",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "What does the \"GDP Deflator\" measure in macroeconomic accounting?",
+          "options": [
+            "Only price changes of imported consumer goods",
+            "Ratio of Nominal GDP to Real GDP multiplied by 100, capturing economy-wide inflation",
+            "Percentage decline in agricultural output during a drought",
+            "Difference between Gross Fiscal Deficit and Primary Deficit"
+          ],
+          "correctIndex": 1,
+          "explanation": "GDP Deflator = (Nominal GDP / Real GDP) × 100. Unlike CPI or WPI, it covers all domestically produced final goods and services without a fixed basket."
+        },
+        {
+          "id": "q13",
+          "topic": "Indian Economy",
+          "difficulty": "hard",
+          "question": "With reference to \"Sovereign Green Bonds\" issued in India, consider the following statements:\n1. Proceeds are exclusively earmarked for public-sector projects that reduce carbon intensity of the economy.\n2. They do not carry any sovereign repayment guarantee from the Government of India.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sovereign Green Bonds (SGrBs) are backed by the full sovereign guarantee of the Government of India (so Statement 2 is false), and proceeds are allocated strictly to eligible green infrastructure/climate mitigation projects."
+        },
+        {
+          "id": "q14",
+          "topic": "Indian Economy",
+          "difficulty": "easy",
+          "question": "In the Union Budget classification, \"Primary Deficit\" is mathematically equal to:",
+          "options": [
+            "Revenue Deficit minus Grants for Capital Assets",
+            "Fiscal Deficit minus Interest Payments",
+            "Total Expenditure minus Total Revenue Receipts",
+            "Fiscal Deficit plus Borrowings from RBI"
+          ],
+          "correctIndex": 1,
+          "explanation": "Primary Deficit = Fiscal Deficit − Interest Payments. It indicates how much current government borrowing is required excluding interest obligations on past debt."
+        },
+        {
+          "id": "q15",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "Under the Trade Receivables Discounting System (TReDS) regulated by the RBI, who can participate as \"Sellers\" on the platform?",
+          "options": [
+            "Only Large Multinational Corporations",
+            "Micro, Small and Medium Enterprises (MSMEs)",
+            "Scheduled Commercial Banks only",
+            "Foreign Institutional Investors (FIIs)"
+          ],
+          "correctIndex": 1,
+          "explanation": "TReDS is an electronic platform designed specifically to facilitate financing/discounting of trade receivables of MSMEs (sellers) due from large corporates, PSUs, and government departments (buyers)."
+        },
+        {
+          "id": "q16",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "Which of the following is NOT included in the \"Current Account\" of India’s Balance of Payments (BoP)?",
+          "options": [
+            "Merchandise exports and imports",
+            "Inward remittances from Indians working abroad",
+            "Foreign Direct Investment (FDI) inflows",
+            "Export of software and IT services"
+          ],
+          "correctIndex": 2,
+          "explanation": "Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI) are recorded under the Capital Account of the BoP, whereas goods trade, services trade, and remittances belong to the Current Account."
+        },
+        {
+          "id": "q17",
+          "topic": "Modern History",
+          "difficulty": "hard",
+          "question": "Consider the following pairs of political parties in post-independence India and their founders/key leaders:\n1. Bharatiya Jana Sangh — Dr. Syama Prasad Mookerjee\n2. Socialist Party — C. Rajagopalachari\n3. Congress for Democracy — Jagjivan Ram\n4. Swatantra Party — Acharya Narendra Dev\nHow many of the above pairs are correctly matched?",
+          "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pairs 1 (Syama Prasad Mookerjee founded Bharatiya Jana Sangh in 1951) and 3 (Jagjivan Ram founded Congress for Democracy in 1977) are correct. C. Rajagopalachari founded Swatantra Party (1959), while Acharya Narendra Dev led the Congress Socialist Party / Socialist Party."
+        },
+        {
+          "id": "q18",
+          "topic": "Ancient History",
+          "difficulty": "medium",
+          "question": "With reference to ancient Indian history, the famous \"Prayag Prashasti\" (Allahabad Pillar Inscription) composed by Harishena describes the conquests of which Gupta ruler?",
+          "options": [
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta"
+          ],
+          "correctIndex": 1,
+          "explanation": "Harishena, the court poet of Samudragupta, composed the Prayag Prashasti in Sanskrit inscribed on the Ashokan pillar at Allahabad, detailing Samudragupta’s military campaigns."
+        },
+        {
+          "id": "q19",
+          "topic": "Modern History",
+          "difficulty": "medium",
+          "question": "Who among the following presided over the 1907 Surat Session of the Indian National Congress where the split between Moderates and Extremists occurred?",
+          "options": [
+            "Gopal Krishna Gokhale",
+            "Dadabhai Naoroji",
+            "Rash Behari Ghosh",
+            "Bal Gangadhar Tilak"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rash Behari Ghosh presided over the tumultuous 1907 Surat Session of the INC, which saw the Surat Split between the Moderate and Extremist factions."
+        },
+        {
+          "id": "q20",
+          "topic": "Art & Culture",
+          "difficulty": "medium",
+          "question": "The UNESCO World Heritage Site \"Rani ki Vav\" (The Queen’s Stepwell), built in the 11th century CE in the Maru-Gurjara architectural style, is located in which state?",
+          "options": [
+            "Rajasthan",
+            "Gujarat",
+            "Maharashtra",
+            "Madhya Pradesh"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rani ki Vav is located in Patan, Gujarat, on the banks of the Saraswati River and was commissioned by Queen Udayamati of the Chaulukya (Solanki) dynasty."
+        },
+        {
+          "id": "q21",
+          "topic": "Modern History",
+          "difficulty": "medium",
+          "question": "Which of the following movements was immediately preceded by the Gandhi-Irwin Pact of March 1931?",
+          "options": [
+            "Non-Cooperation Movement",
+            "First phase of Civil Disobedience Movement",
+            "Quit India Movement",
+            "Swadeshi Movement"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Gandhi-Irwin Pact (5 March 1931) suspended the first phase of the Civil Disobedience Movement and led to Mahatma Gandhi participating in the Second Round Table Conference in London."
+        },
+        {
+          "id": "q22",
+          "topic": "Medieval History",
+          "difficulty": "medium",
+          "question": "During the Vijayanagara Empire under Krishnadevaraya, the council of eight eminent Telugu poets in his royal court was collectively known as:",
+          "options": [
+            "Navaratnas",
+            "Ashtadiggajas",
+            "Ashtapradhan",
+            "Pancharatnas"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ashtadiggajas (\"Eight Elephants of the Directions\") was the group of eight celebrated Telugu poets (including Allasani Peddana and Tenali Ramakrishna) in Krishnadevaraya’s court."
+        },
+        {
+          "id": "q23",
+          "topic": "Ancient History",
+          "difficulty": "hard",
+          "question": "Which Buddhist council resulted in the formal division of Buddhism into the Theravada (Hinayana) and Mahayana schools under the patronage of King Kanishka?",
+          "options": [
+            "First Buddhist Council at Rajagriha",
+            "Second Buddhist Council at Vaishali",
+            "Third Buddhist Council at Pataliputra",
+            "Fourth Buddhist Council in Kashmir"
+          ],
+          "correctIndex": 3,
+          "explanation": "The Fourth Buddhist Council (c. 1st–2nd century CE) held at Kundalavana (Kashmir) under Kushana Emperor Kanishka and presided over by Vasumitra saw the formal emergence of Mahayana Buddhism."
+        },
+        {
+          "id": "q24",
+          "topic": "Modern History",
+          "difficulty": "easy",
+          "question": "During which Satyagraha of 1928 was Vallabhbhai Patel conferred the title \"Sardar\" by the women participants?",
+          "options": [
+            "Kheda Satyagraha",
+            "Champaran Satyagraha",
+            "Bardoli Satyagraha",
+            "Salt Satyagraha"
+          ],
+          "correctIndex": 2,
+          "explanation": "During the Bardoli Satyagraha (1928) in Gujarat against an unjust 22% land revenue hike, the women of Bardoli gave Vallabhbhai Patel the honorific title \"Sardar\"."
+        },
+        {
+          "id": "q25",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "With reference to Indian river systems, consider the following rivers:\n1. Subansiri\n2. Lohit\n3. Manas\n4. Teesta\nHow many of the above are right-bank tributaries of the Brahmaputra River?",
+          "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Subansiri, Manas, and Teesta join the Brahmaputra from its right (north) bank (3 rivers). The Lohit joins the Brahmaputra/Dihang from the left (south/east) bank."
+        },
+        {
+          "id": "q26",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Why are tropical cyclones rarely formed very close to the Equator ($0^\\circ$ to $5^\\circ$ latitude)?",
+          "options": [
+            "Sea surface temperatures are too cold near the Equator",
+            "The Coriolis force is negligible near the Equator to sustain cyclonic rotation",
+            "Trade winds blow vertically upward at 0° latitude",
+            "Atmospheric pressure is permanently above 1050 mb at the Equator"
+          ],
+          "correctIndex": 1,
+          "explanation": "Coriolis force is zero at the Equator ($f = 2\\Omega \\sin\\phi$), so inward-rushing air fills low-pressure troughs directly instead of spiralling around a center to form a cyclonic vortex."
+        },
+        {
+          "id": "q27",
+          "topic": "Geography",
+          "difficulty": "easy",
+          "question": "Which mountain pass in the Union Territory of Ladakh connects Leh with the Nubra Valley?",
+          "options": [
+            "Nathu La",
+            "Khardung La",
+            "Shipki La",
+            "Jelep La"
+          ],
+          "correctIndex": 1,
+          "explanation": "Khardung La (in the Ladakh Range) connects Leh to the Shyok and Nubra valleys. Nathu La and Jelep La are in Sikkim; Shipki La is in Himachal Pradesh."
+        },
+        {
+          "id": "q28",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which soil type in India is known for its \"self-ploughing\" property due to swelling when wet and developing wide cracks when dry, making it ideal for cotton cultivation?",
+          "options": [
+            "Alluvial Soil",
+            "Red and Yellow Soil",
+            "Black (Regur) Soil",
+            "Laterite Soil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Black cotton soil (Regur), derived largely from Deccan Trap basalt, retains moisture deeply and exhibits wide cracks in dry seasons, producing a natural self-ploughing aeration effect."
+        },
+        {
+          "id": "q29",
+          "topic": "Geography",
+          "difficulty": "hard",
+          "question": "Arrange the following Indian ports from North to South along the eastern coast of India:\n1. Paradip\n2. Visakhapatnam\n3. Ennore (Kamarajar)\n4. Haldia\nSelect the correct sequence:",
+          "options": [
+            "4 - 1 - 2 - 3",
+            "1 - 4 - 2 - 3",
+            "4 - 2 - 1 - 3",
+            "1 - 2 - 4 - 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "From North to South: Haldia (West Bengal, ~22°N) -> Paradip (Odisha, ~20.3°N) -> Visakhapatnam (Andhra Pradesh, ~17.7°N) -> Ennore/Kamarajar (Tamil Nadu, ~13.2°N)."
+        },
+        {
+          "id": "q30",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which strait separates India from Sri Lanka and connects the Palk Bay with the Gulf of Mannar?",
+          "options": [
+            "Ten Degree Channel",
+            "Duncan Passage",
+            "Palk Strait",
+            "Malacca Strait"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Palk Strait lies between Tamil Nadu (India) and the Jaffna/Mannar district (Sri Lanka), connecting Palk Bay to the southwest Gulf of Mannar via Adam’s Bridge."
+        },
+        {
+          "id": "q31",
+          "topic": "Environment & Ecology",
+          "difficulty": "hard",
+          "question": "With reference to \"Greenhouse Gas (GHG) Protocol\" and Climate Conventions, consider the following statements:\n1. The Kigali Amendment to the Montreal Protocol aims to phase down Hydrofluorocarbons (HFCs), which have high global warming potential.\n2. Nitrous oxide ($\\text{N}_2\\text{O}$) and Methane ($\\text{CH}_4$) are covered under the Kyoto Protocol.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "Both statements are correct. The 2016 Kigali Amendment targets a phasedown of HFCs (non-ozone-depleting but potent GHGs), and the Kyoto Protocol covers six GHGs including $\\text{CO}_2$, $\\text{CH}_4$, $\\text{N}_2\\text{O}$, HFCs, PFCs, and $\\text{SF}_6$."
+        },
+        {
+          "id": "q32",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "In India, the statutory \"Central Pollution Control Board (CPCB)\" was originally constituted in 1974 under which legislation?",
+          "options": [
+            "Environment (Protection) Act, 1986",
+            "Water (Prevention and Control of Pollution) Act, 1974",
+            "Air (Prevention and Control of Pollution) Act, 1981",
+            "Wildlife (Protection) Act, 1972"
+          ],
+          "correctIndex": 1,
+          "explanation": "CPCB was constituted in September 1974 under the Water (Prevention and Control of Pollution) Act, 1974, and was subsequently entrusted with powers under the Air Act, 1981."
+        },
+        {
+          "id": "q33",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "Which of the following protected areas in India is famous as the sole remaining natural habitat of the critically endangered Sangai (Brow-antlered Deer) floating on phumdis?",
+          "options": [
+            "Namdapha National Park",
+            "Keibul Lamjao National Park",
+            "Kaziranga National Park",
+            "Dachigam National Park"
+          ],
+          "correctIndex": 1,
+          "explanation": "Keibul Lamjao National Park in Manipur (on Loktak Lake) is the world’s only floating national park and the natural refuge of the endemic Sangai deer."
+        },
+        {
+          "id": "q34",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "Consider the following statements regarding \"Biochar\":\n1. It is a charcoal-like material produced by pyrolysis of biomass in a low-oxygen environment.\n2. It helps sequester carbon in soil for long durations and improves soil water-holding capacity.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "Biochar is created by heating organic waste (biomass) in the absence/low supply of oxygen (pyrolysis). Its recalcitrant carbon structure locks carbon in soil and enhances moisture/nutrient retention."
+        },
+        {
+          "id": "q35",
+          "topic": "Environment & Ecology",
+          "difficulty": "easy",
+          "question": "Under the Ramsar Convention on Wetlands, what does the \"Montreux Record\" maintain?",
+          "options": [
+            "A list of newly discovered mangrove bird species",
+            "A register of Ramsar wetland sites facing ecological character changes due to pollution, human interference, or technological development",
+            "Global glacier melt volume per decade",
+            "Annual coral bleaching statistics in the Pacific Ocean"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Montreux Record is a register of Ramsar Wetlands of International Importance where adverse changes in ecological character have occurred, are occurring, or are likely to occur. In India, Keoladeo National Park and Loktak Lake are on it."
+        },
+        {
+          "id": "q36",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "With reference to clean-mobility powertrain technologies, consider the following vehicle types:\n1. Full Battery Electric Vehicles (BEVs)\n2. Hydrogen Fuel Cell Electric Vehicles (FCEVs)\n3. Fuel Cell Electric Hybrid Vehicles\nHow many of the above are considered Alternative Powertrain Vehicles?",
+          "options": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "correctIndex": 2,
+          "explanation": "Asked in UPSC CSE Prelims 2025: Full BEVs, Hydrogen FCEVs, and Fuel Cell Electric Hybrid Vehicles all replace or supplement conventional internal combustion drivetrains and qualify as alternative powertrain vehicles."
+        },
+        {
+          "id": "q37",
+          "topic": "Science & Technology",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding Unmanned Aerial Vehicles (UAVs):\n1. All types of UAVs can perform vertical landing and take-off without a runway.\n2. All UAVs can remain stationary (hover) at a fixed point in the air.\n3. All UAVs rely exclusively on lithium-ion batteries as their power source.\nHow many of the statements given above are correct?",
+          "options": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "correctIndex": 3,
+          "explanation": "Asked in UPSC CSE Prelims 2025: None of the absolute statements are true. Fixed-wing UAVs require runways/catapults and cannot hover like multi-rotors; large MALE/HALE UAVs use aviation/turbojet fuel engines rather than batteries alone."
+        },
+        {
+          "id": "q38",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "Where is ISRO’s solar observatory spacecraft \"Aditya-L1\" stationed to continuously observe the Sun without occultation or eclipses?",
+          "options": [
+            "Geostationary Orbit around Earth",
+            "Low Earth Sun-Synchronous Polar Orbit",
+            "Halo Orbit around the Sun-Earth Lagrange Point L1",
+            "Lunar Polar Elliptical Orbit"
+          ],
+          "correctIndex": 2,
+          "explanation": "Aditya-L1 was inserted into a Halo Orbit around the Sun-Earth L1 Lagrange point (~1.5 million km from Earth toward the Sun), giving it an uninterrupted view of the solar disc."
+        },
+        {
+          "id": "q39",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "In biotechnology, what is the primary molecular function of the Cas9 enzyme in the CRISPR-Cas9 gene-editing system?",
+          "options": [
+            "Synthesizing messenger RNA from amino acids",
+            "Acting as molecular scissors to create targeted double-strand DNA breaks guided by RNA",
+            "Generating ATP inside plant chloroplasts",
+            "Replicating bacterial plasmids during conjugation"
+          ],
+          "correctIndex": 1,
+          "explanation": "CRISPR-associated protein 9 (Cas9) is an RNA-guided endonuclease that binds to a guide RNA (gRNA) sequence and cleaves target DNA precisely at complementary sites."
+        },
+        {
+          "id": "q40",
+          "topic": "Science & Technology",
+          "difficulty": "easy",
+          "question": "Which phenomenon of optics explains the operation of optical fibers used in high-speed telecommunications?",
+          "options": [
+            "Rayleigh Scattering",
+            "Total Internal Reflection",
+            "Diffraction",
+            "Polarization"
+          ],
+          "correctIndex": 1,
+          "explanation": "Optical fibers guide light pulses over long distances with minimal loss via repeated Total Internal Reflection inside a high-refractive-index glass/plastic core clad by lower-index material."
+        },
+        {
+          "id": "q41",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Consider the following statements regarding the Constitution of India:\n1. The Constitution defines the term \"Office of Profit\" explicitly under Article 102.\n2. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of Office of Profit.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 1,
+          "explanation": "The term \"Office of Profit\" is mentioned in Articles 102(1)(a) and 191(1)(a) but is NOT defined in the Constitution. The Parliament (Prevention of Disqualification) Act, 1959 exempts several offices from disqualification."
+        },
+        {
+          "id": "q42",
+          "topic": "Indian Polity",
+          "difficulty": "hard",
+          "question": "With reference to the Attorney General of India under Article 76, consider the following statements:\n1. He/She has the right to speak and take part in the proceedings of both Houses of Parliament without a right to vote.\n2. He/She is debarred from private legal practice during his/her tenure.\n3. He/She holds office during the pleasure of the President of India.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Attorney General is not a full-time government servant and is NOT debarred from private legal practice (subject to restrictions against advising/appearing against the Government of India). Statements 1 and 3 are correct under Articles 88 and 76(4)."
+        },
+        {
+          "id": "q43",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Which of the following is/are the exclusive power(s) of the Lok Sabha?\n1. To ratify the declaration of National Emergency under Article 352.\n2. To pass a motion of No-Confidence against the Council of Ministers.\n3. To impeach the President of India.\nSelect the correct answer using the code given below:",
+          "options": [
+            "2 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "Under Article 75(3), the Council of Ministers is collectively responsible only to the Lok Sabha, making a No-Confidence Motion an exclusive power of the Lok Sabha. Emergency ratification and Presidential impeachment require both Houses."
+        },
+        {
+          "id": "q44",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Consider the following statements regarding the Ninth Schedule of the Constitution of India:\n1. It was added by the Constitution (First Amendment) Act, 1951.\n2. In the I.R. Coelho case (2007), the Supreme Court held that laws placed in the Ninth Schedule after April 24, 1973 are open to judicial review if they violate the Basic Structure.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "The First Amendment (1951) inserted Article 31B and the Ninth Schedule to protect land reform laws. In I.R. Coelho v. State of Tamil Nadu (2007), a 9-judge bench ruled that laws added after Kesavananda Bharati (April 24, 1973) are subject to Basic Structure review."
+        },
+        {
+          "id": "q45",
+          "topic": "Indian Polity",
+          "difficulty": "hard",
+          "question": "With reference to the Constitution of India, consider the following statements:\n1. A Constitutional Amendment Bill under Article 368 requires prior permission of the President before introduction in Parliament.\n2. There is no provision for a joint sitting of both Houses of Parliament to resolve a deadlock over a Constitutional Amendment Bill.\n3. The President is bound to give assent to a Constitutional Amendment Bill duly passed by Parliament.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 1,
+          "explanation": "An Article 368 Bill does NOT require prior Presidential recommendation. There is no joint sitting under Article 108 for amendment bills, and the 24th Amendment (1971) made Presidential assent obligatory."
+        },
+        {
+          "id": "q46",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Under the Constitution of India, \"Right to Marry a Person of One’s Choice\" is protected under which Fundamental Right?",
+          "options": [
+            "Article 19",
+            "Article 21",
+            "Article 25",
+            "Article 29"
+          ],
+          "correctIndex": 1,
+          "explanation": "In Shafin Jahan v. Asokan K.M. (Hadiya case, 2018), the Supreme Court affirmed that the right to marry a person of one’s choice is an integral part of personal liberty and dignity under Article 21."
+        },
+        {
+          "id": "q47",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Which of the following Directive Principles of State Policy were added by the 42nd Constitutional Amendment Act, 1976?\n1. Equal justice and free legal aid to the poor (Article 39A).\n2. Participation of workers in the management of industries (Article 43A).\n3. Promotion of cooperative societies (Article 43B).\nSelect the correct answer using the code given below:",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "Articles 39A, 43A, and 48A were added by the 42nd Amendment Act (1976). Article 43B (promotion of cooperative societies) was added much later by the 97th Constitutional Amendment Act, 2011."
+        },
+        {
+          "id": "q48",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Consider the following statements regarding the Inter-State Council in India:\n1. It is a permanent constitutional body established directly by the Constitution at its commencement.\n2. It is chaired by the Prime Minister of India.\n3. It was established in 1990 on the recommendation of the Sarkaria Commission.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 1,
+          "explanation": "Article 263 empowers the President to establish an Inter-State Council if it appears that public interest would be served; it was not created automatically at commencement. It was set up in 1990 on the Sarkaria Commission’s recommendation and is chaired by the Prime Minister."
+        },
+        {
+          "id": "q49",
+          "topic": "Indian Polity",
+          "difficulty": "hard",
+          "question": "How many Delimitation Commissions have been constituted by the Government of India under separate Delimitation Commission Acts up to December 2023?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correctIndex": 2,
+          "explanation": "Four Delimitation Commissions have been constituted in India under the Delimitation Commission Acts of 1952, 1962, 1972, and 2002 (UPSC CSE Prelims 2024)."
+        },
+        {
+          "id": "q50",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Consider the following statements regarding the Ethics Committee of the Lok Sabha:\n1. Initially it was an ad-hoc committee before becoming a permanent Standing Committee.\n2. Only a Member of Parliament can file a complaint relating to unethical conduct of another MP before the Committee.\n3. The Committee cannot take up any matter which is sub-judice.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Lok Sabha Ethics Committee started as an ad-hoc committee in 2000 and became permanent in 2015. Any person (not only an MP) can submit a complaint through an MP with supporting evidence, and the Committee does not take up sub-judice matters (UPSC CSE Prelims 2024)."
+        },
+        {
+          "id": "q51",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "With reference to \"Sterilization\" conducted by the Reserve Bank of India, which of the following best describes its objective?",
+          "options": [
+            "Conducting Open Market Operations to neutralize excess domestic liquidity caused by large foreign exchange inflows",
+            "Writing off non-performing assets of public sector banks through sovereign recapitalization bonds",
+            "Replacing soiled currency notes in circulation with polymer banknotes",
+            "Freezing credit creation by Cooperative Banks during fiscal consolidation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sterilization is the RBI’s intervention (via Open Market Operations or Market Stabilisation Scheme bonds) to absorb excess rupee liquidity injected when it buys foreign currency inflows, preventing inflation."
+        },
+        {
+          "id": "q52",
+          "topic": "Indian Economy",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding Inflation-Indexed Bonds (IIBs) in India:\n1. Government can reduce the coupon rates on its borrowing by way of IIBs.\n2. IIBs provide protection to investors from uncertainty regarding inflation.\n3. Interest received as well as capital gains on IIBs are completely exempt from income tax.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "IIBs protect both principal and interest against inflation, allowing the government to borrow at lower real coupon rates. However, interest and capital gains on IIBs are NOT tax-exempt (UPSC CSE Prelims 2022)."
+        },
+        {
+          "id": "q53",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "In the context of Indian public finance, which of the following are classified as \"Capital Receipts\" of the Union Government?\n1. Disinvestment proceeds from Public Sector Undertakings\n2. Recovery of loans granted to State Governments\n3. Market borrowings through Government Securities (G-Secs)\n4. Dividends received from Public Sector Undertakings\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 2 and 3 only",
+            "1, 3 and 4 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4"
+          ],
+          "correctIndex": 0,
+          "explanation": "Capital receipts either create a liability (borrowings) or reduce financial assets (disinvestment, loan recoveries). Dividends from PSUs are non-tax Revenue Receipts."
+        },
+        {
+          "id": "q54",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "With reference to \"Real Effective Exchange Rate (REER)\" of the Indian Rupee, an increase in the REER index generally indicates:",
+          "options": [
+            "A loss in India’s external trade competitiveness as exports become relatively more expensive",
+            "A gain in India’s export competitiveness due to real depreciation of the Rupee",
+            "A fall in domestic consumer inflation relative to all trading partners",
+            "A simultaneous reduction in both the Repo Rate and Reverse Repo Rate"
+          ],
+          "correctIndex": 0,
+          "explanation": "REER is the inflation-adjusted weighted average of a currency against a basket of major trading-partner currencies. A rise in REER signifies real appreciation, making exports costlier and reducing trade competitiveness."
+        },
+        {
+          "id": "q55",
+          "topic": "Indian Economy",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding the \"Digital Rupee\" (Central Bank Digital Currency — CBDC) launched by the RBI:\n1. It is a sovereign liability appearing on the Reserve Bank of India’s balance sheet.\n2. It is insured against inflation by automatically indexing its face value to the CPI.\n3. It is freely convertible against commercial bank money and physical cash.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 1,
+          "explanation": "CBDC (e₹) is legal tender issued by the RBI, appearing as a liability on its balance sheet, and is freely convertible 1:1 with cash and bank deposits. It is NOT indexed to CPI inflation (UPSC CSE Prelims 2024)."
+        },
+        {
+          "id": "q56",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "With reference to \"Collateral Borrowing and Lending Obligation (CBLO)\" and \"Tri-Party Repo (TREPS)\" in India, these instruments operate primarily in which market?",
+          "options": [
+            "Money Market (short-term liquidity)",
+            "Equity Derivatives Market",
+            "Sovereign Gold Bullion Market",
+            "Long-term Infrastructure Equity Market"
+          ],
+          "correctIndex": 0,
+          "explanation": "TREPS (which replaced CBLO in 2018 via CCIL) is a short-term collateralized money market instrument enabling banks, mutual funds, and insurers to borrow and lend overnight/short-term funds."
+        },
+        {
+          "id": "q57",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "Which of the following best explains the phenomenon of \"Crowding Out\" in macroeconomics?",
+          "options": [
+            "Excessive government borrowing from the domestic market raises interest rates and reduces private sector investment",
+            "Rapid foreign direct investment lowers domestic interest rates and boosts household savings",
+            "Declining agricultural output pushes rural labor into urban manufacturing jobs",
+            "Commercial banks hold excess statutory liquidity above SLR requirements during recessions"
+          ],
+          "correctIndex": 0,
+          "explanation": "When the government runs large fiscal deficits financed by domestic borrowing, higher demand for loanable funds pushes up real interest rates, \"crowding out\" private sector capital expenditure."
+        },
+        {
+          "id": "q58",
+          "topic": "Indian Economy",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding the \"Goods and Services Tax (GST) Council\":\n1. It is a constitutional body established under Article 279A of the Constitution of India.\n2. Every decision of the GST Council requires a majority of not less than three-fourths of the weighted votes of members present and voting.\n3. The Union Government’s vote has a weightage of one-half of the total votes cast.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "Under Article 279A(9), decisions require a 3/4th majority of weighted votes, where the Centre has ONE-THIRD (not one-half) weightage and all States combined have TWO-THIRDS weightage."
+        },
+        {
+          "id": "q59",
+          "topic": "Indian Economy",
+          "difficulty": "medium",
+          "question": "In India, which institution compiles and publishes the \"Index of Eight Core Industries (ICI)\" every month?",
+          "options": [
+            "Office of the Economic Adviser, Department for Promotion of Industry and Internal Trade (DPIIT)",
+            "National Statistical Office (NSO), Ministry of Statistics and Programme Implementation",
+            "Reserve Bank of India (Department of Statistics)",
+            "NITI Aayog"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Index of Eight Core Industries (covering 40.27% of IIP weight: Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, Electricity) is released monthly by the Office of the Economic Adviser (DPIIT, Ministry of Commerce & Industry)."
+        },
+        {
+          "id": "q60",
+          "topic": "Ancient History",
+          "difficulty": "medium",
+          "question": "With reference to ancient Indian literature, consider the following pairs of works and their authors:\n1. Mudrarakshasa : Vishakhadatta\n2. Mrichchhakatika : Shudraka\n3. Kiratarjuniya : Bharavi\n4. Malavikagnimitram : Kalidasa\nHow many of the above pairs are correctly matched?",
+          "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "correctIndex": 3,
+          "explanation": "All four classical Sanskrit works are correctly paired: Mudrarakshasa (Vishakhadatta), Mrichchhakatika (Shudraka), Kiratarjuniya (Bharavi), and Malavikagnimitram (Kalidasa)."
+        },
+        {
+          "id": "q61",
+          "topic": "Ancient History",
+          "difficulty": "hard",
+          "question": "Which of the following Harappan sites is uniquely characterized by a three-tier town division (Citadel, Middle Town, and Lower Town) and an elaborate stone water-harvesting reservoir system?",
+          "options": [
+            "Lothal",
+            "Dholavira",
+            "Kalibangan",
+            "Banawali"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dholavira in Gujarat (a UNESCO World Heritage Site inscribed in 2021) is uniquely divided into three principal zones and is celebrated for its rock-cut reservoirs and cascading water conservation channels."
+        },
+        {
+          "id": "q62",
+          "topic": "Medieval History",
+          "difficulty": "medium",
+          "question": "In medieval Indian history, who among the following rulers built the \"Buland Darwaza\" at Fatehpur Sikri to commemorate the conquest of Gujarat?",
+          "options": [
+            "Babur",
+            "Humayun",
+            "Akbar",
+            "Shah Jahan"
+          ],
+          "correctIndex": 2,
+          "explanation": "Mughal Emperor Akbar built the monumental Buland Darwaza (Gate of Magnificence) at Fatehpur Sikri to commemorate his decisive victory over Gujarat."
+        },
+        {
+          "id": "q63",
+          "topic": "Medieval History",
+          "difficulty": "hard",
+          "question": "With reference to the administrative system of the Delhi Sultanate, what was the function of the department known as \"Diwan-i-Arz\"?",
+          "options": [
+            "Military department responsible for recruitment, muster rolls, and maintenance of the army",
+            "Department of foreign correspondence and royal chancery",
+            "Department of agricultural loans (Sondhar) and land reclamation",
+            "Department of religious endowments and charitable grants"
+          ],
+          "correctIndex": 0,
+          "explanation": "Diwan-i-Arz (headed by Ariz-i-Mamalik), reorganized by Balban and Alauddin Khalji, was the military department. Diwan-i-Insha handled correspondence, Diwan-i-Kohi handled agriculture, and Diwan-i-Risalat handled religious affairs."
+        },
+        {
+          "id": "q64",
+          "topic": "Modern History",
+          "difficulty": "medium",
+          "question": "Which of the following pairs regarding socio-religious reform organizations and their founders in 19th-century India is/are correctly matched?\n1. Satyashodhak Samaj : Jyotirao Phule\n2. Prarthana Samaj : Atmaram Pandurang\n3. Servants of India Society : Gopal Krishna Gokhale\nSelect the correct answer using the code given below:",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 3,
+          "explanation": "All three are correctly matched: Satyashodhak Samaj (1873, Jyotirao Phule), Prarthana Samaj (1867, Atmaram Pandurang in Bombay), and Servants of India Society (1905, Gopal Krishna Gokhale)."
+        },
+        {
+          "id": "q65",
+          "topic": "Modern History",
+          "difficulty": "hard",
+          "question": "With reference to the Government of India Act, 1919 (Montagu-Chelmsford Reforms), consider the following statements:\n1. It introduced \"Dyarchy\" in the provincial executive by dividing subjects into Reserved and Transferred lists.\n2. It introduced bicameralism at the Centre for the first time.\n3. It granted complete provincial autonomy and abolished dyarchy in the provinces.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "The GoI Act 1919 introduced provincial dyarchy and central bicameralism (Council of State and Legislative Assembly). Abolition of provincial dyarchy and introduction of provincial autonomy occurred later under the GoI Act, 1935."
+        },
+        {
+          "id": "q66",
+          "topic": "Modern History",
+          "difficulty": "medium",
+          "question": "Who among the following led the famous \"Vaikom Satyagraha\" (1924–25) in Travancore demanding temple-entry road access for marginalized communities?",
+          "options": [
+            "T.K. Madhavan, K. Kelappan, and K.P. Kesava Menon",
+            "Alluri Sitarama Raju and Komaram Bheem",
+            "Chittaranjan Das and Motilal Nehru",
+            "Surya Sen and Kalpana Datta"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Vaikom Satyagraha (1924–25) against untouchability around the Vaikom Mahadeva Temple in Travancore was led by T.K. Madhavan, K. Kelappan, and K.P. Kesava Menon, and also supported by E.V. Ramasamy (Periyar) and Mahatma Gandhi."
+        },
+        {
+          "id": "q67",
+          "topic": "Art & Culture",
+          "difficulty": "medium",
+          "question": "With reference to Indian temple architecture, the \"Panchayatan\" style refers to:",
+          "options": [
+            "A main central shrine surrounded by four subsidiary shrines placed at the four corners of the plinth",
+            "A five-storeyed pyramidal Dravida gopuram built exclusively of basalt rock",
+            "A Buddhist chaitya hall flanked by five monolithic Ashokan pillars",
+            "A cave monastery excavated in five concentric semicircular galleries"
+          ],
+          "correctIndex": 0,
+          "explanation": "In the Panchayatan style (seen in Khajuraho’s Lakshmana Temple, Dashavatara Temple at Deogarh, and Brihadisvara complex), the principal deity shrine stands at the center with four subsidiary shrines at the four corners."
+        },
+        {
+          "id": "q68",
+          "topic": "Geography",
+          "difficulty": "hard",
+          "question": "Consider the following statements:\nStatement-I: The Earth’s atmosphere is heated more by incoming shortwave solar radiation than by terrestrial longwave radiation.\nStatement-II: Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of longwave radiation.\nWhich one of the following is correct in respect of the above statements?",
+          "options": [
+            "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+            "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+            "Statement-I is correct, but Statement-II is incorrect",
+            "Statement-I is incorrect, but Statement-II is correct"
+          ],
+          "correctIndex": 3,
+          "explanation": "The atmosphere is largely transparent to incoming shortwave solar radiation and is heated mainly from below by outgoing longwave terrestrial radiation absorbed by greenhouse gases (UPSC CSE Prelims 2024)."
+        },
+        {
+          "id": "q69",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Consider the following pairs of famous waterfalls in India and the rivers on which they are located:\n1. Dhuandhar Falls : Narmada\n2. Hundru Falls : Subarnarekha\n3. Jog (Gersoppa) Falls : Sharavati\n4. Shivasamudram Falls : Godavari\nHow many of the above pairs are correctly matched?",
+          "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dhuandhar (Narmada), Hundru (Subarnarekha), and Jog (Sharavati) are correctly matched. Shivasamudram Falls is on the Kaveri river (not Godavari). Hence only three pairs are correct."
+        },
+        {
+          "id": "q70",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which of the following countries share a maritime coastline directly with the Red Sea?\n1. Egypt\n2. Saudi Arabia\n3. Yemen\n4. Jordan\n5. Oman\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 2 and 3 only",
+            "1, 2, 3 and 4 only",
+            "2, 3, 4 and 5 only",
+            "1, 2, 3, 4 and 5"
+          ],
+          "correctIndex": 1,
+          "explanation": "Egypt, Sudan, Eritrea, Djibouti, Saudi Arabia, Yemen, Israel, and Jordan (via the Gulf of Aqaba, an arm of the Red Sea) border the Red Sea. Oman borders the Arabian Sea and Gulf of Oman, not the Red Sea."
+        },
+        {
+          "id": "q71",
+          "topic": "Geography",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding the \"Indian Ocean Dipole (IOD)\":\n1. A positive IOD is characterized by warmer-than-normal sea surface temperatures in the western Indian Ocean relative to the eastern Indian Ocean.\n2. A positive IOD generally strengthens the Indian Southwest Monsoon and can partially offset the drying impact of El Niño.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "During a positive IOD, warmer waters off East Africa/Arabian Sea and cooler waters near Sumatra enhance moisture convergence toward India, supporting above-normal monsoon rains even in El Niño years."
+        },
+        {
+          "id": "q72",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which one of the following mountain ranges in India forms the primary water divide between the Narmada river basin and the Tapi river basin?",
+          "options": [
+            "Vindhya Range",
+            "Satpura Range",
+            "Aravalli Range",
+            "Ajanta Range"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Satpura Range runs in an east-west direction between the Narmada rift valley to its north and the Tapi rift valley to its south."
+        },
+        {
+          "id": "q73",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "With reference to seismic waves generated during an earthquake, consider the following statements:\n1. Primary (P) waves can travel through solid, liquid, and gaseous mediums.\n2. Secondary (S) waves cannot pass through the Earth’s liquid outer core.\n3. Surface waves are the first to be recorded on a seismograph.\nWhich of the statements given above are correct?",
+          "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "P-waves are the fastest and arrive first on a seismograph (not surface waves) and travel through all mediums. S-waves are transverse shear waves and cannot propagate through the liquid outer core."
+        },
+        {
+          "id": "q74",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which of the following Indian states is/are traversed by the Tropic of Cancer ($23.5^\\circ\\text{ N}$)?\n1. Gujarat\n2. Chhattisgarh\n3. Jharkhand\n4. Tripura\n5. Manipur\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 2 and 3 only",
+            "1, 2, 3 and 4 only",
+            "2, 3, 4 and 5 only",
+            "1, 3, 4 and 5 only"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does NOT pass through Manipur."
+        },
+        {
+          "id": "q75",
+          "topic": "Geography",
+          "difficulty": "hard",
+          "question": "With reference to critical mineral deposits in India, \"Monazite\" beach sands along the coasts of Kerala, Tamil Nadu, and Odisha are a major natural source of which element?",
+          "options": [
+            "Lithium",
+            "Thorium",
+            "Cobalt",
+            "Platinum"
+          ],
+          "correctIndex": 1,
+          "explanation": "Monazite is a rare-earth phosphate mineral rich in Thorium (a key fuel for India’s Stage-3 nuclear power programme), found extensively in coastal placer sands of Kerala, Tamil Nadu, Andhra Pradesh, and Odisha."
+        },
+        {
+          "id": "q76",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "The \"Karewa\" lacustrine deposits, famous for the cultivation of Zafran (a local variety of saffron), are found in which region of India?",
+          "options": [
+            "Kashmir Valley",
+            "Kangra Valley",
+            "Assam Valley",
+            "Silent Valley"
+          ],
+          "correctIndex": 0,
+          "explanation": "Karewas are thick deposits of glacial clay and lacustrine sediments embedded with moraines found in the Kashmir Valley (Pampore), ideal for saffron, almond, and walnut cultivation."
+        },
+        {
+          "id": "q77",
+          "topic": "Environment & Ecology",
+          "difficulty": "hard",
+          "question": "Consider the following statements:\nStatement-I: The Indian Flying Fox is placed under the \"vermin\" category in the Wild Life (Protection) Act, 1972.\nStatement-II: The Indian Flying Fox feeds on the blood of other animals.\nWhich one of the following is correct in respect of the above statements?",
+          "options": [
+            "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+            "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+            "Statement-I is correct, but Statement-II is incorrect",
+            "Both Statement-I and Statement-II are incorrect"
+          ],
+          "correctIndex": 3,
+          "explanation": "After the Wild Life (Protection) Amendment Act 2022, Schedule V (vermin) was removed and the Indian Flying Fox (Pteropus medius) is listed under Schedule II. Moreover, it is a frugivore/nectarivore (fruit bat), not a blood-feeder (UPSC CSE Prelims 2024)."
+        },
+        {
+          "id": "q78",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "With reference to India’s Protected Area network, which of the following is/are Biosphere Reserves included in UNESCO’s World Network of Biosphere Reserves (WNBR)?\n1. Nilgiri\n2. Agasthyamala\n3. Panna\n4. Cold Desert\nSelect the correct answer using the code given below:",
+          "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nilgiri (2000), Agasthyamala (2016), and Panna (2020) are among India’s 12 UNESCO MAB World Network Biosphere Reserves. Cold Desert (Himachal Pradesh) is a notified Indian Biosphere Reserve but not in the 12 UNESCO WNBR list."
+        },
+        {
+          "id": "q79",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "Which of the following pollutants are monitored for calculating India’s National Air Quality Index (NAQI)?\n1. $\\text{PM}_{2.5}$ and $\\text{PM}_{10}$\n2. Carbon Dioxide ($\\text{CO}_2$)\n3. Ammonia ($\\text{NH}_3$)\n4. Ground-level Ozone ($\\text{O}_3$)\n5. Lead ($\\text{Pb}$)\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 2, 3 and 4 only",
+            "1, 3, 4 and 5 only",
+            "1, 2, 4 and 5 only",
+            "1, 2, 3, 4 and 5"
+          ],
+          "correctIndex": 1,
+          "explanation": "India’s NAQI tracks 8 pollutants: PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb. Carbon Dioxide (CO2) is a greenhouse gas and is NOT one of the 8 NAQI criteria pollutants."
+        },
+        {
+          "id": "q80",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "With reference to international environmental conventions, the \"Kunming-Montreal Global Biodiversity Framework (GBF)\" adopted at CBD COP-15 includes the \"30x30\" target, which seeks to:",
+          "options": [
+            "Conserve and effectively manage at least 30% of the world’s terrestrial, inland water, coastal, and marine areas by 2030",
+            "Reduce global coal consumption by 30% across 30 developing nations by 2030",
+            "Plant 30 billion mangrove saplings across 30 tropical deltas by 2030",
+            "Cut global marine plastic pollution by 30 million tonnes per year for 30 years"
+          ],
+          "correctIndex": 0,
+          "explanation": "Target 3 of the Kunming-Montreal GBF (2022) aims to ensure at least 30% of terrestrial, inland water, and marine/coastal areas are effectively conserved and managed by 2030."
+        },
+        {
+          "id": "q81",
+          "topic": "Environment & Ecology",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding \"Blue Carbon\":\n1. It refers to organic carbon captured and stored by coastal and marine ecosystems such as mangroves, tidal marshes, and seagrass meadows.\n2. Per unit area, mangrove and seagrass soils can sequester carbon at significantly higher rates than terrestrial tropical forests.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "Blue carbon ecosystems (mangroves, salt marshes, seagrasses) lock carbon in anaerobic waterlogged sediments for centuries to millennia at rates several times higher per hectare than terrestrial forests."
+        },
+        {
+          "id": "q82",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "Which of the following is/are invasive alien plant species threatening native biodiversity in Indian forests and grasslands?\n1. Lantana camara\n2. Prosopis juliflora\n3. Senna spectabilis\n4. Water Hyacinth (Eichhornia crassipes)\nSelect the correct answer using the code given below:",
+          "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4"
+          ],
+          "correctIndex": 3,
+          "explanation": "All four are aggressive invasive alien species in India: Lantana camara and Senna spectabilis invade Nilgiri/Western Ghats forests, Prosopis juliflora invades Banni grasslands/drylands, and Water Hyacinth chokes freshwater wetlands."
+        },
+        {
+          "id": "q83",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "The \"Cartagena Protocol\" under the Convention on Biological Diversity (CBD) specifically deals with:",
+          "options": [
+            "Safe handling, transport, and transboundary movement of Living Modified Organisms (LMOs)",
+            "Fair and equitable sharing of benefits arising from genetic resources",
+            "Phasing down hydrofluorocarbons (HFCs) with high global warming potential",
+            "Eliminating persistent organic pollutants (POPs) from industrial agriculture"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Cartagena Protocol on Biosafety (2000) governs Living Modified Organisms (LMOs). Access and Benefit Sharing is under the Nagoya Protocol; HFCs are under Kigali Amendment; POPs are under Stockholm Convention."
+        },
+        {
+          "id": "q84",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "In ecological terminology, \"Eutrophication\" of a freshwater lake leads directly to:",
+          "options": [
+            "Algal blooms followed by rapid depletion of dissolved oxygen (hypoxia) and increased Biochemical Oxygen Demand (BOD)",
+            "Complete elimination of nitrogen and phosphorus nutrients from surface water",
+            "Permanent lowering of water temperature and higher dissolved oxygen concentration",
+            "Formation of deep coral reefs in freshwater lakes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Excess nutrient runoff (nitrates/phosphates) triggers algal blooms; bacterial decomposition of dead algae consumes dissolved oxygen, raising BOD and causing fish kills."
+        },
+        {
+          "id": "q85",
+          "topic": "Environment & Ecology",
+          "difficulty": "hard",
+          "question": "Consider the following pairs of Tiger Reserves and the States in which they are located:\n1. Pakke Tiger Reserve : Arunachal Pradesh\n2. Satkosia Tiger Reserve : Odisha\n3. Amrabad Tiger Reserve : Telangana\n4. Mudumalai Tiger Reserve : Kerala\nHow many of the above pairs are correctly matched?",
+          "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Pakke (Arunachal Pradesh), Satkosia (Odisha), and Amrabad (Telangana) are correctly matched. Mudumalai Tiger Reserve is located in Tamil Nadu (bordering Kerala and Karnataka), not Kerala."
+        },
+        {
+          "id": "q86",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "Under the Environmental Protection Act, 1986, the \"Genetic Engineering Appraisal Committee (GEAC)\" functions under which Union Ministry?",
+          "options": [
+            "Ministry of Environment, Forest and Climate Change",
+            "Ministry of Science and Technology",
+            "Ministry of Agriculture and Farmers Welfare",
+            "Ministry of Health and Family Welfare"
+          ],
+          "correctIndex": 0,
+          "explanation": "GEAC is a statutory body constituted under the Rules for the Manufacture, Use, Import, Export and Storage of Hazardous Microorganisms (1989) under the EPA 1986, functioning under MoEFCC."
+        },
+        {
+          "id": "q87",
+          "topic": "Environment & Ecology",
+          "difficulty": "medium",
+          "question": "Which of the following species are naturally found in the wild in India?\n1. Gharial (Gavialis gangeticus)\n2. Cheetah (Acinonyx jubatus)\n3. Gangetic River Dolphin (Platanista gangetica)\n4. Snow Leopard (Panthera uncia)\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 3 and 4 only",
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4"
+          ],
+          "correctIndex": 0,
+          "explanation": "Gharial, Gangetic River Dolphin, and Snow Leopard are native wild species in India. The Asiatic Cheetah was declared extinct in India in 1952 (African cheetahs were translocated to Kuno under Project Cheetah, not naturally surviving wild stock)."
+        },
+        {
+          "id": "q88",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "Consider the following military aircraft:\n1. Rafale\n2. MiG-29\n3. Tejas MK-1\nHow many of the above are classified as fifth-generation fighter aircraft?",
+          "options": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "correctIndex": 3,
+          "explanation": "Rafale is a 4.5-generation fighter, while MiG-29 and LCA Tejas MK-1 are 4th-generation fighters. None of the three is a 5th-generation stealth fighter (UPSC CSE Prelims 2024)."
+        },
+        {
+          "id": "q89",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "In the context of emerging space technologies, what is the primary advantage of \"Green Propellants\" over traditional hydrazine-based rocket propellants?",
+          "options": [
+            "Significantly lower toxicity, safer handling, and reduced environmental hazard during launch preparations",
+            "Elimination of the need for any oxidizer during deep-space orbital burns",
+            "Ability to propel spacecraft faster than the speed of light in vacuum",
+            "Zero thermal radiation emission during atmospheric re-entry"
+          ],
+          "correctIndex": 0,
+          "explanation": "Green propellants (such as HAN/ADN blends or ISRO’s LOX-Methane / hydrogen peroxide systems) drastically reduce toxicity and carcinogenic handling hazards compared to conventional hydrazine/UDMH."
+        },
+        {
+          "id": "q90",
+          "topic": "Science & Technology",
+          "difficulty": "hard",
+          "question": "With reference to \"CAR-T Cell Therapy\" (such as India’s indigenous NexCAR19), consider the following statements:\n1. It involves genetically modifying a patient’s own T-lymphocytes in a laboratory so they recognize and destroy specific cancer cells.\n2. It is primarily used in the treatment of certain blood cancers such as B-cell lymphomas and acute lymphoblastic leukemia.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "Chimeric Antigen Receptor T-cell (CAR-T) therapy reprograms a patient’s T-cells to target cancer antigens (like CD19 on B-cells). NexCAR19, developed by IIT Bombay & Tata Memorial Centre, is India’s first indigenous CAR-T therapy."
+        },
+        {
+          "id": "q91",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "Which of the following best describes \"Web 3.0\" compared to earlier generations of the World Wide Web?",
+          "options": [
+            "A decentralized web architecture emphasizing peer-to-peer networks, cryptographic ownership, and user control of personal data",
+            "A centralized government intranet restricted to fiber-optic submarine cables",
+            "A static read-only directory of HTML pages without interactive JavaScript",
+            "A proprietary operating system designed exclusively for quantum supercomputers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Web 3.0 envisions decentralized applications built on distributed ledgers/peer-to-peer protocols enabling verifiable user data ownership without central tech-platform gatekeepers (UPSC CSE Prelims 2022)."
+        },
+        {
+          "id": "q92",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "With reference to Indian Satellite Navigation, \"NavIC\" (IRNSS) provides accurate real-time positioning over India and a region extending up to approximately how far beyond India’s borders?",
+          "options": [
+            "500 km",
+            "1,500 km",
+            "5,000 km",
+            "10,000 km"
+          ],
+          "correctIndex": 1,
+          "explanation": "NavIC (Navigation with Indian Constellation) is an autonomous regional satellite navigation system covering India and a primary service area extending ~1,500 km around its borders."
+        },
+        {
+          "id": "q93",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "In nuclear energy, what is the primary role of \"Heavy Water ($\\text{D}_2\\text{O}$)\" in Pressurized Heavy Water Reactors (PHWRs) operated across India?",
+          "options": [
+            "It functions as both neutron moderator and primary coolant, enabling the use of natural (unenriched) uranium as fuel",
+            "It acts as the fissile nuclear fuel that directly undergoes chain fission",
+            "It absorbs all thermal neutrons to immediately shut down the reactor during normal operation",
+            "It converts nuclear heat directly into alternating electrical current without turbines"
+          ],
+          "correctIndex": 0,
+          "explanation": "Heavy water slows down fast neutrons (moderator) with minimal neutron absorption, allowing PHWRs to run on natural uranium, and also transfers heat from the reactor core (coolant)."
+        },
+        {
+          "id": "q94",
+          "topic": "Science & Technology",
+          "difficulty": "medium",
+          "question": "What are \"mRNA Vaccines\" designed to deliver into human cells to trigger protective immunity?",
+          "options": [
+            "Genetic instructions (messenger RNA) that prompt cells to produce a harmless viral protein (antigen), stimulating an immune response",
+            "Live replicating bacteria engineered to consume invading viruses in the bloodstream",
+            "Synthetic metallic nanoparticles that permanently alter human chromosomal DNA",
+            "Broad-spectrum chemical antibiotics that dissolve viral envelopes on contact"
+          ],
+          "correctIndex": 0,
+          "explanation": "mRNA vaccines deliver a lipid-encapsulated mRNA blueprint into the cytoplasm so ribosomes transiently synthesize a target antigen (e.g., spike protein), training the immune system without entering the cell nucleus or altering DNA."
+        },
+        {
+          "id": "q95",
+          "topic": "International Relations",
+          "difficulty": "medium",
+          "question": "Which of the following countries are members of the \"BIMSTEC\" (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)?\n1. India\n2. Nepal\n3. Bhutan\n4. Myanmar\n5. Maldives\nSelect the correct answer using the code given below:",
+          "options": [
+            "1, 2, 3 and 4 only",
+            "1, 2, 3 and 5 only",
+            "2, 3, 4 and 5 only",
+            "1, 2, 3, 4 and 5"
+          ],
+          "correctIndex": 0,
+          "explanation": "BIMSTEC has 7 member states: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand. Maldives is a member of SAARC, not BIMSTEC."
+        },
+        {
+          "id": "q96",
+          "topic": "International Relations",
+          "difficulty": "medium",
+          "question": "The \"Artemis Accords\", which India signed in 2023, establish a non-binding set of principles primarily for:",
+          "options": [
+            "Peaceful, transparent, and cooperative civil exploration and use of the Moon, Mars, and outer space",
+            "Eliminating nuclear-powered submarines from the Indo-Pacific maritime corridor",
+            "Harmonizing global corporate minimum tax rates at 15% across G20 nations",
+            "Regulating cross-border tariffs on semiconductor lithography exports"
+          ],
+          "correctIndex": 0,
+          "explanation": "Led by NASA and the U.S. Department of State, the Artemis Accords build on the 1967 Outer Space Treaty to govern peaceful civil space exploration, lunar interoperability, and emergency assistance."
+        },
+        {
+          "id": "q97",
+          "topic": "International Relations",
+          "difficulty": "hard",
+          "question": "Consider the following statements regarding the \"International Solar Alliance (ISA)\":\n1. It was jointly launched by India and France at COP-21 in Paris (2015), with its headquarters in Gurugram, India.\n2. Membership of the ISA is strictly restricted only to countries lying wholly between the Tropic of Cancer and the Tropic of Capricorn.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 0,
+          "explanation": "ISA was launched by India and France in 2015 with headquarters in Gurugram. Following its Framework Agreement amendment in 2020, ALL United Nations member states are eligible to join ISA—not just tropical nations."
+        },
+        {
+          "id": "q98",
+          "topic": "International Relations",
+          "difficulty": "medium",
+          "question": "Which international organization publishes the annual \"Global Competitiveness Report\" and \"Global Gender Gap Report\"?",
+          "options": [
+            "World Economic Forum (WEF)",
+            "World Bank Group",
+            "United Nations Development Programme (UNDP)",
+            "International Monetary Fund (IMF)"
+          ],
+          "correctIndex": 0,
+          "explanation": "The World Economic Forum (WEF), headquartered in Cologny (Geneva), publishes the Global Gender Gap Report, Global Risks Report, and Global Competitiveness Report."
+        },
+        {
+          "id": "q99",
+          "topic": "International Relations",
+          "difficulty": "hard",
+          "question": "Consider the following pairs of international maritime chokepoints and the water bodies they connect:\n1. Strait of Hormuz : Persian Gulf and Gulf of Oman\n2. Bab el-Mandeb : Red Sea and Gulf of Aden\n3. Strait of Malacca : Andaman Sea and South China Sea\n4. Bosporus Strait : Black Sea and Caspian Sea\nHow many of the above pairs are correctly matched?",
+          "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Strait of Hormuz, Bab el-Mandeb, and Strait of Malacca are correctly matched. The Bosporus Strait connects the Black Sea and the Sea of Marmara (not the landlocked Caspian Sea). Hence only three pairs are correct."
+        },
+        {
+          "id": "q100",
+          "topic": "International Relations",
+          "difficulty": "medium",
+          "question": "With reference to the \"Financial Action Task Force (FATF)\", placing a jurisdiction on the \"Grey List\" signifies that the country:",
+          "options": [
+            "Is under increased monitoring and has committed to swiftly resolve strategic deficiencies in countering money laundering and terror financing",
+            "Has been permanently expelled from the International Monetary Fund and World Trade Organization",
+            "Maintains a sovereign credit rating of AAA with zero external debt",
+            "Is exempted from international customs inspections on bullion trade"
+          ],
+          "correctIndex": 0,
+          "explanation": "FATF’s Grey List (\"Jurisdictions under Increased Monitoring\") includes countries actively working with FATF to address strategic AML/CFT deficiencies within agreed timelines, whereas the Black List designates high-risk non-cooperative jurisdictions."
+        }
+      ]
+    }
+  ]
+}

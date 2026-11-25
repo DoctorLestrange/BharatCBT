@@ -1,0 +1,3152 @@
+{
+  "title": "RBI Grade B (DR) Officer — Full-Length Phase-I Sectional CBT Mock",
+  "subtitle": "200 Questions • 120 Minutes (25+25+25+45m) • 200 Marks • 5 Options • +1 / -0.25 Marking",
+  "category": "Banking",
+  "description": "Exact full-length Reserve Bank of India (RBI) Grade B Officer Phase-I replica: 200 five-option MCQs across 4 strictly locked sections — General Awareness (80 Qs / 25 min), English Language (30 Qs / 25 min), Quantitative Aptitude (30 Qs / 25 min), and Reasoning Ability (60 Qs / 45 min) — in 120 minutes with +1 / -0.25 negative marking.",
+  "durationMinutes": 120,
+  "sectionalTiming": true,
+  "allowBackNavigationInSectionalTiming": false,
+  "defaultMarks": 1,
+  "defaultNegativeMarks": 0.25,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact RBI Grade B Phase-I pattern: 200 questions (200 maximum marks) across 4 strictly locked sections totalling 120 minutes (2 hours).",
+    "Official sectional timers: General Awareness (80 Qs / 25 min) → English Language (30 Qs / 25 min) → Quantitative Aptitude (30 Qs / 25 min) → Reasoning Ability (60 Qs / 45 min).",
+    "5 options per question (A–E), +1 mark for each correct answer, and -0.25 mark penalty for each wrong answer."
+  ],
+  "passages": {
+    "rbi_rc": {
+      "title": "Reading Comprehension — Questions 1 to 8 (English Language)",
+      "content": "Central Bank Digital Currencies (CBDCs) represent a sovereign digital liability issued directly on a central bank's balance sheet—distinct both from commercial bank deposits and from unbacked private crypto-assets. In India, the Reserve Bank of India has pursued a calibrated, dual-track pilot for the Digital Rupee (e₹), testing wholesale e₹-W for interbank government securities settlement alongside retail e₹-R for person-to-person and person-to-merchant payments via participating banks.\n\nProponents argue that wholesale CBDCs can compress settlement cycles from T+1 to near-instantaneous atomic delivery-versus-payment, freeing up trapped liquidity and slashing counterparty risk across cross-border remittance corridors. On the retail side, programmability—such as disbursing targeted fertilizer or scholarship subsidies strictly redeemable at verified merchants—and offline peer-to-peer functionality in low-connectivity hinterlands offer clear public-policy advantages over existing instant-payment rails like UPI.\n\nYet monetary economists warn against rushing toward full-scale retail deployment without careful structural guardrails. If households treat retail e₹ wallets as risk-free substitutes for commercial bank savings accounts during episodes of financial stress, sudden 'digital bank runs' could drain low-cost retail deposits and impair credit intermediation. Accordingly, the RBI has intentionally designed e₹-R as a non-interest-bearing instrument with tiered holding limits—seeking to harvest payment efficiency while **safeguarding** commercial bank balance sheets and monetary transmission."
+    },
+    "rbi_cloze": {
+      "title": "Cloze Test — Questions 9 to 14 (English Language)",
+      "content": "Select the most appropriate word for each numbered blank in the passage below.\n\nClimate-related financial risks are rapidly moving from the periphery to the core of prudential banking supervision. Physical risks—such as coastal cyclones and prolonged droughts—can directly __(9)__ agricultural collateral and disrupt industrial supply chains, while transition risks arise when carbon-intensive borrowers struggle to __(10)__ to stricter emission norms. To measure systemic __(11)__, central banks worldwide are introducing voluntary climate stress tests and standardized green taxonomy disclosures. Commercial lenders that proactively __(12)__ climate risk into credit pricing will not only reduce future non-performing assets but also unlock cheaper global ESG capital to __(13)__ clean-energy infrastructure and sustainable __(14)__."
+    },
+    "rbi_pj": {
+      "title": "Para Jumble — Questions 20 to 24 (English Language)",
+      "content": "Rearrange the following FIVE sentences (A), (B), (C), (D), and (E) to form a coherent paragraph and answer Questions 20 to 24:\n\n**(A)** In response, India's Insolvency and Bankruptcy Code (IBC) of 2016 created a time-bound, creditor-in-control resolution regime overseen by the National Company Law Tribunal.\n**(B)** Prior to 2016, fragmented recovery statutes like SICA and BIFR routinely stretched corporate liquidation disputes beyond four years, eroding asset values by over seventy percent.\n**(C)** Empirical studies confirm that the credible threat of losing promoter control has also nudged thousands of distressed debtors to settle dues even before formal admission.\n**(D)** Nonetheless, judicial bench vacancies and repeated appellate litigation continue to push average resolution timelines well past the statutory 330-day ceiling.\n**(E)** Expanding NCLT bench capacity and operationalizing pre-packaged insolvency for mid-sized firms are therefore critical to preserving the Code's deterrent power."
+    },
+    "rbi_di1": {
+      "title": "Data Interpretation Set 1 — Questions 1 to 5 (Quant)",
+      "content": "Study the table carefully and answer Questions 1 to 5.\n\n**Sector-wise Credit Portfolio (in ₹ Crore) of Five Scheduled Commercial Banks**\n\n| Bank | Agriculture | MSME | Retail |\n|---|---|---|---|\n| **Bank B1** | 120 | 180 | 300 |\n| **Bank B2** | 150 | 200 | 250 |\n| **Bank B3** | 100 | 150 | 250 |\n| **Bank B4** | 180 | 220 | 400 |\n| **Bank B5** | 50 | 150 | 300 |"
+    },
+    "rbi_di2": {
+      "title": "Data Interpretation Set 2 — Questions 6 to 10 (Quant)",
+      "content": "Study the table carefully and answer Questions 6 to 10.\n\n**Quarterly Digital Payment Volume (in Million Transactions) across Three Payment Rails**\n\n| Quarter | UPI | IMPS | NEFT |\n|---|---|---|---|\n| **Q1** | 400 | 80 | 70 |\n| **Q2** | 480 | 90 | 80 |\n| **Q3** | 560 | 100 | 90 |\n| **Q4** | 640 | 110 | 100 |"
+    },
+    "rbi_p1": {
+      "title": "Puzzle 1 (Circular Seating + Cities) — Questions 1 to 5 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 1 to 5:\n\nEight RBI trainees — **A, B, C, D, E, F, G, and H** — from eight cities (**Delhi, Mumbai, Chennai, Kolkata, Pune, Jaipur, Kochi, and Surat**) sit around a circular table facing the centre.\n- **A** (from **Delhi**) sits directly opposite to **B** (from **Pune**).\n- **E** (from **Mumbai**) sits immediately to the right of **A**.\n- **C** (from **Chennai**) sits second to the right of **A**.\n- **G** (from **Kolkata**) sits immediately between **C** and **B**.\n- **F** (from **Jaipur**) sits immediately to the right of **B**.\n- **H** (from **Surat**) sits immediately to the left of **A**.\n- **D** (from **Kochi**) sits immediately between **F** and **H**."
+    },
+    "rbi_p2": {
+      "title": "Puzzle 2 (Linear North/South Row) — Questions 6 to 10 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 6 to 10:\n\nEight analysts — **P, Q, R, S, T, U, V, and W** — sit in a straight horizontal row from Position 1 (extreme left) to Position 8 (extreme right). Alternate persons face **North** and **South**, starting with Position 1 facing **North** (so odd positions 1, 3, 5, 7 face North, and even positions 2, 4, 6, 8 face South).\n- **P** sits at Position 1 (extreme left) and **W** sits at Position 8 (extreme right).\n- **R** sits two places to the right of **P** (Position 3).\n- **Q** sits immediately between **P** and **R**.\n- **T** sits at Position 5, immediately between **S** (on its left) and **U** (on its right).\n- **V** sits immediately between **U** and **W**."
+    },
+    "rbi_p3": {
+      "title": "Puzzle 3 (Floor + Flat Grid) — Questions 11 to 15 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 11 to 15:\n\nEight officers — **A, B, C, D, E, F, G, and H** — live in a 4-storey building (Floor 1 bottom to Floor 4 top). Each floor has two flats: **Flat 1 (West)** and **Flat 2 (East)**.\n- **A** lives in Flat 1 on the topmost floor (Floor 4), and **B** lives directly East of **A**.\n- **G** lives in Flat 1 on the ground floor (Floor 1), and **H** lives directly East of **G**.\n- **C** lives in Flat 1 immediately below **A** (Floor 3), and **D** lives directly East of **C**.\n- **E** lives in Flat 1 immediately above **G** (Floor 2), and **F** lives directly East of **E**."
+    },
+    "rbi_p4": {
+      "title": "Puzzle 4 (Months & Departments) — Questions 16 to 20 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 16 to 20:\n\nSeven newly recruited Grade B officers — **K, L, M, N, O, P, and Q** — join seven different RBI departments (**Treasury, Forex, Supervision, Currency, Research, Payments, and Inclusion**) in seven consecutive months from **January to July** (one per month).\n- **K** joins **Treasury** in January, and **Q** joins **Inclusion** in July.\n- **N** joins **Currency** in April (the middle month).\n- **L** joins **Forex** immediately after **K**.\n- **M** joins **Supervision** immediately before **N**.\n- **O** joins **Research** immediately after **N**, and **P** joins **Payments** immediately before **Q**."
+    },
+    "rbi_p5": {
+      "title": "Puzzle 5 (Age & Seniority Comparison) — Questions 21 to 25 (Reasoning)",
+      "content": "Study the following information carefully and answer Questions 21 to 25:\n\nSix economists — **Rohan, Meera, Siddharth, Ananya, Kabir, and Devika** — have six distinct ages: **26, 29, 32, 35, 38, and 41 years**.\n- **Devika** is the oldest (41), and **Rohan** is the youngest (26).\n- **Kabir** is 3 years younger than **Devika**.\n- **Ananya** is 3 years younger than **Kabir**.\n- **Siddharth** is 3 years older than **Meera**, who is 3 years older than **Rohan**."
+    },
+    "rbi_io": {
+      "title": "Machine Input-Output — Questions 26 to 30 (Reasoning)",
+      "content": "Study the following rearrangement rule carefully and answer Questions 26 to 30.\n\nA word-and-number arrangement machine rearranges an input line in steps as illustrated below:\n- **Example Input:** `repo 42 bond 85 gold 63 cash 29`\n- **Step I:** `bond repo 42 gold 63 cash 29 85`\n- **Step II:** `bond cash repo 42 gold 29 63 85`\n- **Step III:** `bond cash gold repo 29 42 63 85` *(Step III is the final output: words alphabetically A→Z on the left, numbers ascending on the right after placing the largest remaining number inside the right boundary at each step.)*\n\nNow apply the exact same rule to the following **Input**:\n**Input:** `yield 34 macro 91 audit 52 trade 76 forex 18`"
+    }
+  },
+  "sections": [
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "g1",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "The Reserve Bank of India (RBI) was established on 1 April 1935 on the recommendation of which Royal Commission?",
+          "options": [
+            "Narasimham Committee",
+            "Hilton Young Commission",
+            "Chakravarty Committee",
+            "Urjit Patel Committee",
+            "Rangarajan Committee"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Royal Commission on Indian Currency and Finance (Hilton Young Commission, 1926) recommended setting up the RBI under the RBI Act, 1934."
+        },
+        {
+          "id": "g2",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Under Section 45ZB of the RBI Act, 1934, how many total members constitute the Monetary Policy Committee (MPC), including the RBI Governor?",
+          "options": [
+            "4 members",
+            "5 members",
+            "6 members",
+            "7 members",
+            "8 members"
+          ],
+          "correctIndex": 2,
+          "explanation": "The MPC has 6 members: 3 from RBI (Governor as ex-officio Chairperson, Deputy Governor in charge of monetary policy, and 1 RBI officer) and 3 external members appointed by the Central Government."
+        },
+        {
+          "id": "g3",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is India's statutory flexible inflation targeting (FIT) CPI headline inflation band under the RBI Act?",
+          "options": [
+            "2% ± 1%",
+            "4% ± 2% (i.e. 2% to 6%)",
+            "5% ± 2% (i.e. 3% to 7%)",
+            "3% ± 1%",
+            "6% ± 2%"
+          ],
+          "correctIndex": 1,
+          "explanation": "India's inflation target is 4% CPI headline inflation with an upper tolerance limit of 6% and a lower tolerance limit of 2%."
+        },
+        {
+          "id": "g4",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Under RBI's Liquidity Adjustment Facility (LAF), which rate serves as the **floor** of the LAF corridor without requiring collateral from the RBI?",
+          "options": [
+            "Bank Rate",
+            "Marginal Standing Facility (MSF) Rate",
+            "Standing Deposit Facility (SDF) Rate",
+            "Cash Reserve Ratio (CRR)",
+            "Repo Rate"
+          ],
+          "correctIndex": 2,
+          "explanation": "Introduced in April 2022, the Standing Deposit Facility (SDF) allows RBI to absorb liquidity without collateral at 25 bps below the Repo Rate, acting as the LAF corridor floor."
+        },
+        {
+          "id": "g5",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Under which section of the RBI Act, 1934 are Scheduled Commercial Banks required to maintain Cash Reserve Ratio (CRR) balances with the RBI?",
+          "options": [
+            "Section 24 of Banking Regulation Act",
+            "Section 42(1) of RBI Act, 1934",
+            "Section 17 of RBI Act, 1934",
+            "Section 35A of Banking Regulation Act",
+            "Section 22 of RBI Act, 1934"
+          ],
+          "correctIndex": 1,
+          "explanation": "CRR is mandated under Section 42(1) of the RBI Act, 1934 (whereas SLR is mandated under Section 24 of the Banking Regulation Act, 1949)."
+        },
+        {
+          "id": "g6",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is the overall Priority Sector Lending (PSL) target for Domestic Scheduled Commercial Banks (excluding RRBs and SFBs) as a percentage of ANBC or CEOBE, whichever is higher?",
+          "options": [
+            "32%",
+            "40%",
+            "50%",
+            "60%",
+            "75%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Domestic commercial banks have a 40% PSL target (while RRBs and Small Finance Banks have a 75% PSL target)."
+        },
+        {
+          "id": "g7",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "hard",
+          "question": "Within the 40% PSL target for domestic commercial banks, what is the dedicated sub-target for **Small and Marginal Farmers (SMFs)**?",
+          "options": [
+            "7.5%",
+            "8%",
+            "10%",
+            "12%",
+            "18%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Within the 18% Agriculture PSL target, Small and Marginal Farmers carry a 10% sub-target (Weaker Sections = 12%, Micro Enterprises = 7.5%)."
+        },
+        {
+          "id": "g8",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is the maximum deposit insurance cover per depositor per bank provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+          "options": [
+            "₹1 lakh",
+            "₹2.5 lakh",
+            "₹5 lakh",
+            "₹10 lakh",
+            "₹25 lakh"
+          ],
+          "correctIndex": 2,
+          "explanation": "DICGC (a wholly owned RBI subsidiary) insures principal + interest up to ₹5 lakh per depositor per bank."
+        },
+        {
+          "id": "g9",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Which RBI portal allows citizens to search across multiple banks for their **Unclaimed Deposits** (inoperative for 10+ years transferred to the DEA Fund)?",
+          "options": [
+            "PRAVAAH",
+            "UDGAM",
+            "DAKSH",
+            "UTKARSH",
+            "MANI"
+          ],
+          "correctIndex": 1,
+          "explanation": "UDGAM (Unclaimed Deposits – Gateway to Access inforMation) lets users trace unclaimed deposits; PRAVAAH is for regulatory applications; DAKSH is RBI's supervisory portal; MANI helps visually impaired identify banknotes."
+        },
+        {
+          "id": "g10",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is the minimum initial paid-up voting equity capital required to establish a **Small Finance Bank (SFB)** under RBI's on-tap licensing guidelines?",
+          "options": [
+            "₹100 Crore",
+            "₹200 Crore",
+            "₹300 Crore",
+            "₹500 Crore",
+            "₹1,000 Crore"
+          ],
+          "correctIndex": 2,
+          "explanation": "RBI revised the minimum paid-up equity capital for on-tap Small Finance Banks to ₹300 Crore (and ₹1,000 Crore for Universal Banks)."
+        },
+        {
+          "id": "g11",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is the maximum balance a **Payments Bank** in India is permitted to hold per individual customer at end of day?",
+          "options": [
+            "₹50,000",
+            "₹1 lakh",
+            "₹2 lakh",
+            "₹5 lakh",
+            "₹10 lakh"
+          ],
+          "correctIndex": 2,
+          "explanation": "RBI enhanced the end-of-day balance limit for Payments Banks from ₹1 lakh to ₹2 lakh per individual customer."
+        },
+        {
+          "id": "g12",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "hard",
+          "question": "Under Basel III norms as implemented by RBI in India, what is the minimum **Capital to Risk-Weighted Assets Ratio (CRAR)** including the 2.5% Capital Conservation Buffer (CCB)?",
+          "options": [
+            "8.0%",
+            "9.0%",
+            "10.5%",
+            "11.5%",
+            "12.5%"
+          ],
+          "correctIndex": 3,
+          "explanation": "RBI mandates a minimum CRAR of 9% (higher than Basel's 8%) plus a 2.5% CCB = **11.5%** total minimum capital."
+        },
+        {
+          "id": "g13",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Which three banks are currently designated by the RBI as **Domestic Systemically Important Banks (D-SIBs)** in India?",
+          "options": [
+            "SBI, PNB, and HDFC Bank",
+            "SBI, HDFC Bank, and ICICI Bank",
+            "SBI, Bank of Baroda, and Axis Bank",
+            "HDFC Bank, ICICI Bank, and Kotak Mahindra Bank",
+            "SBI, Canara Bank, and Union Bank"
+          ],
+          "correctIndex": 1,
+          "explanation": "SBI, HDFC Bank, and ICICI Bank remain India's three D-SIBs requiring additional CET1 capital surcharges."
+        },
+        {
+          "id": "g14",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Which statutory scheme replaced three erstwhile ombudsman schemes (Banking, NBFC, and Digital Transactions) in November 2021 under 'One Nation, One Ombudsman'?",
+          "options": [
+            "Reserve Bank – Integrated Ombudsman Scheme (RB-IOS)",
+            "National Financial Redressal Authority",
+            "RBI Consumer Charter 2021",
+            "Unified Banking Arbitration Act",
+            "Digital Payments Protection Scheme"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Reserve Bank – Integrated Ombudsman Scheme (RB-IOS), 2021 unified grievance redressal across banks, NBFCs, and payment system participants."
+        },
+        {
+          "id": "g15",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Under RBI's **Prompt Corrective Action (PCA)** framework for commercial banks, which three key financial parameters are tracked for risk-threshold breaches?",
+          "options": [
+            "SLR, CRR, and Credit-Deposit Ratio",
+            "Capital (CRAR/CET1), Asset Quality (NNPA), and Leverage (Tier 1 Leverage Ratio)",
+            "Repo Rate, Inflation, and GDP Growth",
+            "ROA, Net Interest Margin, and Branch Count",
+            "Deposits, Gold Reserves, and Forex Holdings"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under the revised PCA framework (effective Jan 2022), RBI monitors Capital, Asset Quality (NNPA), and Leverage."
+        },
+        {
+          "id": "g16",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is the minimum transaction value required for transferring funds via **RTGS** (Real Time Gross Settlement) in India?",
+          "options": [
+            "₹50,000",
+            "₹1 lakh",
+            "₹2 lakh",
+            "₹5 lakh",
+            "No minimum limit"
+          ],
+          "correctIndex": 2,
+          "explanation": "RTGS is meant for high-value instant transfers with a minimum threshold of ₹2 lakh and no upper ceiling."
+        },
+        {
+          "id": "g17",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "Which RBI initiative provides a central digital platform for frictionless credit delivery by seamlessly connecting lenders with land records, KYC, and dairy/MSME data?",
+          "options": [
+            "ULI (Unified Lending Interface)",
+            "NEFT-Plus",
+            "CERSAI",
+            "TREDS",
+            "BBPS"
+          ],
+          "correctIndex": 0,
+          "explanation": "RBI launched the Unified Lending Interface (ULI) — formerly the Public Tech Platform for Frictionless Credit — to transform small-ticket and rural credit."
+        },
+        {
+          "id": "g18",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "What is the RBI's medium-term strategy framework for 2023–2025 aimed at strengthening regulatory excellence and citizen trust?",
+          "options": [
+            "Utkarsh 2.0",
+            "EASE 6.0",
+            "Mission Indradhanush",
+            "Vision 2030",
+            "Sankalp 2.0"
+          ],
+          "correctIndex": 0,
+          "explanation": "Utkarsh 2.0 (2023–2025) builds on Utkarsh 2022 as RBI's medium-term strategy framework."
+        },
+        {
+          "id": "g19",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "hard",
+          "question": "Which money supply measure is commonly termed **Broad Money** by the Reserve Bank of India?",
+          "options": [
+            "M0",
+            "M1",
+            "M2",
+            "M3",
+            "M4"
+          ],
+          "correctIndex": 3,
+          "explanation": "M3 (Currency with public + Demand deposits + Time deposits with banking system + Other deposits with RBI) is Broad Money; M1 is Narrow Money; M0 is Reserve Money."
+        },
+        {
+          "id": "g20",
+          "topic": "RBI & Monetary Policy",
+          "difficulty": "medium",
+          "question": "How many wholly owned subsidiaries does the Reserve Bank of India currently operate (DICGC, BRBNMPL, ReBIT, IFTAS, and RBIH)?",
+          "options": [
+            "Three",
+            "Four",
+            "Five",
+            "Six",
+            "Seven"
+          ],
+          "correctIndex": 2,
+          "explanation": "RBI has 5 wholly owned subsidiaries: DICGC, BRBNMPL, ReBIT, IFTAS, and Reserve Bank Innovation Hub (RBIH)."
+        },
+        {
+          "id": "g21",
+          "topic": "Financial Markets & SEBI",
+          "difficulty": "medium",
+          "question": "In Indian equity markets, SEBI transitioned standard settlement from T+2 to **T+1** (and piloted T+0 optional settlement). What does 'T+1' signify?",
+          "options": [
+            "Trades settle within 1 hour",
+            "Trade settlement completes on the next working day after trade date",
+            "Tax is deducted 1 day prior",
+            "Trading pauses for 1 day",
+            "Treasury bills mature in 1 month"
+          ],
+          "correctIndex": 1,
+          "explanation": "T+1 means funds and securities are settled within one business day after the Trade date (T)."
+        },
+        {
+          "id": "g22",
+          "topic": "Financial Institutions",
+          "difficulty": "medium",
+          "question": "Which institution serves as the principal financial institution for the promotion, financing, and development of the **MSME** sector in India (headquartered in Lucknow)?",
+          "options": [
+            "NABARD",
+            "SIDBI",
+            "NHB",
+            "EXIM Bank",
+            "NaBFID"
+          ],
+          "correctIndex": 1,
+          "explanation": "Small Industries Development Bank of India (SIDBI), established in April 1990, is headquartered in Lucknow."
+        },
+        {
+          "id": "g23",
+          "topic": "Financial Institutions",
+          "difficulty": "medium",
+          "question": "The National Bank for Financing Infrastructure and Development (**NaBFID**) was established in 2021 as India's premier Development Financial Institution (DFI) primarily to fund:",
+          "options": [
+            "Short-term crop loans",
+            "Long-term non-recourse infrastructure projects",
+            "Retail credit cards",
+            "Export of handicrafts only",
+            "Rural cooperative sugar mills"
+          ],
+          "correctIndex": 1,
+          "explanation": "NaBFID (Mumbai) was set up under the NaBFID Act, 2021 to finance long-term infrastructure development."
+        },
+        {
+          "id": "g24",
+          "topic": "Financial Regulators",
+          "difficulty": "easy",
+          "question": "Which statutory body regulates the **National Pension System (NPS)** and Atal Pension Yojana (APY) in India?",
+          "options": [
+            "IRDAI",
+            "SEBI",
+            "PFRDA",
+            "EPFO",
+            "RBI"
+          ],
+          "correctIndex": 2,
+          "explanation": "Pension Fund Regulatory and Development Authority (PFRDA) regulates NPS and APY."
+        },
+        {
+          "id": "g25",
+          "topic": "Financial Markets",
+          "difficulty": "medium",
+          "question": "What is the maturity period of **Treasury Bills (T-Bills)** issued by the Government of India through the RBI?",
+          "options": [
+            "7 days, 14 days, and 30 days",
+            "91 days, 182 days, and 364 days",
+            "1 year, 3 years, and 5 years",
+            "2 years, 5 years, and 10 years",
+            "30 days, 60 days, and 90 days"
+          ],
+          "correctIndex": 1,
+          "explanation": "T-Bills are zero-coupon short-term money-market instruments issued in 91-day, 182-day, and 364-day tenors."
+        },
+        {
+          "id": "g26",
+          "topic": "Financial Markets",
+          "difficulty": "medium",
+          "question": "A **Sovereign Green Bond (SGrB)** issued by the Government of India raises capital strictly earmarked for:",
+          "options": [
+            "Defence equipment imports",
+            "Public-sector projects that reduce carbon intensity of the economy",
+            "Emergency fiscal deficit monetization",
+            "Bailout of private airline companies",
+            "Agricultural fertilizer subsidies"
+          ],
+          "correctIndex": 1,
+          "explanation": "Proceeds of Sovereign Green Bonds finance renewable energy, clean transport, and green infrastructure."
+        },
+        {
+          "id": "g27",
+          "topic": "Financial Institutions",
+          "difficulty": "medium",
+          "question": "Where is the headquarters of the **International Financial Services Centres Authority (IFSCA)** located?",
+          "options": [
+            "Mumbai",
+            "New Delhi",
+            "GIFT City, Gandhinagar",
+            "Bengaluru",
+            "Hyderabad"
+          ],
+          "correctIndex": 2,
+          "explanation": "IFSCA, the unified financial regulator for IFSCs in India, is headquartered at GIFT City, Gandhinagar (Gujarat)."
+        },
+        {
+          "id": "g28",
+          "topic": "Banking Concepts",
+          "difficulty": "medium",
+          "question": "In banking, **TReDS** (Trade Receivables Discounting System) is an electronic platform designed specifically to facilitate invoice discounting for:",
+          "options": [
+            "Foreign portfolio investors",
+            "MSMEs against corporate/PSU buyers",
+            "Retail home loan borrowers",
+            "Agricultural land auctions",
+            "Sovereign wealth funds"
+          ],
+          "correctIndex": 1,
+          "explanation": "TReDS allows MSME suppliers to discount trade receivables electronically from large corporate/government buyers."
+        },
+        {
+          "id": "g29",
+          "topic": "Banking Concepts",
+          "difficulty": "medium",
+          "question": "An asset (loan) in an Indian commercial bank is normally classified as a **Non-Performing Asset (NPA)** when interest and/or principal remains overdue for more than:",
+          "options": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "180 days",
+            "365 days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Under RBI IRAC norms, a standard loan turns NPA when overdue for more than 90 days (except certain seasonal crop loans)."
+        },
+        {
+          "id": "g30",
+          "topic": "Financial Markets",
+          "difficulty": "medium",
+          "question": "Which entity operates India's **UPI**, **IMPS**, **RuPay**, and **FASTag** retail payment infrastructure?",
+          "options": [
+            "RBI",
+            "NPCI",
+            "CCIL",
+            "IBA",
+            "NSDL"
+          ],
+          "correctIndex": 1,
+          "explanation": "National Payments Corporation of India (NPCI), an umbrella organization founded by RBI and IBA, operates UPI, IMPS, RuPay, AePS, and NETC FASTag."
+        },
+        {
+          "id": "g31",
+          "topic": "Financial Markets",
+          "difficulty": "hard",
+          "question": "What is the role of the **Clearing Corporation of India Ltd (CCIL)** in India's financial system?",
+          "options": [
+            "Prints ₹500 currency notes",
+            "Provides guaranteed clearing and settlement for Government Securities (G-Secs), forex, and money markets",
+            "Regulates mutual fund expense ratios",
+            "Conducts bank officer recruitment",
+            "Issues sovereign credit ratings"
+          ],
+          "correctIndex": 1,
+          "explanation": "CCIL acts as the Central Counterparty (CCP) for India's G-Sec, TREPS, and USD/INR forex markets."
+        },
+        {
+          "id": "g32",
+          "topic": "Banking Concepts",
+          "difficulty": "medium",
+          "question": "What does **CIBIL** (TransUnion CIBIL) primarily maintain and provide to Indian banks and borrowers?",
+          "options": [
+            "Foreign exchange reserves",
+            "Credit Information Reports and Credit Scores (300–900)",
+            "Stock market circuit breakers",
+            "Gold bullion assay certificates",
+            "Agricultural warehouse receipts"
+          ],
+          "correctIndex": 1,
+          "explanation": "CIBIL is India's first Credit Information Company (CIC), generating credit scores ranging from 300 to 900."
+        },
+        {
+          "id": "g33",
+          "topic": "Financial Regulators",
+          "difficulty": "easy",
+          "question": "Where is the headquarters of the **Insurance Regulatory and Development Authority of India (IRDAI)** located?",
+          "options": [
+            "Mumbai",
+            "New Delhi",
+            "Hyderabad",
+            "Chennai",
+            "Kolkata"
+          ],
+          "correctIndex": 2,
+          "explanation": "IRDAI is headquartered in Hyderabad, Telangana."
+        },
+        {
+          "id": "g34",
+          "topic": "Banking Concepts",
+          "difficulty": "medium",
+          "question": "In **External Commercial Borrowings (ECBs)**, what does the 'All-in-Cost' ceiling regulate?",
+          "options": [
+            "Maximum retail savings account rate",
+            "Maximum rate of interest, fees, and expenses on foreign currency/INR overseas loans",
+            "Minimum CRR balance",
+            "Maximum stamp duty on property",
+            "Export customs duty"
+          ],
+          "correctIndex": 1,
+          "explanation": "RBI prescribes All-in-Cost ceilings (benchmark rate + spread) for ECBs raised by Indian corporates abroad."
+        },
+        {
+          "id": "g35",
+          "topic": "Financial Markets",
+          "difficulty": "medium",
+          "question": "What is an **ASBA** (Application Supported by Blocked Amount) facility mandated by SEBI for IPO applications?",
+          "options": [
+            "Instant loan from brokers for IPO shares",
+            "Application money remains blocked in the investor's own bank account until allotment",
+            "Tax-free bonus shares for employees",
+            "Overnight short-selling limit",
+            "Foreign institutional voting right"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under ASBA, funds stay in the applicant's bank account (continuing to earn interest) and are debited only if shares are allotted."
+        },
+        {
+          "id": "g36",
+          "topic": "Union Budget & Fiscal Policy",
+          "difficulty": "medium",
+          "question": "Under the **FRBM Act, 2003** (Fiscal Responsibility and Budget Management), the Central Government committed to a glide path bringing the **Fiscal Deficit** below what percentage of GDP by FY 2025–26?",
+          "options": [
+            "3.0% of GDP",
+            "3.5% of GDP",
+            "4.5% of GDP",
+            "5.5% of GDP",
+            "6.0% of GDP"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Union Government set a fiscal consolidation path targeting a Fiscal Deficit below 4.5% of GDP by FY 2025–26."
+        },
+        {
+          "id": "g37",
+          "topic": "Union Budget & Fiscal Policy",
+          "difficulty": "medium",
+          "question": "In Union Budget accounting, **Primary Deficit** is accurately defined as:",
+          "options": [
+            "Revenue Expenditure minus Revenue Receipts",
+            "Fiscal Deficit minus Interest Payments",
+            "Total Expenditure minus Capital Receipts",
+            "Tax Revenue minus Non-Tax Revenue",
+            "Fiscal Deficit plus Subsidies"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\text{Primary Deficit} = \\text{Fiscal Deficit} - \\text{Interest Payments}$, measuring borrowing exclusive of past debt servicing."
+        },
+        {
+          "id": "g38",
+          "topic": "Union Budget & Fiscal Policy",
+          "difficulty": "medium",
+          "question": "Which category of government spending creates physical or financial assets (such as highways, railways, or defence equipment) or reduces liabilities?",
+          "options": [
+            "Revenue Expenditure",
+            "Capital Expenditure (Capex)",
+            "Primary Deficit",
+            "Transfer Payments",
+            "Revenue Deficit"
+          ],
+          "correctIndex": 1,
+          "explanation": "Capital Expenditure builds durable productive assets or reduces government liabilities, yielding high fiscal multipliers."
+        },
+        {
+          "id": "g39",
+          "topic": "Union Budget & Fiscal Policy",
+          "difficulty": "medium",
+          "question": "Who was appointed Chairman of the **16th Finance Commission** of India (constituted in December 2023 for the award period 2026–2031)?",
+          "options": [
+            "N. K. Singh",
+            "Dr. Arvind Panagariya",
+            "Dr. Bibek Debroy",
+            "Dr. Raghuram Rajan",
+            "Vijay Kelkar"
+          ],
+          "correctIndex": 1,
+          "explanation": "Former NITI Aayog Vice Chairman Dr. Arvind Panagariya chairs the 16th Finance Commission."
+        },
+        {
+          "id": "g40",
+          "topic": "Macroeconomics",
+          "difficulty": "medium",
+          "question": "Which office under the Ministry of Statistics and Programme Implementation (MoSPI) compiles and releases India's quarterly GDP estimates and monthly CPI (Combined) inflation?",
+          "options": [
+            "Office of the Economic Adviser (DPIIT)",
+            "National Statistical Office (NSO)",
+            "Labour Bureau",
+            "NITI Aayog",
+            "RBI Department of Statistics"
+          ],
+          "correctIndex": 1,
+          "explanation": "NSO (MoSPI) releases GDP and CPI (Rural, Urban, Combined); DPIIT releases WPI; Labour Bureau releases CPI-IW/AL/RL."
+        },
+        {
+          "id": "g41",
+          "topic": "Macroeconomics",
+          "difficulty": "medium",
+          "question": "Which index published monthly by the Office of the Economic Adviser (DPIIT) tracks price movements at the wholesale/producer level and **excludes services**?",
+          "options": [
+            "CPI-Combined",
+            "Wholesale Price Index (WPI)",
+            "GDP Deflator",
+            "IIP",
+            "CPI-Industrial Workers"
+          ],
+          "correctIndex": 1,
+          "explanation": "WPI (base year 2011–12) tracks goods prices at the wholesale stage and does not cover services."
+        },
+        {
+          "id": "g42",
+          "topic": "Macroeconomics",
+          "difficulty": "hard",
+          "question": "What is the current base year used for calculating India's **Index of Industrial Production (IIP)** and National Accounts (GDP)?",
+          "options": [
+            "2004–05",
+            "2010–11",
+            "2011–12",
+            "2014–15",
+            "2017–18"
+          ],
+          "correctIndex": 2,
+          "explanation": "Both India's GDP series and IIP currently use **2011–12** as the base year (with Eight Core Industries carrying 40.27% weight in IIP)."
+        },
+        {
+          "id": "g43",
+          "topic": "Macroeconomics",
+          "difficulty": "medium",
+          "question": "Among the **Eight Core Industries** in India's IIP, which single industry carries the **highest weightage** (approx. 28.04% of the Core Index)?",
+          "options": [
+            "Electricity",
+            "Steel",
+            "Refinery Products",
+            "Coal",
+            "Crude Oil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Refinery Products (28.04%) holds the highest weight in the Eight Core Industries, followed by Electricity (19.85%) and Steel (17.92%)."
+        },
+        {
+          "id": "g44",
+          "topic": "External Sector",
+          "difficulty": "medium",
+          "question": "In India's **Balance of Payments (BoP)**, inward remittances from Non-Resident Indians (NRIs) and software services exports are recorded under which account?",
+          "options": [
+            "Capital Account",
+            "Current Account",
+            "Official Reserves Account",
+            "Errors and Omissions",
+            "FDI Equity Account"
+          ],
+          "correctIndex": 1,
+          "explanation": "Services exports (invisibles) and private transfers (remittances) are major surplus contributors to India's Current Account."
+        },
+        {
+          "id": "g45",
+          "topic": "External Sector",
+          "difficulty": "medium",
+          "question": "Which of the following is NOT one of the four components of India's **Foreign Exchange Reserves** managed by the RBI?",
+          "options": [
+            "Foreign Currency Assets (FCA)",
+            "Gold Reserves",
+            "Special Drawing Rights (SDRs)",
+            "Reserve Tranche Position (RTP) with IMF",
+            "Domestic Treasury Bills held by PSU Banks"
+          ],
+          "correctIndex": 4,
+          "explanation": "India's Forex Reserves consist of FCA, Gold, SDRs, and RTP with the IMF — not domestic rupee T-bills."
+        },
+        {
+          "id": "g46",
+          "topic": "Union Budget & Taxation",
+          "difficulty": "medium",
+          "question": "Under the Union Budget's revised **New Tax Regime** (Section 115BAC), what is the standard deduction available to salaried employees?",
+          "options": [
+            "₹25,000",
+            "₹50,000",
+            "₹75,000",
+            "₹1,00,000",
+            "₹1,25,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "Union Budget 2024–25 raised the standard deduction for salaried individuals under the New Tax Regime from ₹50,000 to **₹75,000**."
+        },
+        {
+          "id": "g47",
+          "topic": "Macroeconomics",
+          "difficulty": "medium",
+          "question": "What is **Core Inflation** in macroeconomic analysis?",
+          "options": [
+            "Inflation in the Eight Core Industries",
+            "Headline inflation excluding volatile Food and Fuel/Energy components",
+            "Inflation experienced only in metropolitan cities",
+            "Deflation in agricultural commodities",
+            "Wholesale inflation minus import tariffs"
+          ],
+          "correctIndex": 1,
+          "explanation": "Core inflation strips out volatile food and energy items to reflect persistent underlying demand-side price pressures."
+        },
+        {
+          "id": "g48",
+          "topic": "Union Budget & Fiscal Policy",
+          "difficulty": "medium",
+          "question": "What is the constitutional name of the Union Budget under **Article 112** of the Constitution of India?",
+          "options": [
+            "National Economic Plan",
+            "Annual Financial Statement",
+            "Consolidated Expenditure Bill",
+            "Appropriation Account",
+            "Public Debt Statement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Article 112 refers to the Union Budget as the 'Annual Financial Statement'."
+        },
+        {
+          "id": "g49",
+          "topic": "Macroeconomics",
+          "difficulty": "medium",
+          "question": "In the **Gini Coefficient** used to measure income or wealth inequality, a value of `0` represents:",
+          "options": [
+            "Complete inequality (one person holds all income)",
+            "Perfect equality (every person has identical income)",
+            "Zero GDP growth",
+            "100% inflation",
+            "Complete poverty"
+          ],
+          "correctIndex": 1,
+          "explanation": "Gini = 0 indicates perfect equality; Gini = 1 indicates maximum inequality."
+        },
+        {
+          "id": "g50",
+          "topic": "External Sector",
+          "difficulty": "medium",
+          "question": "What does **NEER** stand for in RBI's exchange rate statistics?",
+          "options": [
+            "National Export Earnings Ratio",
+            "Nominal Effective Exchange Rate",
+            "Net External Equity Return",
+            "National Economic Efficiency Rate",
+            "Non-Export Exchange Reserve"
+          ],
+          "correctIndex": 1,
+          "explanation": "NEER is the weighted average of bilateral nominal exchange rates of the rupee against a basket of 40 trading-partner currencies (REER adjusts NEER for inflation differentials)."
+        },
+        {
+          "id": "g51",
+          "topic": "Government Schemes",
+          "difficulty": "easy",
+          "question": "Under the **Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)** scheme, how much annual direct income support is transferred to eligible landholding farmer families?",
+          "options": [
+            "₹3,000 in 3 instalments",
+            "₹6,000 in 3 equal instalments of ₹2,000",
+            "₹9,000 in 3 instalments",
+            "₹12,000 in 4 instalments",
+            "₹5,000 in 2 instalments"
+          ],
+          "correctIndex": 1,
+          "explanation": "PM-KISAN provides ₹6,000/year directly into farmers' Aadhaar-seeded bank accounts in three four-monthly instalments of ₹2,000."
+        },
+        {
+          "id": "g52",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "Under the **Pradhan Mantri MUDRA Yojana (PMMY)**, what is the newly enhanced maximum collateral-free loan limit under the **Tarun Plus** category (announced in Union Budget 2024–25) for entrepreneurs who successfully repaid previous Tarun loans?",
+          "options": [
+            "₹10 lakh",
+            "₹15 lakh",
+            "₹20 lakh",
+            "₹25 lakh",
+            "₹50 lakh"
+          ],
+          "correctIndex": 2,
+          "explanation": "MUDRA categories: Shishu (up to ₹50k), Kishore (₹50k–₹5L), Tarun (₹5L–₹10L), and Tarun Plus (₹10L–₹20L for prior Tarun repayers)."
+        },
+        {
+          "id": "g53",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "What is the overdraft (OD) facility limit available to eligible account holders under **Pradhan Mantri Jan Dhan Yojana (PMJDY)**?",
+          "options": [
+            "₹2,000",
+            "₹5,000",
+            "₹10,000",
+            "₹25,000",
+            "₹50,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "PMJDY provides zero-balance BSBD accounts, a RuPay debit card with ₹2 lakh accident insurance, and an overdraft facility up to ₹10,000."
+        },
+        {
+          "id": "g54",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "What is the maximum uniform farmer premium rate payable by farmers for **Kharif** food and oilseed crops under **Pradhan Mantri Fasal Bima Yojana (PMFBY)**?",
+          "options": [
+            "1.5%",
+            "2.0%",
+            "3.5%",
+            "5.0%",
+            "7.5%"
+          ],
+          "correctIndex": 1,
+          "explanation": "PMFBY uniform farmer premiums: **2%** for Kharif, **1.5%** for Rabi, and **5%** for annual commercial/horticultural crops."
+        },
+        {
+          "id": "g55",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "Which Ministry implements the **PM SVANidhi** micro-credit scheme for urban street vendors?",
+          "options": [
+            "Ministry of Finance",
+            "Ministry of Housing and Urban Affairs (MoHUA)",
+            "Ministry of MSME",
+            "Ministry of Rural Development",
+            "Ministry of Commerce"
+          ],
+          "correctIndex": 1,
+          "explanation": "MoHUA implements PM SVANidhi providing collateral-free working capital loans in tranches of ₹10,000, ₹20,000, and ₹50,000."
+        },
+        {
+          "id": "g56",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "What is the entry age bracket for enrolling in the **Atal Pension Yojana (APY)**, which guarantees ₹1,000 to ₹5,000 monthly pension after age 60?",
+          "options": [
+            "18 to 35 years",
+            "18 to 40 years",
+            "21 to 45 years",
+            "18 to 50 years",
+            "25 to 55 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "Indian citizens aged 18–40 years (non-income-tax payers since Oct 2022) can join APY."
+        },
+        {
+          "id": "g57",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "What is the annual premium for **Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)** providing ₹2 lakh life insurance cover (age 18–50)?",
+          "options": [
+            "₹20 per annum",
+            "₹200 per annum",
+            "₹330 per annum",
+            "₹436 per annum",
+            "₹550 per annum"
+          ],
+          "correctIndex": 3,
+          "explanation": "PMJJBY premium was revised from ₹330 to **₹436/year** (and PMSBY accidental insurance from ₹12 to ₹20/year)."
+        },
+        {
+          "id": "g58",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "Under **PM Vishwakarma Yojana**, collateral-free enterprise development loans are offered to traditional artisans and craftspeople at a concessional interest rate of:",
+          "options": [
+            "2%",
+            "5%",
+            "7%",
+            "8%",
+            "9%"
+          ],
+          "correctIndex": 1,
+          "explanation": "PM Vishwakarma offers ₹1 lakh (1st tranche) and ₹2 lakh (2nd tranche) collateral-free loans at a 5% concessional interest rate across 18 traditional trades."
+        },
+        {
+          "id": "g59",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "What is the health cover provided per family per year for secondary and tertiary hospitalization under **Ayushman Bharat – PM-JAY**?",
+          "options": [
+            "₹2 lakh",
+            "₹3 lakh",
+            "₹5 lakh",
+            "₹7.5 lakh",
+            "₹10 lakh"
+          ],
+          "correctIndex": 2,
+          "explanation": "AB PM-JAY provides cashless cover up to ₹5 lakh per family per year (also extended to all senior citizens aged 70+ regardless of income)."
+        },
+        {
+          "id": "g60",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "**PM-Surya Ghar: Muft Bijli Yojana** aims to install rooftop solar systems in 1 crore households by providing up to how many units of free electricity per month?",
+          "options": [
+            "100 units",
+            "200 units",
+            "300 units",
+            "400 units",
+            "500 units"
+          ],
+          "correctIndex": 2,
+          "explanation": "PM-Surya Ghar provides up to 300 units of free electricity monthly with central financial assistance up to ₹78,000 for 3 kW+ rooftop solar."
+        },
+        {
+          "id": "g61",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "Under the **Stand-Up India** scheme, bank loans between ₹10 lakh and ₹1 crore are facilitated specifically for setting up greenfield enterprises by:",
+          "options": [
+            "Only NRI investors",
+            "At least one SC/ST borrower and at least one woman borrower per bank branch",
+            "Only listed manufacturing corporations",
+            "Retired defence officers exclusively",
+            "Agricultural cooperatives only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stand-Up India mandates each scheduled commercial bank branch to finance at least one SC/ST and one Woman entrepreneur for greenfield projects."
+        },
+        {
+          "id": "g62",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "What is the current maximum deposit limit per individual in the **Senior Citizens Savings Scheme (SCSS)** (post-2023 revision)?",
+          "options": [
+            "₹10 lakh",
+            "₹15 lakh",
+            "₹20 lakh",
+            "₹30 lakh",
+            "₹50 lakh"
+          ],
+          "correctIndex": 3,
+          "explanation": "The deposit cap under SCSS was doubled from ₹15 lakh to **₹30 lakh** in Union Budget 2023–24."
+        },
+        {
+          "id": "g63",
+          "topic": "Government Schemes",
+          "difficulty": "easy",
+          "question": "**Sukanya Samriddhi Yojana (SSY)** accounts can be opened in the name of a girl child until she attains the age of:",
+          "options": [
+            "5 years",
+            "10 years",
+            "14 years",
+            "18 years",
+            "21 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "An SSY account (part of Beti Bachao Beti Padhao) can be opened before the girl child turns 10 years old, maturing 21 years after opening."
+        },
+        {
+          "id": "g64",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "The **Production Linked Incentive (PLI)** scheme covers how many key manufacturing sectors (including electronics, pharma, solar PV, ACC batteries, and textiles)?",
+          "options": [
+            "6 sectors",
+            "10 sectors",
+            "14 sectors",
+            "20 sectors",
+            "25 sectors"
+          ],
+          "correctIndex": 2,
+          "explanation": "The PLI scheme spans 14 strategic sectors with an outlay of ~₹1.97 lakh crore to boost domestic manufacturing."
+        },
+        {
+          "id": "g65",
+          "topic": "Government Schemes",
+          "difficulty": "medium",
+          "question": "**PM-KUSUM** (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan) is implemented by which Ministry?",
+          "options": [
+            "Ministry of Agriculture",
+            "Ministry of New and Renewable Energy (MNRE)",
+            "Ministry of Power",
+            "Ministry of Rural Development",
+            "Ministry of Jal Shakti"
+          ],
+          "correctIndex": 1,
+          "explanation": "MNRE implements PM-KUSUM to deploy standalone solar pumps and solarize grid-connected agricultural feeders."
+        },
+        {
+          "id": "g66",
+          "topic": "Reports & Indices",
+          "difficulty": "medium",
+          "question": "Which international organization publishes the biannual **World Economic Outlook (WEO)** and **Global Financial Stability Report (GFSR)**?",
+          "options": [
+            "World Bank",
+            "International Monetary Fund (IMF)",
+            "World Trade Organization (WTO)",
+            "OECD",
+            "Bank for International Settlements (BIS)"
+          ],
+          "correctIndex": 1,
+          "explanation": "The IMF publishes both the World Economic Outlook and the Global Financial Stability Report."
+        },
+        {
+          "id": "g67",
+          "topic": "Reports & Indices",
+          "difficulty": "medium",
+          "question": "Which body publishes the **Human Development Index (HDI)** annually across three dimensions (Health, Education, and Standard of Living)?",
+          "options": [
+            "World Bank",
+            "UNDP (United Nations Development Programme)",
+            "WHO",
+            "UNESCO",
+            "WEF"
+          ],
+          "correctIndex": 1,
+          "explanation": "UNDP publishes the Human Development Report and HDI."
+        },
+        {
+          "id": "g68",
+          "topic": "International Financial Bodies",
+          "difficulty": "medium",
+          "question": "Where is the headquarters of the **Bank for International Settlements (BIS)** — known as the 'Central Bank for Central Banks' and host of the Basel Committee?",
+          "options": [
+            "Geneva, Switzerland",
+            "Zurich, Switzerland",
+            "Basel, Switzerland",
+            "Frankfurt, Germany",
+            "London, UK"
+          ],
+          "correctIndex": 2,
+          "explanation": "BIS is headquartered in Basel, Switzerland."
+        },
+        {
+          "id": "g69",
+          "topic": "International Financial Bodies",
+          "difficulty": "medium",
+          "question": "Which intergovernmental body headquartered in **Paris** sets global standards against **Money Laundering and Terrorist Financing (AML/CFT)** and maintains the 'Grey' and 'Black' lists?",
+          "options": [
+            "IMF",
+            "FATF (Financial Action Task Force)",
+            "INTERPOL",
+            "UNCTAD",
+            "WTO"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Financial Action Task Force (FATF), established in 1989 in Paris, sets AML/CFT compliance standards."
+        },
+        {
+          "id": "g70",
+          "topic": "International Financial Bodies",
+          "difficulty": "easy",
+          "question": "Where is the headquarters of the **Asian Development Bank (ADB)** located?",
+          "options": [
+            "Beijing, China",
+            "Shanghai, China",
+            "Mandaluyong (Manila), Philippines",
+            "Singapore",
+            "Tokyo, Japan"
+          ],
+          "correctIndex": 2,
+          "explanation": "ADB is headquartered in Manila (Mandaluyong), Philippines (AIIB is in Beijing; NDB is in Shanghai)."
+        },
+        {
+          "id": "g71",
+          "topic": "International Financial Bodies",
+          "difficulty": "medium",
+          "question": "Where is the headquarters of the **New Development Bank (NDB)** established by the BRICS nations?",
+          "options": [
+            "New Delhi, India",
+            "Beijing, China",
+            "Shanghai, China",
+            "Johannesburg, South Africa",
+            "Brasilia, Brazil"
+          ],
+          "correctIndex": 2,
+          "explanation": "The BRICS New Development Bank (NDB) is headquartered in Shanghai, China."
+        },
+        {
+          "id": "g72",
+          "topic": "Reports & Indices",
+          "difficulty": "medium",
+          "question": "The **Global Gender Gap Report** and **Global Risks Report** are flagship annual publications of which organization?",
+          "options": [
+            "World Bank",
+            "World Economic Forum (WEF)",
+            "UN Women",
+            "IMF",
+            "ILO"
+          ],
+          "correctIndex": 1,
+          "explanation": "Both reports are published by the World Economic Forum (headquartered in Cologny/Geneva, Switzerland)."
+        },
+        {
+          "id": "g73",
+          "topic": "Reports & Indices",
+          "difficulty": "medium",
+          "question": "Which Indian institution publishes the **Financial Stability Report (FSR)** twice a year (June and December)?",
+          "options": [
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "NITI Aayog",
+            "SEBI",
+            "FSDC Secretariat only"
+          ],
+          "correctIndex": 1,
+          "explanation": "RBI publishes the biannual Financial Stability Report reflecting the collective assessment of the FSDC Sub-Committee."
+        },
+        {
+          "id": "g74",
+          "topic": "International Economics",
+          "difficulty": "medium",
+          "question": "The IMF's **Special Drawing Rights (SDR)** valuation basket currently consists of which five international currencies?",
+          "options": [
+            "USD, EUR, GBP, JPY, and INR",
+            "USD, EUR, GBP, JPY, and Chinese Renminbi (RMB)",
+            "USD, EUR, CHF, JPY, and AUD",
+            "USD, EUR, GBP, CAD, and RMB",
+            "USD, GBP, JPY, RUB, and RMB"
+          ],
+          "correctIndex": 1,
+          "explanation": "The SDR basket comprises 5 currencies: US Dollar, Euro, Chinese Renminbi (added 2016), Japanese Yen, and British Pound Sterling."
+        },
+        {
+          "id": "g75",
+          "topic": "Reports & Indices",
+          "difficulty": "medium",
+          "question": "Which index published by the **World Bank** replaces the discontinued 'Ease of Doing Business' report to assess global business environments?",
+          "options": [
+            "Global Trade Tracker",
+            "Business Ready (B-READY)",
+            "Enterprise Freedom Index",
+            "Global Capital Index",
+            "Investment Climate Score"
+          ],
+          "correctIndex": 1,
+          "explanation": "The World Bank launched the Business Ready (B-READY) project to replace the retired Doing Business rankings."
+        },
+        {
+          "id": "g76",
+          "topic": "Static Banking & Economy",
+          "difficulty": "medium",
+          "question": "The **G20 New Delhi Leaders' Declaration (2023)** formally inducted which regional bloc as a permanent member of the G20 (making it G21 in practice)?",
+          "options": [
+            "ASEAN",
+            "African Union (AU)",
+            "BIMSTEC",
+            "Mercosur",
+            "GCC"
+          ],
+          "correctIndex": 1,
+          "explanation": "Under India's G20 Presidency in September 2023, the 55-member African Union became a permanent member of the G20."
+        },
+        {
+          "id": "g77",
+          "topic": "Static Banking & Economy",
+          "difficulty": "medium",
+          "question": "Which committee chaired by **Dr. Nachiket Mor** (2013–14) recommended the creation of differentiated banks including **Payments Banks** and **Small Finance Banks**?",
+          "options": [
+            "Committee on Comprehensive Financial Services for Small Businesses and Low-Income Households",
+            "Bimal Jalan Committee",
+            "P. J. Nayak Committee",
+            "K. V. Kamath Committee",
+            "Malegam Committee"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Nachiket Mor Committee paved the way for Payments Banks and Small Finance Banks to deepen financial inclusion."
+        },
+        {
+          "id": "g78",
+          "topic": "Static Banking & Economy",
+          "difficulty": "medium",
+          "question": "Which RBI committee chaired by **Bimal Jalan** (2019) reviewed the **Economic Capital Framework (ECF)** governing RBI's surplus transfers to the Central Government?",
+          "options": [
+            "Urjit Patel Committee",
+            "Bimal Jalan Committee",
+            "Usha Thorat Committee",
+            "R. Gandhi Committee",
+            "T. N. Manoharan Committee"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Bimal Jalan Committee set the Contingent Risk Buffer (CRB) range of 5.5%–6.5% of RBI's balance sheet."
+        },
+        {
+          "id": "g79",
+          "topic": "National Economy",
+          "difficulty": "easy",
+          "question": "Which state in India has the highest number of operational **Ramsar Wetlands** (as of recent MoEFCC updates)?",
+          "options": [
+            "Uttar Pradesh",
+            "Tamil Nadu",
+            "Maharashtra",
+            "Odisha",
+            "Gujarat"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tamil Nadu leads Indian states with the highest count of designated Ramsar wetland sites, followed by Uttar Pradesh."
+        },
+        {
+          "id": "g80",
+          "topic": "Banking & Fintech",
+          "difficulty": "medium",
+          "question": "What is the per-transaction upper limit set by NPCI/RBI for **UPI Lite** (on-device wallet for small-value PIN-less payments) after the October 2024 enhancement?",
+          "options": [
+            "₹200",
+            "₹500",
+            "₹1,000",
+            "₹2,000",
+            "₹5,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "In October 2024, RBI increased the UPI Lite per-transaction limit from ₹500 to ₹1,000 (and total wallet limit from ₹2,000 to ₹5,000)."
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "e1",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "rbi_rc",
+          "question": "How does a Central Bank Digital Currency (CBDC) fundamentally differ from commercial bank deposits and private crypto-assets?",
+          "options": [
+            "It is backed solely by private equity shares",
+            "It is a sovereign digital liability issued directly on the central bank's balance sheet",
+            "It is unregulated and anonymous across borders",
+            "It can only be traded on offshore stock exchanges",
+            "It carries double-digit fixed interest rates"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 1 defines CBDCs as sovereign digital liabilities issued directly on a central bank's balance sheet."
+        },
+        {
+          "id": "e2",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "rbi_rc",
+          "question": "What are the two tracks of the RBI's Digital Rupee (e₹) pilot described in the passage?",
+          "options": [
+            "Wholesale e₹-W for interbank G-Sec settlement and retail e₹-R for P2P/P2M payments",
+            "Crypto mining and offshore forex swaps",
+            "Agricultural loans and sovereign gold bonds",
+            "Corporate tax filing and customs clearance",
+            "Stock derivatives and mutual fund SIPs"
+          ],
+          "correctIndex": 0,
+          "explanation": "Paragraph 1 explicitly describes wholesale e₹-W for interbank government securities settlement and retail e₹-R for P2P and P2M payments."
+        },
+        {
+          "id": "e3",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "rbi_rc",
+          "question": "Which benefit of wholesale CBDCs is highlighted by proponents?",
+          "options": [
+            "Extending settlement cycles from T+1 to T+7",
+            "Compressing settlement to near-instantaneous atomic delivery-versus-payment and reducing counterparty risk",
+            "Eliminating commercial banks from retail lending",
+            "Replacing all physical highways with digital ports",
+            "Guaranteeing risk-free equity dividends"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 2 notes wholesale CBDCs enable atomic delivery-versus-payment, freeing trapped liquidity and slashing counterparty risk."
+        },
+        {
+          "id": "e4",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "rbi_rc",
+          "question": "Which two retail e₹ features offer distinct public-policy advantages over existing UPI rails?",
+          "options": [
+            "High merchant fees and mandatory credit checks",
+            "Programmability for targeted subsidies and offline P2P functionality in low-connectivity areas",
+            "Unbacked price volatility and anonymous speculation",
+            "Fixed 12% savings interest and unlimited balance caps",
+            "Exclusive usability for foreign institutional investors"
+          ],
+          "correctIndex": 1,
+          "explanation": "Paragraph 2 cites programmability (for targeted subsidies) and offline peer-to-peer functionality in low-connectivity hinterlands."
+        },
+        {
+          "id": "e5",
+          "topic": "Reading Comprehension",
+          "difficulty": "hard",
+          "passageId": "rbi_rc",
+          "question": "What systemic risk do monetary economists warn could occur during financial stress if retail CBDC lacks guardrails?",
+          "options": [
+            "Sudden 'digital bank runs' draining low-cost retail deposits from commercial banks and impairing credit intermediation",
+            "Complete collapse of government bond yields to zero",
+            "Over-abundance of physical currency printing presses",
+            "Excessive foreign direct investment into rural startups",
+            "Elimination of all interbank settlement networks"
+          ],
+          "correctIndex": 0,
+          "explanation": "Paragraph 3 explains that households shifting into risk-free retail e₹ during stress could trigger 'digital bank runs' and hurt credit intermediation."
+        },
+        {
+          "id": "e6",
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "passageId": "rbi_rc",
+          "question": "What specific design guardrails has the RBI incorporated into retail e₹-R to protect bank balance sheets?",
+          "options": [
+            "Making e₹-R non-interest-bearing with tiered holding limits",
+            "Offering higher interest on e₹-R than fixed deposits",
+            "Removing all KYC checks for corporate wallets",
+            "Requiring every citizen to convert 50% of savings to e₹",
+            "Banning UPI transactions above ₹100"
+          ],
+          "correctIndex": 0,
+          "explanation": "The final sentence specifies that e₹-R is intentionally non-interest-bearing with tiered holding limits."
+        },
+        {
+          "id": "e7",
+          "topic": "Vocabulary in Context",
+          "difficulty": "easy",
+          "passageId": "rbi_rc",
+          "question": "Which word is MOST SIMILAR in meaning to `SAFEGUARDING` as highlighted in the passage?",
+          "options": [
+            "Endangering",
+            "Protecting",
+            "Neglecting",
+            "Weakening",
+            "Replacing"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Safeguarding' means protecting or defending from harm or erosion."
+        },
+        {
+          "id": "e8",
+          "topic": "Vocabulary in Context",
+          "difficulty": "medium",
+          "passageId": "rbi_rc",
+          "question": "Which word is MOST OPPOSITE in meaning to `CALIBRATED` as used in the opening paragraph?",
+          "options": [
+            "Measured",
+            "Careful",
+            "Reckless",
+            "Gradual",
+            "Deliberate"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Calibrated' means carefully measured and adjusted; its opposite is 'Reckless' (unmeasured/hasty)."
+        },
+        {
+          "id": "e9",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "rbi_cloze",
+          "question": "Choose the most appropriate word for blank (9).",
+          "options": [
+            "enhance",
+            "impair",
+            "insure",
+            "subsidize",
+            "multiply"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cyclones and droughts directly 'impair' (damage/weaken) agricultural collateral."
+        },
+        {
+          "id": "e10",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "rbi_cloze",
+          "question": "Choose the most appropriate word for blank (10).",
+          "options": [
+            "adapt",
+            "refuse",
+            "vanish",
+            "escape",
+            "retreat"
+          ],
+          "correctIndex": 0,
+          "explanation": "Carbon-intensive borrowers struggle to 'adapt' to stricter emission norms."
+        },
+        {
+          "id": "e11",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "rbi_cloze",
+          "question": "Choose the most appropriate word for blank (11).",
+          "options": [
+            "complacency",
+            "vulnerability",
+            "prosperity",
+            "surplus",
+            "profitability"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stress tests measure systemic 'vulnerability' (exposure to risk)."
+        },
+        {
+          "id": "e12",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "rbi_cloze",
+          "question": "Choose the most appropriate word for blank (12).",
+          "options": [
+            "exclude",
+            "integrate",
+            "postpone",
+            "conceal",
+            "dismiss"
+          ],
+          "correctIndex": 1,
+          "explanation": "Proactive lenders 'integrate' climate risk into credit pricing."
+        },
+        {
+          "id": "e13",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "rbi_cloze",
+          "question": "Choose the most appropriate word for blank (13).",
+          "options": [
+            "halt",
+            "finance",
+            "dismantle",
+            "tax",
+            "restrict"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cheaper ESG capital helps 'finance' clean-energy infrastructure."
+        },
+        {
+          "id": "e14",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "rbi_cloze",
+          "question": "Choose the most appropriate word for blank (14).",
+          "options": [
+            "stagnation",
+            "growth",
+            "default",
+            "inflation",
+            "depletion"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Sustainable growth' completes the macroeconomic argument."
+        },
+        {
+          "id": "e15",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Spot the grammatical error:\n`(A) Had the central bank intervened / (B) two weeks earlier, / (C) the currency volatility / (D) would not escalate so sharply. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 3,
+          "explanation": "Third conditional requires `would not have escalated` in the main clause."
+        },
+        {
+          "id": "e16",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Spot the grammatical error:\n`(A) A series of regulatory circulars / (B) were issued by the RBI / (C) to curb unsecured / (D) consumer lending growth. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 1,
+          "explanation": "The head noun is singular `A series`, requiring singular verb `was issued`."
+        },
+        {
+          "id": "e17",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Spot the grammatical error:\n`(A) The Economic Survey emphasizes / (B) that skilling rural youth / (C) is as crucial / (D) than building highways. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 3,
+          "explanation": "Positive comparison takes `as...as`, not `as...than`: `as crucial as building highways`."
+        },
+        {
+          "id": "e18",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Spot the grammatical error:\n`(A) No sooner the quarterly inflation / (B) data was published / (C) than sovereign bond yields / (D) softened by eight basis points. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 0,
+          "explanation": "`No sooner` requires subject-verb inversion: `No sooner was the quarterly inflation data published...`."
+        },
+        {
+          "id": "e19",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Spot the grammatical error:\n`(A) Neither excessive fiscal stimulus / (B) nor premature monetary tightening / (C) serves the long-term interests / (D) of emerging economies. / (E) No error`",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E (No error)"
+          ],
+          "correctIndex": 4,
+          "explanation": "Both subjects are singular (`tightening` → singular verb `serves`). Completely correct (No error)."
+        },
+        {
+          "id": "e20",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "rbi_pj",
+          "question": "Which sentence should be the **FIRST** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sequence: **B – A – C – D – E**. Sentence B sets the pre-2016 baseline problem."
+        },
+        {
+          "id": "e21",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "rbi_pj",
+          "question": "Which sentence should be the **SECOND** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sequence **B – A – C – D – E**: Sentence A ('In response...') introduces the 2016 IBC."
+        },
+        {
+          "id": "e22",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "rbi_pj",
+          "question": "Which sentence should be the **THIRD** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sequence **B – A – C – D – E**: Sentence C cites positive empirical behavioural impact of IBC."
+        },
+        {
+          "id": "e23",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "rbi_pj",
+          "question": "Which sentence should be the **FOURTH** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 3,
+          "explanation": "Sequence **B – A – C – D – E**: Sentence D ('Nonetheless...') introduces the delay bottleneck."
+        },
+        {
+          "id": "e24",
+          "topic": "Para Jumble",
+          "difficulty": "medium",
+          "passageId": "rbi_pj",
+          "question": "Which sentence should be the **FIFTH (LAST)** after rearrangement?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "correctIndex": 4,
+          "explanation": "Sequence **B – A – C – D – E**: Sentence E ('...therefore critical...') provides the concluding reform roadmap."
+        },
+        {
+          "id": "e25",
+          "topic": "Sentence Connector",
+          "difficulty": "medium",
+          "question": "Choose the connector that logically links the two sentences:\nI. Global crude oil prices climbed 14% during the quarter.\nII. India's merchandise import bill expanded noticeably.",
+          "options": [
+            "Consequently",
+            "However",
+            "Although",
+            "Despite",
+            "Unless"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sentence II is a direct cause-and-effect outcome of Sentence I, joined by `Consequently`."
+        },
+        {
+          "id": "e26",
+          "topic": "Word Usage (Contextual)",
+          "difficulty": "medium",
+          "question": "Choose the sentence(s) where the word **`MITIGATE`** is used correctly:\nI. Hedging currency exposure helps exporters mitigate sudden exchange-rate losses.\nII. The committee proposed coastal embankments to mitigate flood damage.\nIII. The chef decided to mitigate the soup with extra chilli powder to make it spicier.",
+          "options": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "Both II and III",
+            "All I, II, and III"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Mitigate' means to make less severe or less painful — used properly in I and II, not in III."
+        },
+        {
+          "id": "e27",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Replace the bracketed segment to correct the sentence:\n`The central bank has been monitoring shadow-bank liquidity (since the past five years).`",
+          "options": [
+            "for the past five years",
+            "from the past five years",
+            "during last five year",
+            "since five years ago",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "A period/duration (`the past five years`) takes `for`, not `since`."
+        },
+        {
+          "id": "e28",
+          "topic": "Double Fillers",
+          "difficulty": "medium",
+          "question": "Sustained capital expenditure on freight corridors will ______ private investment and ______ India's medium-term potential growth.",
+          "options": [
+            "crowd out, suppress",
+            "crowd in, elevate",
+            "deter, halve",
+            "replace, stagnate",
+            "restrict, erode"
+          ],
+          "correctIndex": 1,
+          "explanation": "Public infrastructure capex 'crowds in' private investment and 'elevates' potential growth."
+        },
+        {
+          "id": "e29",
+          "topic": "Word Swap",
+          "difficulty": "medium",
+          "question": "Choose the pair of bold words to swap so the sentence becomes meaningful:\n`Prudent fiscal **inflation** (A) helps keep sovereign borrowing **costs** (B) low and eases demand-side **consolidation** (C) across the **economy** (D).`",
+          "options": [
+            "A-B",
+            "A-C",
+            "B-C",
+            "C-D",
+            "No swap required"
+          ],
+          "correctIndex": 1,
+          "explanation": "Swapping A and C gives: 'Prudent fiscal **consolidation** helps keep sovereign borrowing costs low and eases demand-side **inflation**...'"
+        },
+        {
+          "id": "e30",
+          "topic": "Phrase Replacement",
+          "difficulty": "medium",
+          "question": "Replace the bracketed segment:\n`Seldom (we have witnessed) such coordinated disinflation across major economies.`",
+          "options": [
+            "have we witnessed",
+            "we witnessed",
+            "did we witnessed",
+            "are we witness",
+            "No replacement required"
+          ],
+          "correctIndex": 0,
+          "explanation": "Negative adverb `Seldom` at sentence start requires inversion: `Seldom have we witnessed`."
+        }
+      ]
+    },
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "q1",
+          "topic": "Data Interpretation (Banking Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di1",
+          "question": "What is the ratio of total **Agriculture** credit to total **Retail** credit across all five banks combined?",
+          "options": [
+            "1 : 2",
+            "2 : 5",
+            "3 : 5",
+            "1 : 3",
+            "4 : 7"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total Agriculture = $120+150+100+180+50 = 600$. Total Retail = $300+250+250+400+300 = 1500$. Ratio = $600 : 1500 = 2 : 5$."
+        },
+        {
+          "id": "q2",
+          "topic": "Data Interpretation (Banking Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di1",
+          "question": "What percentage of the **total combined credit portfolio** of all five banks is accounted for by the **MSME** sector?",
+          "options": [
+            "25%",
+            "28%",
+            "30%",
+            "32%",
+            "35%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total MSME = $900$. Grand Total = $600 + 900 + 1500 = 3000$. Share = $\\frac{900}{3000} \\times 100 = 30\\%$."
+        },
+        {
+          "id": "q3",
+          "topic": "Data Interpretation (Banking Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di1",
+          "question": "Which bank has the **highest total credit portfolio** across all three sectors combined?",
+          "options": [
+            "Bank B1",
+            "Bank B2",
+            "Bank B3",
+            "Bank B4",
+            "Bank B5"
+          ],
+          "correctIndex": 3,
+          "explanation": "Totals: B1=600, B2=600, B3=500, **B4=800**, B5=500."
+        },
+        {
+          "id": "q4",
+          "topic": "Data Interpretation (Banking Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di1",
+          "question": "What is the **average Retail credit** disbursed per bank across the five banks?",
+          "options": [
+            "₹260 Crore",
+            "₹280 Crore",
+            "₹300 Crore",
+            "₹320 Crore",
+            "₹340 Crore"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total Retail = ₹1,500 Cr. Average = $1500 / 5 = ₹300\\text{ Crore}$."
+        },
+        {
+          "id": "q5",
+          "topic": "Data Interpretation (Banking Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di1",
+          "question": "In **Bank B4**, Retail credit is what percent MORE than MSME credit (rounded to one decimal place)?",
+          "options": [
+            "72.5%",
+            "78.4%",
+            "81.8%",
+            "85.2%",
+            "90.0%"
+          ],
+          "correctIndex": 2,
+          "explanation": "B4 Retail = 400, MSME = 220. Percent more = $\\frac{180}{220} \\times 100 = \\frac{900}{11} \\approx 81.8\\%$."
+        },
+        {
+          "id": "q6",
+          "topic": "Data Interpretation (Payments Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di2",
+          "question": "What is the percentage growth in **UPI** transaction volume from **Q1 to Q4**?",
+          "options": [
+            "50%",
+            "55%",
+            "60%",
+            "65%",
+            "70%"
+          ],
+          "correctIndex": 2,
+          "explanation": "UPI grew from 400M to 640M: $\\frac{240}{400} \\times 100 = 60\\%$."
+        },
+        {
+          "id": "q7",
+          "topic": "Data Interpretation (Payments Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di2",
+          "question": "What is the **total annual transaction volume** across all three payment rails combined (Q1 to Q4)?",
+          "options": [
+            "2,600 Million",
+            "2,700 Million",
+            "2,800 Million",
+            "2,900 Million",
+            "3,000 Million"
+          ],
+          "correctIndex": 2,
+          "explanation": "Q1(550) + Q2(650) + Q3(750) + Q4(850) = **2,800 Million**."
+        },
+        {
+          "id": "q8",
+          "topic": "Data Interpretation (Payments Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di2",
+          "question": "What is the ratio of total **IMPS** transactions to total **NEFT** transactions over the full year?",
+          "options": [
+            "17 : 15",
+            "19 : 17",
+            "21 : 19",
+            "10 : 9",
+            "11 : 9"
+          ],
+          "correctIndex": 1,
+          "explanation": "IMPS total = 380, NEFT total = 340. Ratio = $380 : 340 = 19 : 17$."
+        },
+        {
+          "id": "q9",
+          "topic": "Data Interpretation (Payments Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di2",
+          "question": "In **Q3**, what is the difference between **UPI** transactions and the combined sum of **IMPS and NEFT** transactions?",
+          "options": [
+            "350 Million",
+            "360 Million",
+            "370 Million",
+            "380 Million",
+            "390 Million"
+          ],
+          "correctIndex": 2,
+          "explanation": "Q3 UPI = 560; IMPS + NEFT = $100 + 90 = 190$. Difference = $560 - 190 = 370\\text{ Million}$."
+        },
+        {
+          "id": "q10",
+          "topic": "Data Interpretation (Payments Table)",
+          "difficulty": "medium",
+          "passageId": "rbi_di2",
+          "question": "What is the average quarterly volume of **UPI** transactions across the four quarters?",
+          "options": [
+            "480 Million",
+            "500 Million",
+            "520 Million",
+            "540 Million",
+            "560 Million"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total UPI = $2080$. Average = $2080 / 4 = 520\\text{ Million}$."
+        },
+        {
+          "id": "q11",
+          "topic": "Wrong Number Series",
+          "difficulty": "hard",
+          "question": "Find the WRONG number in the series:\n`12, 18, 36, 90, 270, 940, 3780`",
+          "options": [
+            "18",
+            "36",
+            "90",
+            "270",
+            "940"
+          ],
+          "correctIndex": 4,
+          "explanation": "Multipliers $\\times 1.5, \\times 2, \\times 2.5, \\times 3, \\times 3.5, \\times 4$: $270 \\times 3.5 = 945$ (not 940), and $945 \\times 4 = 3780$."
+        },
+        {
+          "id": "q12",
+          "topic": "Missing Number Series",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`7, 15, 32, 67, 138, ?`",
+          "options": [
+            "276",
+            "279",
+            "281",
+            "283",
+            "285"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rule $\\times 2+1, \\times 2+2, \\times 2+3, \\times 2+4, \\times 2+5$: $138 \\times 2 + 5 = 281$."
+        },
+        {
+          "id": "q13",
+          "topic": "Missing Number Series",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`100, 108, 124, 156, 220, ?`",
+          "options": [
+            "328",
+            "336",
+            "348",
+            "356",
+            "364"
+          ],
+          "correctIndex": 2,
+          "explanation": "Differences double: $+8, +16, +32, +64, +128 \\Rightarrow 220 + 128 = 348$."
+        },
+        {
+          "id": "q14",
+          "topic": "Wrong Number Series",
+          "difficulty": "hard",
+          "question": "Find the WRONG number in the series:\n`5, 12, 26, 54, 110, 224, 446`",
+          "options": [
+            "12",
+            "26",
+            "54",
+            "110",
+            "224"
+          ],
+          "correctIndex": 4,
+          "explanation": "Rule $2n + 2$: $110 \\times 2 + 2 = 222$ (not 224), and $222 \\times 2 + 2 = 446$."
+        },
+        {
+          "id": "q15",
+          "topic": "Missing Number Series",
+          "difficulty": "medium",
+          "question": "Find the missing number:\n`2, 10, 30, 68, 130, ?`",
+          "options": [
+            "210",
+            "216",
+            "222",
+            "228",
+            "234"
+          ],
+          "correctIndex": 2,
+          "explanation": "Pattern $n^3 + n$: $1^3+1=2, 2^3+2=10, 3^3+3=30, 4^3+4=68, 5^3+5=130, 6^3+6=222$."
+        },
+        {
+          "id": "q16",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $x^2 - 15x + 56 = 0$\nII. $y^2 - 13y + 42 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 2,
+          "explanation": "I: $x = 7, 8$. II: $y = 6, 7$. Hence $x \\ge y$."
+        },
+        {
+          "id": "q17",
+          "topic": "Quadratic Equations",
+          "difficulty": "medium",
+          "question": "Compare $x$ and $y$:\nI. $2x^2 - 13x + 21 = 0$\nII. $y^2 - 5y + 6 = 0$",
+          "options": [
+            "$x > y$",
+            "$x < y$",
+            "$x \\ge y$",
+            "$x \\le y$",
+            "$x = y$ or no relation"
+          ],
+          "correctIndex": 2,
+          "explanation": "I: $(2x-7)(x-3)=0 \\Rightarrow x = 3.5, 3$. II: $y = 2, 3$. Hence $x \\ge y$."
+        },
+        {
+          "id": "q18",
+          "topic": "Quantity Comparison",
+          "difficulty": "medium",
+          "question": "Compare Quantity I and Quantity II:\n**Quantity I:** Compound Interest on ₹10,000 at 20% p.a. compounded annually for 2 years.\n**Quantity II:** Simple Interest on ₹12,000 at 15% p.a. for 2.5 years.",
+          "options": [
+            "Quantity I > Quantity II",
+            "Quantity I < Quantity II",
+            "Quantity I ≥ Quantity II",
+            "Quantity I ≤ Quantity II",
+            "Quantity I = Quantity II"
+          ],
+          "correctIndex": 1,
+          "explanation": "QI = $10000(1.44 - 1) = ₹4,400$. QII = $\\frac{12000 \\times 15 \\times 2.5}{100} = ₹4,500$. Hence Quantity I < Quantity II."
+        },
+        {
+          "id": "q19",
+          "topic": "Quantity Comparison",
+          "difficulty": "medium",
+          "question": "Compare Quantity I and Quantity II:\n**Quantity I:** Speed (in km/h) of a 200 m train crossing a 300 m platform in 25 seconds.\n**Quantity II:** Average speed (in km/h) of a car travelling equal distances at 60 km/h and 90 km/h.",
+          "options": [
+            "Quantity I > Quantity II",
+            "Quantity I < Quantity II",
+            "Quantity I ≥ Quantity II",
+            "Quantity I ≤ Quantity II",
+            "Quantity I = Quantity II"
+          ],
+          "correctIndex": 4,
+          "explanation": "QI = $(500/25)\\times 18/5 = 72\\text{ km/h}$. QII = $\\frac{2\\times 60\\times 90}{150} = 72\\text{ km/h}$. Quantity I = Quantity II."
+        },
+        {
+          "id": "q20",
+          "topic": "Quantity Comparison",
+          "difficulty": "medium",
+          "question": "Compare Quantity I and Quantity II:\n**Quantity I:** Area of a square of diagonal $10\\sqrt{2}\\text{ cm}$.\n**Quantity II:** Area of a rectangle of dimensions $12\\text{ cm} \\times 8\\text{ cm}$.",
+          "options": [
+            "Quantity I > Quantity II",
+            "Quantity I < Quantity II",
+            "Quantity I ≥ Quantity II",
+            "Quantity I ≤ Quantity II",
+            "Quantity I = Quantity II"
+          ],
+          "correctIndex": 0,
+          "explanation": "QI = $\\frac{d^2}{2} = \\frac{200}{2} = 100\\text{ cm}^2$. QII = $12 \\times 8 = 96\\text{ cm}^2$. Hence Quantity I > Quantity II."
+        },
+        {
+          "id": "q21",
+          "topic": "Time & Work",
+          "difficulty": "hard",
+          "question": "A and B can build a financial model in 12 days, B and C in 15 days, and C and A in 20 days. In how many days can A, B, and C working together build it?",
+          "options": [
+            "8 days",
+            "9 days",
+            "10 days",
+            "11 days",
+            "12 days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Work = 60. $2(A+B+C) = 5+4+3 = 12 \\Rightarrow A+B+C = 6$ units/day ⇒ $60/6 = 10$ days."
+        },
+        {
+          "id": "q22",
+          "topic": "Mixture & Alligation",
+          "difficulty": "hard",
+          "question": "Two alloys A and B contain gold and copper in ratios $7 : 2$ and $7 : 11$ respectively. Equal quantities of both alloys are melted to form Alloy C. What is the ratio of gold to copper in Alloy C?",
+          "options": [
+            "5 : 4",
+            "7 : 5",
+            "7 : 6",
+            "9 : 5",
+            "3 : 2"
+          ],
+          "correctIndex": 1,
+          "explanation": "Take 18 kg of each: A has 14 kg gold, 4 kg copper; B has 7 kg gold, 11 kg copper. Total: 21 kg gold, 15 kg copper ⇒ ratio $7 : 5$."
+        },
+        {
+          "id": "q23",
+          "topic": "Profit & Loss",
+          "difficulty": "medium",
+          "question": "An article is marked 50% above cost price and sold after two successive discounts of 20% and 10%. Find the overall profit percentage.",
+          "options": [
+            "5%",
+            "8%",
+            "10%",
+            "12%",
+            "15%"
+          ],
+          "correctIndex": 1,
+          "explanation": "CP=100, MP=150. SP = $150 \\times 0.80 \\times 0.90 = 108$. Profit = **8%**."
+        },
+        {
+          "id": "q24",
+          "topic": "Compound Interest",
+          "difficulty": "hard",
+          "question": "The difference between CI and SI on a certain sum at 10% p.a. for 3 years is ₹155. Find the principal sum.",
+          "options": [
+            "₹4,000",
+            "₹4,500",
+            "₹5,000",
+            "₹5,500",
+            "₹6,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "3-year diff = $P\\left(\\frac{R}{100}\\right)^2\\left(3 + \\frac{R}{100}\\right) = P(0.01)(3.1) = 0.031P = 155 \\Rightarrow P = ₹5,000$."
+        },
+        {
+          "id": "q25",
+          "topic": "Probability",
+          "difficulty": "medium",
+          "question": "A committee of 3 officers is chosen at random from 5 economists and 4 statisticians. What is the probability that the committee has exactly 2 economists and 1 statistician?",
+          "options": [
+            "$\\frac{5}{14}$",
+            "$\\frac{10}{21}$",
+            "$\\frac{1}{2}$",
+            "$\\frac{4}{9}$",
+            "$\\frac{5}{12}$"
+          ],
+          "correctIndex": 1,
+          "explanation": "$P = \\frac{\\binom{5}{2}\\binom{4}{1}}{\\binom{9}{3}} = \\frac{10 \\times 4}{84} = \\frac{40}{84} = \\frac{10}{21}$."
+        },
+        {
+          "id": "q26",
+          "topic": "Boats & Streams",
+          "difficulty": "medium",
+          "question": "A boat takes twice as long to row a certain distance upstream as to row the same distance downstream. If the speed of the stream is 4 km/h, what is the boat's speed in still water?",
+          "options": [
+            "8 km/h",
+            "10 km/h",
+            "12 km/h",
+            "14 km/h",
+            "16 km/h"
+          ],
+          "correctIndex": 2,
+          "explanation": "$b + 4 = 2(b - 4) \\Rightarrow b + 4 = 2b - 8 \\Rightarrow b = 12\\text{ km/h}$."
+        },
+        {
+          "id": "q27",
+          "topic": "Partnership",
+          "difficulty": "medium",
+          "question": "A, B, and C enter a venture investing ₹50,000, ₹60,000, and ₹70,000 respectively. After 6 months, C withdraws ₹20,000. At year-end, if profit is ₹68,000, what is B's share?",
+          "options": [
+            "₹20,000",
+            "₹22,000",
+            "₹24,000",
+            "₹26,000",
+            "₹28,000"
+          ],
+          "correctIndex": 2,
+          "explanation": "A = $50\\times 12 = 600$; B = $60\\times 12 = 720$; C = $70\\times 6 + 50\\times 6 = 720$. Ratio = $5:6:6$ (sum 17). B = $\\frac{6}{17}\\times 68000 = ₹24,000$."
+        },
+        {
+          "id": "q28",
+          "topic": "Pipes & Cisterns",
+          "difficulty": "medium",
+          "question": "Two inlet pipes fill a reservoir in 12 hours and 16 hours respectively, while a leak empties it in 24 hours. If all three act together, how long will it take to fill the reservoir?",
+          "options": [
+            "8 hours",
+            "9 hours",
+            "9.6 hours",
+            "10 hours",
+            "10.5 hours"
+          ],
+          "correctIndex": 2,
+          "explanation": "Capacity = 48. Rate = $4 + 3 - 2 = 5$ units/hr. Time = $48 / 5 = 9.6$ hours."
+        },
+        {
+          "id": "q29",
+          "topic": "Data Sufficiency (Quant)",
+          "difficulty": "hard",
+          "question": "What is the radius of circle C?\nStatements:\nI. The circumference of circle C is $44\\text{ cm}$.\nII. The area of circle C is $154\\text{ cm}^2$.",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Either I alone OR II alone is sufficient",
+            "Both I and II together are needed",
+            "Neither is sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "From I alone: $2\\pi r = 44 \\Rightarrow r = 7\\text{ cm}$. From II alone: $\\pi r^2 = 154 \\Rightarrow r = 7\\text{ cm}$. Either statement alone suffices."
+        },
+        {
+          "id": "q30",
+          "topic": "Mensuration 3D",
+          "difficulty": "medium",
+          "question": "A cylindrical metallic tank of radius $7\\text{ m}$ and height $4\\text{ m}$ is filled with water. How many cubic metres of water does it hold ($\\pi = \\frac{22}{7}$)?",
+          "options": [
+            "$586\\text{ m}^3$",
+            "$606\\text{ m}^3$",
+            "$616\\text{ m}^3$",
+            "$626\\text{ m}^3$",
+            "$646\\text{ m}^3$"
+          ],
+          "correctIndex": 2,
+          "explanation": "$V = \\frac{22}{7} \\times 7 \\times 7 \\times 4 = 154 \\times 4 = 616\\text{ m}^3$."
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning Ability",
+      "durationMinutes": 45,
+      "questions": [
+        {
+          "id": "r1",
+          "topic": "Circular Seating + Variable",
+          "difficulty": "medium",
+          "passageId": "rbi_p1",
+          "question": "Who sits directly **opposite to the person from Mumbai**?",
+          "options": [
+            "F (Jaipur)",
+            "D (Kochi)",
+            "G (Kolkata)",
+            "H (Surat)",
+            "C (Chennai)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Order (moving right): A(Delhi) → E(Mumbai) → C(Chennai) → G(Kolkata) → B(Pune) → F(Jaipur) → D(Kochi) → H(Surat). Opposite to E(Mumbai) is **F (Jaipur)**."
+        },
+        {
+          "id": "r2",
+          "topic": "Circular Seating + Variable",
+          "difficulty": "medium",
+          "passageId": "rbi_p1",
+          "question": "Who sits **third to the right of C (Chennai)**?",
+          "options": [
+            "F (Jaipur)",
+            "B (Pune)",
+            "D (Kochi)",
+            "H (Surat)",
+            "G (Kolkata)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Moving right from C: 1st G, 2nd B, 3rd **F (Jaipur)**."
+        },
+        {
+          "id": "r3",
+          "topic": "Circular Seating + Variable",
+          "difficulty": "medium",
+          "passageId": "rbi_p1",
+          "question": "Which city does the person sitting directly **opposite to G** belong to?",
+          "options": [
+            "Jaipur",
+            "Kochi",
+            "Surat",
+            "Chennai",
+            "Delhi"
+          ],
+          "correctIndex": 2,
+          "explanation": "Opposite to G (Kolkata) is H, who belongs to **Surat**."
+        },
+        {
+          "id": "r4",
+          "topic": "Circular Seating + Variable",
+          "difficulty": "medium",
+          "passageId": "rbi_p1",
+          "question": "Who sits immediately to the **left of F (Jaipur)**?",
+          "options": [
+            "B (Pune)",
+            "D (Kochi)",
+            "G (Kolkata)",
+            "H (Surat)",
+            "C (Chennai)"
+          ],
+          "correctIndex": 0,
+          "explanation": "In right-order ...→ B → F → D →..., immediately left of F is **B (Pune)**."
+        },
+        {
+          "id": "r5",
+          "topic": "Circular Seating + Variable",
+          "difficulty": "medium",
+          "passageId": "rbi_p1",
+          "question": "How many trainees sit between **H (Surat)** and **G (Kolkata)** when counted from the **right of H**?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 2,
+          "explanation": "Moving right from H: A, E, C sit between H and G (**Three**, since H and G are opposite)."
+        },
+        {
+          "id": "r6",
+          "topic": "Linear Seating (North/South)",
+          "difficulty": "medium",
+          "passageId": "rbi_p2",
+          "question": "Who sits immediately to the **right of Q** (keeping in mind Q's facing direction)?",
+          "options": [
+            "P",
+            "R",
+            "S",
+            "T",
+            "U"
+          ],
+          "correctIndex": 0,
+          "explanation": "Q is at Position 2 facing **South**, so Q's right is toward Position 1, which is **P**."
+        },
+        {
+          "id": "r7",
+          "topic": "Linear Seating (North/South)",
+          "difficulty": "medium",
+          "passageId": "rbi_p2",
+          "question": "Who sits **second to the left of U** (keeping in mind U faces South)?",
+          "options": [
+            "S",
+            "W",
+            "T",
+            "V",
+            "R"
+          ],
+          "correctIndex": 1,
+          "explanation": "U is at Position 6 facing **South**, so U's left is toward higher positions: 1st is V (7), 2nd is **W (8)**."
+        },
+        {
+          "id": "r8",
+          "topic": "Linear Seating (North/South)",
+          "difficulty": "medium",
+          "passageId": "rbi_p2",
+          "question": "Which direction does **V** face?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West",
+            "Cannot be determined"
+          ],
+          "correctIndex": 0,
+          "explanation": "V sits at Position 7 (odd position), so V faces **North**."
+        },
+        {
+          "id": "r9",
+          "topic": "Linear Seating (North/South)",
+          "difficulty": "medium",
+          "passageId": "rbi_p2",
+          "question": "How many analysts sit between **Q** and **V**?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "One"
+          ],
+          "correctIndex": 2,
+          "explanation": "Between Q (2) and V (7) sit R (3), S (4), T (5), and U (6) — **Four** analysts."
+        },
+        {
+          "id": "r10",
+          "topic": "Linear Seating (North/South)",
+          "difficulty": "medium",
+          "passageId": "rbi_p2",
+          "question": "Four of the following five face the same direction. Who is the odd one out?",
+          "options": [
+            "P",
+            "R",
+            "T",
+            "V",
+            "S"
+          ],
+          "correctIndex": 4,
+          "explanation": "P(1), R(3), T(5), V(7) face North; **S(4)** faces South."
+        },
+        {
+          "id": "r11",
+          "topic": "Floor & Flat Puzzle",
+          "difficulty": "medium",
+          "passageId": "rbi_p3",
+          "question": "Who lives in **Flat 2 on Floor 3**?",
+          "options": [
+            "B",
+            "C",
+            "D",
+            "F",
+            "H"
+          ],
+          "correctIndex": 2,
+          "explanation": "Floor 3 has C in Flat 1 (West) and **D** in Flat 2 (East)."
+        },
+        {
+          "id": "r12",
+          "topic": "Floor & Flat Puzzle",
+          "difficulty": "medium",
+          "passageId": "rbi_p3",
+          "question": "Who lives directly **South-West of D** (one floor below and to the West)?",
+          "options": [
+            "C",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "correctIndex": 1,
+          "explanation": "D is on Floor 3 Flat 2 (East). One floor below (Floor 2) and to the West (Flat 1) is **E**."
+        },
+        {
+          "id": "r13",
+          "topic": "Floor & Flat Puzzle",
+          "difficulty": "medium",
+          "passageId": "rbi_p3",
+          "question": "Which officer lives directly **two floors above F** in the same Flat number?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "H"
+          ],
+          "correctIndex": 1,
+          "explanation": "F is on Floor 2 Flat 2; two floors above in Flat 2 is Floor 4 Flat 2 = **B**."
+        },
+        {
+          "id": "r14",
+          "topic": "Floor & Flat Puzzle",
+          "difficulty": "medium",
+          "passageId": "rbi_p3",
+          "question": "Who lives directly **North-East of G** (one floor above and to the East)?",
+          "options": [
+            "E",
+            "F",
+            "D",
+            "H",
+            "C"
+          ],
+          "correctIndex": 1,
+          "explanation": "G is on Floor 1 Flat 1; one floor above (Floor 2) and to the East (Flat 2) is **F**."
+        },
+        {
+          "id": "r15",
+          "topic": "Floor & Flat Puzzle",
+          "difficulty": "medium",
+          "passageId": "rbi_p3",
+          "question": "Four of the following five live in Flat 1 (West). Who is the odd one out?",
+          "options": [
+            "A",
+            "C",
+            "E",
+            "G",
+            "B"
+          ],
+          "correctIndex": 4,
+          "explanation": "A, C, E, G live in Flat 1; **B** lives in Flat 2."
+        },
+        {
+          "id": "r16",
+          "topic": "Month & Department Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p4",
+          "question": "Which department does **O** join, and in which month?",
+          "options": [
+            "Supervision, March",
+            "Research, May",
+            "Payments, June",
+            "Forex, February",
+            "Currency, April"
+          ],
+          "correctIndex": 1,
+          "explanation": "**O** joins **Research** in **May** (immediately after N in April)."
+        },
+        {
+          "id": "r17",
+          "topic": "Month & Department Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p4",
+          "question": "How many officers join between **L (Forex)** and **P (Payments)**?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "None"
+          ],
+          "correctIndex": 2,
+          "explanation": "Between Feb (L) and Jun (P) join M (Mar), N (Apr), and O (May) — **Three** officers."
+        },
+        {
+          "id": "r18",
+          "topic": "Month & Department Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p4",
+          "question": "Who joins in **March**?",
+          "options": [
+            "L",
+            "M",
+            "N",
+            "O",
+            "P"
+          ],
+          "correctIndex": 1,
+          "explanation": "**M** joins Supervision in March."
+        },
+        {
+          "id": "r19",
+          "topic": "Month & Department Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p4",
+          "question": "Which officer joins immediately **before Q**?",
+          "options": [
+            "N",
+            "O",
+            "P",
+            "M",
+            "L"
+          ],
+          "correctIndex": 2,
+          "explanation": "**P (Payments, June)** joins immediately before Q (Inclusion, July)."
+        },
+        {
+          "id": "r20",
+          "topic": "Month & Department Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p4",
+          "question": "Four of the following five join in months having 31 days. Who is the odd one out?",
+          "options": [
+            "K (Jan)",
+            "M (Mar)",
+            "O (May)",
+            "Q (Jul)",
+            "N (Apr)"
+          ],
+          "correctIndex": 4,
+          "explanation": "Jan, Mar, May, Jul have 31 days; **April (N)** has 30 days."
+        },
+        {
+          "id": "r21",
+          "topic": "Age & Order Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p5",
+          "question": "What is **Ananya**'s age?",
+          "options": [
+            "29 years",
+            "32 years",
+            "35 years",
+            "38 years",
+            "41 years"
+          ],
+          "correctIndex": 2,
+          "explanation": "Devika=41, Kabir=38, **Ananya=35**, Siddharth=32, Meera=29, Rohan=26."
+        },
+        {
+          "id": "r22",
+          "topic": "Age & Order Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p5",
+          "question": "Who is **32 years** old?",
+          "options": [
+            "Meera",
+            "Siddharth",
+            "Ananya",
+            "Kabir",
+            "Rohan"
+          ],
+          "correctIndex": 1,
+          "explanation": "**Siddharth** is 32 years old."
+        },
+        {
+          "id": "r23",
+          "topic": "Age & Order Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p5",
+          "question": "What is the age difference between **Kabir** and **Meera**?",
+          "options": [
+            "6 years",
+            "9 years",
+            "12 years",
+            "3 years",
+            "15 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "$38 - 29 = 9$ years."
+        },
+        {
+          "id": "r24",
+          "topic": "Age & Order Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p5",
+          "question": "Who is the **second youngest** economist in the group?",
+          "options": [
+            "Rohan",
+            "Meera",
+            "Siddharth",
+            "Ananya",
+            "Kabir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Youngest is Rohan (26); second youngest is **Meera (29)**."
+        },
+        {
+          "id": "r25",
+          "topic": "Age & Order Puzzle",
+          "difficulty": "easy",
+          "passageId": "rbi_p5",
+          "question": "What is the sum of the ages of **Siddharth** and **Devika**?",
+          "options": [
+            "67 years",
+            "70 years",
+            "73 years",
+            "76 years",
+            "79 years"
+          ],
+          "correctIndex": 2,
+          "explanation": "$32 + 41 = 73$ years."
+        },
+        {
+          "id": "r26",
+          "topic": "Machine Input-Output",
+          "difficulty": "hard",
+          "passageId": "rbi_io",
+          "question": "How many total steps are required to reach the final output for the given Input?",
+          "options": [
+            "Three",
+            "Four",
+            "Five",
+            "Six",
+            "Two"
+          ],
+          "correctIndex": 1,
+          "explanation": "Step I: `audit yield 34 macro 52 trade 76 forex 18 91`\nStep II: `audit forex yield 34 macro 52 trade 18 76 91`\nStep III: `audit forex macro yield 34 trade 18 52 76 91`\nStep IV: `audit forex macro trade yield 18 34 52 76 91` (fully arranged!). Total = **Four** steps."
+        },
+        {
+          "id": "r27",
+          "topic": "Machine Input-Output",
+          "difficulty": "hard",
+          "passageId": "rbi_io",
+          "question": "In **Step II**, which element is **4th from the left end**?",
+          "options": [
+            "yield",
+            "34",
+            "macro",
+            "52",
+            "forex"
+          ],
+          "correctIndex": 1,
+          "explanation": "Step II is `audit forex yield 34 macro 52 trade 18 76 91`. 4th from left = `34`."
+        },
+        {
+          "id": "r28",
+          "topic": "Machine Input-Output",
+          "difficulty": "hard",
+          "passageId": "rbi_io",
+          "question": "In **Step III**, which element lies **immediately between `34` and `18`**?",
+          "options": [
+            "macro",
+            "yield",
+            "trade",
+            "52",
+            "forex"
+          ],
+          "correctIndex": 2,
+          "explanation": "Step III is `audit forex macro yield 34 trade 18 52 76 91`. Immediately between `34` and `18` is `trade`."
+        },
+        {
+          "id": "r29",
+          "topic": "Machine Input-Output",
+          "difficulty": "medium",
+          "passageId": "rbi_io",
+          "question": "In **Step I**, what is the position of `76` from the **right end**?",
+          "options": [
+            "Second",
+            "Third",
+            "Fourth",
+            "Fifth",
+            "Sixth"
+          ],
+          "correctIndex": 2,
+          "explanation": "Step I: `audit yield 34 macro 52 trade 76 forex 18 91`. From right: 91(1), 18(2), forex(3), **76(4th)**."
+        },
+        {
+          "id": "r30",
+          "topic": "Machine Input-Output",
+          "difficulty": "medium",
+          "passageId": "rbi_io",
+          "question": "In the **final step (Step IV)**, what is the sum of the 6th and 9th elements from the left end?",
+          "options": [
+            "70",
+            "86",
+            "94",
+            "109",
+            "125"
+          ],
+          "correctIndex": 2,
+          "explanation": "Step IV: `audit(1) forex(2) macro(3) trade(4) yield(5) 18(6) 34(7) 52(8) 76(9) 91(10)`. Sum = $18 + 76 = 94$."
+        },
+        {
+          "id": "r31",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. Only a few bonds are equities.\n2. All equities are derivatives.\n3. No derivative is a commodity.\n\nConclusions:\nI. No equity is a commodity.\nII. Some bonds are not commodities.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 4,
+          "explanation": "Equities ⊂ Derivatives and Derivatives ∩ Commodity = ∅ ⇒ No equity is a commodity (I). Bonds that are equities cannot be commodities ⇒ Some bonds are not commodities (II). Both follow."
+        },
+        {
+          "id": "r32",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. Only a few banks are NBFCs.\n2. Some NBFCs are fintechs.\n\nConclusions:\nI. All banks can be NBFCs.\nII. Some banks are fintechs.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither I nor II follows",
+            "Both follow"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Only a few' prevents All banks being NBFCs (I fails). No definite overlap between banks and fintechs (II fails). Neither follows."
+        },
+        {
+          "id": "r33",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All audits are reviews.\n2. Some reviews are inspections.\n3. No inspection is a penalty.\n\nConclusions:\nI. Some reviews are not penalties.\nII. Some audits being inspections is a possibility.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both I and II follow"
+          ],
+          "correctIndex": 4,
+          "explanation": "Reviews that are inspections cannot be penalties (I). No restriction prevents audits from overlapping inspections, so the possibility holds (II). Both follow."
+        },
+        {
+          "id": "r34",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. Some startups are unicorns.\n2. No unicorn is bankrupt.\n\nConclusions:\nI. Some startups are not bankrupt.\nII. All startups are bankrupt.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "correctIndex": 0,
+          "explanation": "The startups that are unicorns cannot be bankrupt ⇒ I definitely follows."
+        },
+        {
+          "id": "r35",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All notes are legal tender.\n2. All coins are legal tender.\n\nConclusions:\nI. Some notes are coins.\nII. No note is a coin.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "correctIndex": 2,
+          "explanation": "No definite relation between notes and coins; 'Some + No' forms a complementary **Either I or II** pair."
+        },
+        {
+          "id": "r36",
+          "topic": "Coded Inequality",
+          "difficulty": "medium",
+          "question": "Codes: `A @ B` means $A > B$; `A # B` means $A \\ge B$; `A $ B` means $A = B$; `A % B` means $A < B$; `A & B` means $A \\le B$.\n\nStatement: `P @ Q # R $ S % T`\nConclusions:\nI. `P @ S`\nII. `T @ R`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both I and II are true"
+          ],
+          "correctIndex": 4,
+          "explanation": "Decoded: $P > Q \\ge R = S < T$. Hence $P > S$ (I true) and $T > S = R \\Rightarrow T > R$ (II true). Both are true."
+        },
+        {
+          "id": "r37",
+          "topic": "Coded Inequality",
+          "difficulty": "medium",
+          "question": "Using `@ (>), # (≥), $ (=), % (<), & (≤)`:\nStatement: `K # L $ M # N @ O`\nConclusions:\nI. `K @ N`\nII. `K $ N`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both are true"
+          ],
+          "correctIndex": 2,
+          "explanation": "Decoded: $K \\ge L = M \\ge N > O \\Rightarrow K \\ge N$, splitting into $K > N$ or $K = N$ ⇒ **Either I or II**."
+        },
+        {
+          "id": "r38",
+          "topic": "Coded Inequality",
+          "difficulty": "medium",
+          "question": "Using `@ (>), # (≥), $ (=), % (<), & (≤)`:\nStatements: `A % B & C`; `D @ C $ E`\nConclusions:\nI. `D @ A`\nII. `E # B`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both I and II are true"
+          ],
+          "correctIndex": 4,
+          "explanation": "Combined: $A < B \\le C = E < D$. Thus $D > A$ (I true) and $E = C \\ge B \\Rightarrow E \\ge B$ (II true). Both are true."
+        },
+        {
+          "id": "r39",
+          "topic": "Coded Inequality",
+          "difficulty": "medium",
+          "question": "Using `@ (>), # (≥), $ (=), % (<), & (≤)`:\nStatement: `W & X % Y @ Z # U`\nConclusions:\nI. `W % Z`\nII. `Y @ U`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both are true"
+          ],
+          "correctIndex": 1,
+          "explanation": "Decoded: $W \\le X < Y > Z \\ge U$. Between W and Z, signs oppose (`<` and `>`), so I is false. $Y > Z \\ge U \\Rightarrow Y > U$ (II true)."
+        },
+        {
+          "id": "r40",
+          "topic": "Coded Inequality",
+          "difficulty": "medium",
+          "question": "Using `@ (>), # (≥), $ (=), % (<), & (≤)`:\nStatement: `M @ N @ O & P & Q`\nConclusions:\nI. `M @ Q`\nII. `Q # O`",
+          "options": [
+            "Only I is true",
+            "Only II is true",
+            "Either I or II is true",
+            "Neither is true",
+            "Both are true"
+          ],
+          "correctIndex": 1,
+          "explanation": "Decoded: $M > N > O \\le P \\le Q$. Opposing signs between M and Q (I false); $Q \\ge P \\ge O \\Rightarrow Q \\ge O$ (II true)."
+        },
+        {
+          "id": "r41",
+          "topic": "Coded Blood Relations",
+          "difficulty": "medium",
+          "question": "`A + B` means A is father of B; `A - B` means A is mother of B; `A × B` means A is brother of B; `A ÷ B` means A is sister of B.\nIn `P + Q × R - S`, how is **P** related to **S**?",
+          "options": [
+            "Paternal Grandfather",
+            "Maternal Grandfather",
+            "Father",
+            "Uncle",
+            "Brother"
+          ],
+          "correctIndex": 1,
+          "explanation": "P is father of Q; Q is brother of R; R is mother of S. Thus P is the father of S's mother ⇒ **Maternal Grandfather**."
+        },
+        {
+          "id": "r42",
+          "topic": "Coded Blood Relations",
+          "difficulty": "medium",
+          "question": "Using `+ (father), - (mother), × (brother), ÷ (sister)`, which expression proves **M is the Maternal Uncle of N**?",
+          "options": [
+            "M × K - N",
+            "M + K ÷ N",
+            "M - K + N",
+            "M ÷ K - N",
+            "K × M + N"
+          ],
+          "correctIndex": 0,
+          "explanation": "`M × K - N`: M is the brother of K, and K is the mother of N ⇒ M is N's **Maternal Uncle**."
+        },
+        {
+          "id": "r43",
+          "topic": "Coded Blood Relations",
+          "difficulty": "medium",
+          "question": "Using `+ (father), - (mother), × (brother), ÷ (sister)`, in `A ÷ B + C × D`, how is **A** related to **D**?",
+          "options": [
+            "Mother",
+            "Maternal Aunt",
+            "Paternal Aunt",
+            "Grandmother",
+            "Sister"
+          ],
+          "correctIndex": 2,
+          "explanation": "A is sister of B; B is father of C; C is brother of D ⇒ B is D's father, so A is D's **Paternal Aunt**."
+        },
+        {
+          "id": "r44",
+          "topic": "Direction Sense",
+          "difficulty": "medium",
+          "question": "Point P is 9 m North of Q. Point R is 12 m East of Q. Point S is 9 m South of R. What is the shortest distance between Point **P** and Point **R**?",
+          "options": [
+            "12 m",
+            "15 m",
+            "18 m",
+            "21 m",
+            "16 m"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\sqrt{9^2 + 12^2} = \\sqrt{81 + 144} = 15\\text{ m}$."
+        },
+        {
+          "id": "r45",
+          "topic": "Direction Sense",
+          "difficulty": "medium",
+          "question": "From Point O, an officer walks 10 m North, turns right and walks 24 m to Point K. What is the shortest distance from O to K, and in which direction is K from O?",
+          "options": [
+            "26 m, North-East",
+            "26 m, North-West",
+            "34 m, North-East",
+            "25 m, North-East",
+            "28 m, South-East"
+          ],
+          "correctIndex": 0,
+          "explanation": "$\\sqrt{10^2 + 24^2} = \\sqrt{676} = 26\\text{ m}$, located North and East of O ⇒ **26 m, North-East**."
+        },
+        {
+          "id": "r46",
+          "topic": "Data Sufficiency (Reasoning)",
+          "difficulty": "medium",
+          "question": "Question: How is `credit` coded in a certain code language?\nStatements:\nI. `credit card limit` is coded as `pa la na`.\nII. `credit risk audit` is coded as `la mo ki`.",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Both I and II together are sufficient",
+            "Either I or II alone is sufficient",
+            "Even together they are not sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "The only common word between I and II is `credit`, and the only common code is `la`. Both together are sufficient."
+        },
+        {
+          "id": "r47",
+          "topic": "Data Sufficiency (Reasoning)",
+          "difficulty": "medium",
+          "question": "Question: Among five friends A, B, C, D, and E sitting in a row facing North, who sits in the exact middle?\nStatements:\nI. A and E sit at the two extreme ends.\nII. C sits immediately between B and D.",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Both I and II together are sufficient",
+            "Either I or II alone is sufficient",
+            "Even together they are not sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "From I, positions 2, 3, 4 belong to B, C, D. From II, C sits between B and D, forcing C into Position 3 (exact middle). Both together suffice."
+        },
+        {
+          "id": "r48",
+          "topic": "Data Sufficiency (Reasoning)",
+          "difficulty": "medium",
+          "question": "Question: On which exact date in July was Riya's birthday?\nStatements:\nI. Her sister remembers it was after 14 July but before 18 July.\nII. Her brother remembers it was an even-numbered date.",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Both I and II together are sufficient",
+            "Either I or II alone is sufficient",
+            "Even together they are not sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "From I: 15, 16, or 17 July. From II: even date ⇒ uniquely **16 July**. Both together suffice."
+        },
+        {
+          "id": "r49",
+          "topic": "Data Sufficiency (Reasoning)",
+          "difficulty": "medium",
+          "question": "Question: Who is the tallest among P, Q, R, and S?\nStatements:\nI. P is taller than Q and R.\nII. S is shorter than Q.",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Both I and II together are sufficient",
+            "Either I or II alone is sufficient",
+            "Even together they are not sufficient"
+          ],
+          "correctIndex": 2,
+          "explanation": "From I: $P > Q, R$. From II: $Q > S \\Rightarrow P > Q > S$. Hence P is definitively the tallest. Both together suffice."
+        },
+        {
+          "id": "r50",
+          "topic": "Data Sufficiency (Reasoning)",
+          "difficulty": "medium",
+          "question": "Question: How many daughters does X have?\nStatements:\nI. Y and Z are sisters of W.\nII. W is the only son of X.",
+          "options": [
+            "Only I is sufficient",
+            "Only II is sufficient",
+            "Both I and II together are sufficient",
+            "Either I or II alone is sufficient",
+            "Even together they are not sufficient"
+          ],
+          "correctIndex": 4,
+          "explanation": "Neither statement says Y and Z are the ONLY sisters of W; X could have additional daughters. Hence even together they are **not sufficient**."
+        },
+        {
+          "id": "r51",
+          "topic": "Critical Reasoning (Assumption)",
+          "difficulty": "hard",
+          "question": "Statement: \"To curb rising cyber-fraud in digital lending, the central bank has mandated that all loan disbursements and repayments must flow directly between the borrower's bank account and the regulated entity's bank account, bypassing third-party pool accounts.\"\n\nWhich of the following is an **implicit assumption**?",
+          "options": [
+            "Third-party pool accounts create opacity or vulnerabilities exploited in digital lending frauds",
+            "All borrowers prefer cash loans over bank transfers",
+            "Regulated banks do not possess digital banking infrastructure",
+            "Cyber-fraud will drop to absolute zero within 24 hours",
+            "Third-party fintech apps are permanently banned from customer onboarding"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mandating direct bank-to-bank flows assumes third-party pool accounts were a channel of risk/opacity in lending fraud."
+        },
+        {
+          "id": "r52",
+          "topic": "Critical Reasoning (Course of Action)",
+          "difficulty": "hard",
+          "question": "Statement: Recent climate data reveals that groundwater levels across twelve major agricultural districts have fallen by over 40% in the past decade due to unchecked cultivation of water-intensive crops.\n\nCourses of Action:\nI. Incentivize crop diversification toward millets and pulses alongside micro-irrigation subsidies.\nII. Permanently ban all agricultural activity across those twelve districts.",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Either I or II follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "correctIndex": 0,
+          "explanation": "Course I is practical, balanced, and addresses the root cause; Course II is extreme and destroys livelihoods."
+        },
+        {
+          "id": "r53",
+          "topic": "Critical Reasoning (Inference)",
+          "difficulty": "hard",
+          "question": "Passage: In a recent nationwide survey of MSMEs, 68% of firms that adopted formal GST e-invoicing secured working capital loans at interest rates at least 200 basis points lower than comparable non-digitized peers.\n\nWhich of the following can be **validly inferred**?",
+          "options": [
+            "Formal digital invoicing records improve lender confidence and lower perceived credit risk for many MSMEs",
+            "Every MSME using GST e-invoicing receives interest-free credit",
+            "Non-digitized firms are legally barred from applying for bank loans",
+            "GST e-invoicing guarantees 100% profitability for all small businesses",
+            "Banks no longer evaluate cash flows of large corporations"
+          ],
+          "correctIndex": 0,
+          "explanation": "Lower borrowing rates (by 200+ bps) for 68% of e-invoicing adopters directly supports inferring improved lender confidence and lower risk premiums."
+        },
+        {
+          "id": "r54",
+          "topic": "Critical Reasoning (Strengthening)",
+          "difficulty": "hard",
+          "question": "Argument: \"Expanding dedicated suburban rail networks is the most effective way to reduce metropolitan peak-hour traffic congestion.\"\n\nWhich of the following facts, if true, **most strongly strengthens** the argument?",
+          "options": [
+            "Cities that doubled suburban rail frequency saw a 35% drop in private commuter cars entering central business districts",
+            "Petrol prices fell slightly last month across rural highways",
+            "Suburban trains use steel tracks manufactured domestically",
+            "Automobile manufacturers launched three new SUV models this year",
+            "Many commuters enjoy listening to podcasts while stuck in traffic"
+          ],
+          "correctIndex": 0,
+          "explanation": "Empirical evidence showing doubled suburban rail frequency directly cut commuter car traffic by 35% strongly validates the claim."
+        },
+        {
+          "id": "r55",
+          "topic": "Critical Reasoning (Weakening)",
+          "difficulty": "hard",
+          "question": "Argument: \"Because Branch X reported a 30% increase in new savings accounts this quarter, its customer service quality must have improved dramatically.\"\n\nWhich of the following, if true, **most seriously weakens** the conclusion?",
+          "options": [
+            "A major nearby university made it mandatory for all 5,000 newly admitted students to open their fee accounts exclusively at Branch X this quarter",
+            "Branch X repainted its lobby walls last month",
+            "Branch X installed a new water dispenser near the entrance",
+            "Two senior tellers at Branch X completed a training seminar",
+            "National literacy rates rose slightly over the past decade"
+          ],
+          "correctIndex": 0,
+          "explanation": "An external captive mandate (5,000 university students required to open accounts there) provides an alternative cause for account growth unrelated to service quality."
+        },
+        {
+          "id": "r56",
+          "topic": "Word Letter Pairs",
+          "difficulty": "medium",
+          "question": "How many pairs of letters are there in the word `CREDIT` each of which has as many letters between them in the word (in both forward and backward directions) as in the English alphabet?",
+          "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "correctIndex": 2,
+          "explanation": "Positions in CREDIT: C(3)-R(18)-E(5)-D(4)-I(9)-T(20). Matching pairs: (C, E) forward with 1 letter between them, and (E, D) backward with 0 letters between them — total **Two** pairs."
+        },
+        {
+          "id": "r57",
+          "topic": "Number Coding",
+          "difficulty": "medium",
+          "question": "In a certain code language, `REPO` is written as `54` and `BOND` is written as `35`. How is `GOLD` written in that language?",
+          "options": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sum of letter values: R(18)+E(5)+P(16)+O(15)=54; B(2)+O(15)+N(14)+D(4)=35; G(7)+O(15)+L(12)+D(4) = **38**."
+        },
+        {
+          "id": "r58",
+          "topic": "Order & Ranking",
+          "difficulty": "medium",
+          "question": "In a merit list of 60 candidates, Vikram is 17th from the top and Neha is 22nd from the bottom. How many candidates are ranked strictly between Vikram and Neha?",
+          "options": [
+            "19",
+            "20",
+            "21",
+            "22",
+            "23"
+          ],
+          "correctIndex": 2,
+          "explanation": "Non-overlapping: $60 - (17 + 22) = 60 - 39 = 21$ candidates."
+        },
+        {
+          "id": "r59",
+          "topic": "Meaningful Word Formation",
+          "difficulty": "medium",
+          "question": "Using the 1st, 2nd, 4th, and 5th letters of the word `BASKET` (each used once), exactly one common four-letter English word can be formed. What is the **last letter** of that word?",
+          "options": [
+            "B",
+            "A",
+            "K",
+            "E",
+            "None can be formed"
+          ],
+          "correctIndex": 3,
+          "explanation": "1st=B, 2nd=A, 4th=K, 5th=E ⇒ forms the unique common word `BAKE`, whose last letter is **E**."
+        },
+        {
+          "id": "r60",
+          "topic": "Number Operation",
+          "difficulty": "easy",
+          "question": "If all digits of the number `83947265` are arranged in ascending order from left to right, the positions of how many digits will remain unchanged?",
+          "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "correctIndex": 1,
+          "explanation": "Original: `8 3 9 4 7 2 6 5`. Ascending: `2 3 4 5 6 7 8 9`. Only digit `3` (2nd position) stays unchanged (**One**)."
+        }
+      ]
+    }
+  ]
+}

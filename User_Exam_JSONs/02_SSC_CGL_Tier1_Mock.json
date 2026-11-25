@@ -1,0 +1,1453 @@
+{
+  "title": "SSC CGL Tier-I — Full-Length CBT Mock Paper",
+  "subtitle": "100 Questions • 60 Minutes • 200 Marks • Official +2 / -0.50 Marking",
+  "category": "SSC",
+  "description": "Exact full-length SSC Combined Graduate Level (CGL) Tier-I replica modelled on 2023–2024 Tier-I shifts: 100 objective MCQs across 4 equal sections (25 each), 200 maximum marks, 60-minute composite timer, and +2 / -0.50 marking.",
+  "durationMinutes": 60,
+  "sectionalTiming": false,
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.5,
+  "evaluateMarkedAnswered": true,
+  "instructions": [
+    "Exact SSC CGL Tier-I pattern: 4 sections × 25 questions = 100 questions (200 maximum marks) in 60 minutes.",
+    "Official marking scheme: +2 marks for every correct answer, -0.50 negative marking for every wrong answer, and 0 for unattempted questions.",
+    "Free navigation is allowed across all 4 sections during the 60-minute composite timer."
+  ],
+  "passages": {
+    "cgl_cloze_1": {
+      "title": "Cloze Test — Questions 21 to 25 (English Comprehension)",
+      "content": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\nUrban forests play a __(1)__ role in mitigating the urban heat island effect that plagues rapidly expanding metropolitan cities. By providing shade and releasing moisture through transpiration, dense tree canopies can lower ambient summer temperatures __(2)__ several degrees. Beyond cooling, urban greenery filters airborne particulate matter and __(3)__ stormwater runoff during intense monsoon cloudbursts. Municipal planners are therefore integrating native saplings __(4)__ road medians, public parks, and revitalized lakeshores to build resilient, __(5)__ cities for future generations."
+    }
+  },
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "questions": [
+        {
+          "id": "r1",
+          "topic": "Number Analogy",
+          "difficulty": "easy",
+          "question": "If 13 is related to 117 following a certain logic, and 23 is related to 207 following the same logic, to which number is 51 related?",
+          "options": [
+            "450",
+            "459",
+            "359",
+            "510"
+          ],
+          "correctIndex": 1,
+          "explanation": "Each number is multiplied by 9: $13 \\times 9 = 117$, $23 \\times 9 = 207$, so $51 \\times 9 = 459$."
+        },
+        {
+          "id": "r2",
+          "topic": "Alphabetical Order",
+          "difficulty": "medium",
+          "question": "The position of how many letters will remain unchanged if all the letters in the word `BINDER` are arranged in English alphabetical order from left to right?",
+          "options": [
+            "None",
+            "One",
+            "Two",
+            "Three"
+          ],
+          "correctIndex": 2,
+          "explanation": "Original: B-I-N-D-E-R. Alphabetical: B-D-E-I-N-R. Both B (1st) and R (6th) stay unchanged (2 letters)."
+        },
+        {
+          "id": "r3",
+          "topic": "Word Pair Analogy",
+          "difficulty": "easy",
+          "question": "Select the word-pair that shares the same relationship as:\n`Kaziranga : Rhinoceros`",
+          "options": [
+            "Gir : Leopards",
+            "Gahirmatha : Lions",
+            "Periyar : Elephants",
+            "Ranthambore : Peacocks"
+          ],
+          "correctIndex": 2,
+          "explanation": "Kaziranga National Park (Assam) is renowned for the One-horned Rhinoceros; Periyar National Park (Kerala) is renowned for Elephants."
+        },
+        {
+          "id": "r4",
+          "topic": "Mathematical Operations",
+          "difficulty": "medium",
+          "question": "What will come in place of `?` if `+` and `-` are interchanged, and `×` and `÷` are interchanged?\n`342 × 18 + 79 - 45 ÷ 3 = ?`",
+          "options": [
+            "65",
+            "75",
+            "85",
+            "95"
+          ],
+          "correctIndex": 1,
+          "explanation": "After swapping: $342 \\div 18 - 79 + 45 \\times 3 = 19 - 79 + 135 = 75$."
+        },
+        {
+          "id": "r5",
+          "topic": "Number Series",
+          "difficulty": "easy",
+          "question": "Find the missing number in the series:\n`7, 15, 31, 63, 127, ?`",
+          "options": [
+            "251",
+            "253",
+            "255",
+            "257"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rule: $a_{n+1} = 2a_n + 1$. Thus $127 \\times 2 + 1 = 255$."
+        },
+        {
+          "id": "r6",
+          "topic": "Coding-Decoding",
+          "difficulty": "medium",
+          "question": "In a certain code language, `MADRAS` is written as `NBESBT`. How is `BOMBAY` written in that code?",
+          "options": [
+            "CPNCBZ",
+            "CPNCBX",
+            "CQOCBZ",
+            "DPNCBZ"
+          ],
+          "correctIndex": 0,
+          "explanation": "Each letter shifts forward by +1: B→C, O→P, M→N, B→C, A→B, Y→Z ⇒ `CPNCBZ`."
+        },
+        {
+          "id": "r7",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. All pens are pencils.\n2. Some pencils are erasers.\n\nConclusions:\nI. Some pens are erasers.\nII. Some pencils are pens.",
+          "options": [
+            "Only Conclusion I follows",
+            "Only Conclusion II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "correctIndex": 1,
+          "explanation": "From Statement 1 ('All pens are pencils'), the converse 'Some pencils are pens' (Conclusion II) definitely follows. No direct link is guaranteed between pens and erasers."
+        },
+        {
+          "id": "r8",
+          "topic": "Blood Relations",
+          "difficulty": "medium",
+          "question": "Pointing to a photograph, Rohan said, \"He is the only son of my grandfather's only daughter.\" How is the man in the photograph related to Rohan (assuming Rohan's grandfather has only one child)?",
+          "options": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Rohan himself"
+          ],
+          "correctIndex": 3,
+          "explanation": "Grandfather's only daughter (and only child) is Rohan's mother. Her only son is Rohan himself."
+        },
+        {
+          "id": "r9",
+          "topic": "Odd One Out",
+          "difficulty": "easy",
+          "question": "Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.",
+          "options": [
+            "BDFH",
+            "JLNP",
+            "PRTV",
+            "UWXZ"
+          ],
+          "correctIndex": 3,
+          "explanation": "BDFH (+2,+2,+2), JLNP (+2,+2,+2), PRTV (+2,+2,+2), whereas UWXZ has +2, +1, +2 (W to X is +1)."
+        },
+        {
+          "id": "r10",
+          "topic": "Dice & Cubes",
+          "difficulty": "medium",
+          "question": "Two positions of the same six-faced dice (numbered 1 to 6) are shown: Position 1 shows `2` on the top face, `4` on the front face, and `6` on the right face; Position 2 shows `2` on the top face, `3` on the front face, and `5` on the right face. Which number lies on the face opposite to `6`?",
+          "options": [
+            "3",
+            "5",
+            "4",
+            "1"
+          ],
+          "correctIndex": 1,
+          "explanation": "Since `2` stays on the top face in both views while the front and right faces change from (4, 6) to (3, 5), the dice has been rotated 180° around its vertical axis. Therefore 4 is opposite 3, 6 is opposite 5, and 2 is opposite 1."
+        },
+        {
+          "id": "r11",
+          "topic": "Set Number Analogy",
+          "difficulty": "hard",
+          "question": "Select the set in which the numbers are related in the same way as the numbers of the following sets:\n`(6, 9, 45)` and `(8, 12, 80)`",
+          "options": [
+            "(7, 11, 72)",
+            "(5, 13, 144)",
+            "(9, 15, 144)",
+            "(4, 10, 76)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Logic: $b^2 - a^2 = c$. Check: $9^2 - 6^2 = 81 - 36 = 45$; $12^2 - 8^2 = 144 - 64 = 80$. Checking option C: $15^2 - 9^2 = 225 - 81 = 144$."
+        },
+        {
+          "id": "r12",
+          "topic": "Coding-Decoding (Number)",
+          "difficulty": "medium",
+          "question": "In a certain code language, `CAT` is coded as `24` and `DOG` is coded as `26`. How will `TIGER` be coded in that language?",
+          "options": [
+            "55",
+            "59",
+            "61",
+            "63"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sum of alphabetical positions (A=1..Z=26): CAT = 3+1+20 = 24; DOG = 4+15+7 = 26; TIGER = 20+9+7+5+18 = 59."
+        },
+        {
+          "id": "r13",
+          "topic": "Letter Series",
+          "difficulty": "medium",
+          "question": "Select the letter-cluster that can replace the question mark (`?`) in the series:\n`ACF, DFI, GIL, JLO, ?`",
+          "options": [
+            "MOR",
+            "MOQ",
+            "NPR",
+            "MPR"
+          ],
+          "correctIndex": 0,
+          "explanation": "Each letter increases by +3 from one cluster to the next: J+3=M, L+3=O, O+3=R ⇒ `MOR`."
+        },
+        {
+          "id": "r14",
+          "topic": "Dictionary Order",
+          "difficulty": "easy",
+          "question": "Arrange the following words in English dictionary order:\n1. Pragmatic  2. Practice  3. Praise  4. Prank  5. Prayer",
+          "options": [
+            "2, 1, 3, 4, 5",
+            "2, 3, 1, 4, 5",
+            "2, 1, 4, 3, 5",
+            "1, 2, 3, 4, 5"
+          ],
+          "correctIndex": 0,
+          "explanation": "Alphabetical order: Pra-c(tice) [2] → Pra-g(matic) [1] → Pra-i(se) [3] → Pra-n(k) [4] → Pra-y(er) [5] ⇒ 2, 1, 3, 4, 5."
+        },
+        {
+          "id": "r15",
+          "topic": "Seating Arrangement",
+          "difficulty": "medium",
+          "question": "Six friends A, B, C, D, E and F sit in a straight row facing North. C sits between A and E. D is not at any extreme end. B sits immediately to the right of E. F is not at the right extreme end. Who sits immediately to the left of A?",
+          "options": [
+            "F",
+            "D",
+            "C",
+            "Cannot be determined"
+          ],
+          "correctIndex": 1,
+          "explanation": "Since B sits immediately right of E and C is between A and E, the 4-person block is A-C-E-B. F is not at the right end and D is not at any extreme end, forcing the exact order left-to-right: F - D - A - C - E - B. Hence D sits immediately to the left of A."
+        },
+        {
+          "id": "r16",
+          "topic": "Missing Number in Matrix",
+          "difficulty": "hard",
+          "question": "Find the missing number (`?`) in the pattern:\nRow 1: `4, 7, 35`\nRow 2: `6, 9, 63`\nRow 3: `8, 5, ?`",
+          "options": [
+            "45",
+            "48",
+            "54",
+            "40"
+          ],
+          "correctIndex": 0,
+          "explanation": "Pattern: $(\\text{First} + 1) \\times \\text{Second} = \\text{Third}$. Row 1: $(4+1)\\times 7 = 35$; Row 2: $(6+1)\\times 9 = 63$; Row 3: $(8+1)\\times 5 = 45$."
+        },
+        {
+          "id": "r17",
+          "topic": "Venn Diagram",
+          "difficulty": "easy",
+          "question": "Which relationship best represents the classes: `Doctors`, `Surgeons`, and `Males`?",
+          "options": [
+            "All Surgeons are inside Doctors, and Males intersects both Doctors and Surgeons",
+            "Three completely separate circles",
+            "All Males are inside Doctors, and Surgeons is separate",
+            "All three circles are concentric"
+          ],
+          "correctIndex": 0,
+          "explanation": "Every Surgeon is a Doctor (Surgeons ⊂ Doctors), while Males can be Surgeons, non-surgeon Doctors, or non-doctors (intersecting both circles)."
+        },
+        {
+          "id": "r18",
+          "topic": "Coded Blood Relations",
+          "difficulty": "medium",
+          "question": "If `A + B` means A is the father of B, `A - B` means A is the sister of B, and `A × B` means A is the brother of B, then how is P related to S in `P + Q - R × S`?",
+          "options": [
+            "Grandfather",
+            "Father",
+            "Uncle",
+            "Brother"
+          ],
+          "correctIndex": 1,
+          "explanation": "P is father of Q; Q is sister of R; R is brother of S. Hence Q, R, and S are siblings, so P is the Father of S."
+        },
+        {
+          "id": "r19",
+          "topic": "Direction Sense",
+          "difficulty": "easy",
+          "question": "Karan walks 12 m North, turns right and walks 9 m, then turns right again and walks 12 m. How far and in which direction is he from his starting point?",
+          "options": [
+            "9 m West",
+            "9 m East",
+            "15 m North-East",
+            "21 m East"
+          ],
+          "correctIndex": 1,
+          "explanation": "12 m North and 12 m South cancel out vertically, leaving a net displacement of 9 m East."
+        },
+        {
+          "id": "r20",
+          "topic": "Mathematical Signs Balance",
+          "difficulty": "medium",
+          "question": "Which two signs should be interchanged to make the following equation mathematically correct?\n`48 + 8 × 3 - 10 ÷ 8 = 16`",
+          "options": [
+            "+ and ÷",
+            "× and -",
+            "+ and -",
+            "÷ and ×"
+          ],
+          "correctIndex": 0,
+          "explanation": "Interchanging `+` and `÷` gives $48 \\div 8 \\times 3 - 10 + 8 = 6 \\times 3 - 10 + 8 = 18 - 10 + 8 = 16$."
+        },
+        {
+          "id": "r21",
+          "topic": "Calendar",
+          "difficulty": "medium",
+          "question": "If 15 August 2024 was a Thursday, what day of the week was 15 August 2025?",
+          "options": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "correctIndex": 2,
+          "explanation": "From 15 Aug 2024 to 15 Aug 2025 is 365 days (Feb 2025 has 28 days) = 52 weeks + 1 odd day. Thursday + 1 = Friday."
+        },
+        {
+          "id": "r22",
+          "topic": "Order & Ranking",
+          "difficulty": "easy",
+          "question": "In a row of 45 students facing North, Amit is 18th from the left end. What is his rank from the right end?",
+          "options": [
+            "27th",
+            "28th",
+            "29th",
+            "26th"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rank from right = $\\text{Total} - \\text{Left rank} + 1 = 45 - 18 + 1 = 28\\text{th}$."
+        },
+        {
+          "id": "r23",
+          "topic": "Counting Figures",
+          "difficulty": "medium",
+          "question": "How many triangles are present in a square with both its diagonals drawn?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+          ],
+          "correctIndex": 2,
+          "explanation": "A square with both diagonals has 4 small individual triangles plus 4 larger triangles formed by combining adjacent pairs = 8 triangles total."
+        },
+        {
+          "id": "r24",
+          "topic": "Syllogism",
+          "difficulty": "medium",
+          "question": "Statements:\n1. No cat is a dog.\n2. All dogs are mammals.\n\nConclusions:\nI. Some mammals are not cats.\nII. No cat is a mammal.",
+          "options": [
+            "Only Conclusion I follows",
+            "Only Conclusion II follows",
+            "Both I and II follow",
+            "Neither I nor II follows"
+          ],
+          "correctIndex": 0,
+          "explanation": "All dogs are mammals and no dog is a cat, so the mammals that are dogs are definitely not cats (Conclusion I follows). Cats can still be mammals (II does not follow)."
+        },
+        {
+          "id": "r25",
+          "topic": "Number Series (Alternating)",
+          "difficulty": "medium",
+          "question": "Find the missing term in the series:\n`12, 23, 36, 51, 68, ?`",
+          "options": [
+            "85",
+            "87",
+            "89",
+            "91"
+          ],
+          "correctIndex": 1,
+          "explanation": "Differences are $+11, +13, +15, +17$, so the next difference is $+19$: $68 + 19 = 87$."
+        }
+      ]
+    },
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "questions": [
+        {
+          "id": "g1",
+          "topic": "Indian Polity",
+          "difficulty": "easy",
+          "question": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
+          "options": [
+            "Article 15",
+            "Article 16",
+            "Article 17",
+            "Article 18"
+          ],
+          "correctIndex": 2,
+          "explanation": "Article 17 under Right to Equality abolishes Untouchability and makes its enforcement a punishable offence."
+        },
+        {
+          "id": "g2",
+          "topic": "Art & Culture",
+          "difficulty": "easy",
+          "question": "Pandit Birju Maharaj was a legendary exponent of which Indian classical dance form?",
+          "options": [
+            "Bharatanatyam",
+            "Kathak",
+            "Kathakali",
+            "Odissi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Padma Vibhushan awardee Pandit Birju Maharaj was the foremost maestro of the Lucknow Kalka-Bindadin gharana of Kathak."
+        },
+        {
+          "id": "g3",
+          "topic": "Chemistry",
+          "difficulty": "easy",
+          "question": "What is the chemical formula of Washing Soda (hydrated sodium carbonate)?",
+          "options": [
+            "$\\text{NaHCO}_3$",
+            "$\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$",
+            "$\\text{CaOCl}_2$",
+            "$\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$"
+          ],
+          "correctIndex": 1,
+          "explanation": "Washing soda is sodium carbonate decahydrate ($\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$). $\\text{NaHCO}_3$ is baking soda."
+        },
+        {
+          "id": "g4",
+          "topic": "Modern History",
+          "difficulty": "easy",
+          "question": "Who founded the 'Brahmo Samaj' in 1828 in Calcutta?",
+          "options": [
+            "Swami Dayananda Saraswati",
+            "Raja Ram Mohan Roy",
+            "Ishwar Chandra Vidyasagar",
+            "Swami Vivekananda"
+          ],
+          "correctIndex": 1,
+          "explanation": "Raja Ram Mohan Roy founded the Brahmo Sabha (later Brahmo Samaj) in 1828 to reform Hindu society and oppose Sati."
+        },
+        {
+          "id": "g5",
+          "topic": "Economics",
+          "difficulty": "medium",
+          "question": "The Second Five-Year Plan (1956–1961) of India, emphasizing rapid industrialization and heavy industries, was based on which model?",
+          "options": [
+            "Harrod-Domar Model",
+            "P. C. Mahalanobis Model",
+            "Gadgil Formula",
+            "Lewis Dual-Sector Model"
+          ],
+          "correctIndex": 1,
+          "explanation": "The First Plan used the Harrod-Domar model, whereas the Second Five-Year Plan was drafted on the P. C. Mahalanobis two/four-sector model."
+        },
+        {
+          "id": "g6",
+          "topic": "Geography",
+          "difficulty": "easy",
+          "question": "Which is the longest peninsular (south Indian) river in India?",
+          "options": [
+            "Krishna",
+            "Kaveri",
+            "Godavari",
+            "Narmada"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Godavari (approx. 1,465 km), originating at Trimbakeshwar in Maharashtra, is the longest peninsular river and is called 'Dakshin Ganga'."
+        },
+        {
+          "id": "g7",
+          "topic": "Biology",
+          "difficulty": "easy",
+          "question": "Deficiency of Vitamin $B_1$ (Thiamine) causes which human disease?",
+          "options": [
+            "Scurvy",
+            "Rickets",
+            "Beriberi",
+            "Pellagra"
+          ],
+          "correctIndex": 2,
+          "explanation": "Vitamin B1 (Thiamine) deficiency causes Beriberi; Vitamin C causes Scurvy; Vitamin D causes Rickets; Vitamin B3 (Niacin) causes Pellagra."
+        },
+        {
+          "id": "g8",
+          "topic": "Physics",
+          "difficulty": "easy",
+          "question": "What is the SI unit of electrical resistance?",
+          "options": [
+            "Ampere",
+            "Volt",
+            "Ohm",
+            "Watt"
+          ],
+          "correctIndex": 2,
+          "explanation": "Electrical resistance is measured in Ohms ($\\Omega$), defined by Ohm's Law $R = V/I$."
+        },
+        {
+          "id": "g9",
+          "topic": "Ancient History",
+          "difficulty": "medium",
+          "question": "Who among the following Mauryan rulers convened the Third Buddhist Council at Pataliputra around 250 BCE?",
+          "options": [
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Ashoka",
+            "Brihadratha"
+          ],
+          "correctIndex": 2,
+          "explanation": "Emperor Ashoka patronized the Third Buddhist Council at Pataliputra, presided over by Moggaliputta Tissa."
+        },
+        {
+          "id": "g10",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "The Fundamental Duties (Article 51A) were added to the Indian Constitution on the recommendation of which committee?",
+          "options": [
+            "Sarkaria Commission",
+            "Swaran Singh Committee",
+            "Balwant Rai Mehta Committee",
+            "Mandal Commission"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 42nd Amendment Act (1976) incorporated Part IV-A (Article 51A) with 10 Fundamental Duties based on the Sardar Swaran Singh Committee."
+        },
+        {
+          "id": "g11",
+          "topic": "Medieval History",
+          "difficulty": "medium",
+          "question": "Who introduced the 'Iqta' system of land revenue administration in the Delhi Sultanate?",
+          "options": [
+            "Qutb-ud-din Aibak",
+            "Iltutmish",
+            "Alauddin Khalji",
+            "Muhammad bin Tughluq"
+          ],
+          "correctIndex": 1,
+          "explanation": "Shams-ud-din Iltutmish institutionalized the Iqta system in India, assigning revenue territories (iqtas) to officers (iqtadars/muqtis)."
+        },
+        {
+          "id": "g12",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which pass connects Srinagar with Leh across the Zaskar range?",
+          "options": [
+            "Rohtang Pass",
+            "Zoji La",
+            "Nathu La",
+            "Shipki La"
+          ],
+          "correctIndex": 1,
+          "explanation": "Zoji La in Ladakh/J&K is the strategic high mountain pass on NH-1 connecting the Kashmir Valley (Srinagar) with Dras and Leh."
+        },
+        {
+          "id": "g13",
+          "topic": "Art & Culture",
+          "difficulty": "medium",
+          "question": "The Hornbill Festival, celebrated every December to showcase tribal heritage, is the premier cultural festival of which state?",
+          "options": [
+            "Manipur",
+            "Mizoram",
+            "Nagaland",
+            "Arunachal Pradesh"
+          ],
+          "correctIndex": 2,
+          "explanation": "The Hornbill Festival ('Festival of Festivals') is held annually from December 1–10 at Kisama Heritage Village in Nagaland."
+        },
+        {
+          "id": "g14",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Who administers the oath of office to the President of India under Article 60?",
+          "options": [
+            "Prime Minister of India",
+            "Vice President of India",
+            "Chief Justice of India",
+            "Speaker of Lok Sabha"
+          ],
+          "correctIndex": 2,
+          "explanation": "Under Article 60, the President takes oath in the presence of the Chief Justice of India (or in his absence, the seniormost Judge of the Supreme Court)."
+        },
+        {
+          "id": "g15",
+          "topic": "Economics",
+          "difficulty": "medium",
+          "question": "Which of the following is NOT included in the calculation of India's Gross Domestic Product (GDP)?",
+          "options": [
+            "Value of new tractors manufactured in Punjab",
+            "Salaries paid to government school teachers",
+            "Resale value of a 5-year-old used car",
+            "Construction of a new national highway"
+          ],
+          "correctIndex": 2,
+          "explanation": "Second-hand/used goods were already counted in the GDP of the year they were originally produced, so their resale is excluded to prevent double counting."
+        },
+        {
+          "id": "g16",
+          "topic": "Biology",
+          "difficulty": "medium",
+          "question": "Which organelle is known as the 'suicidal bag' of the eukaryotic cell due to its hydrolytic digestive enzymes?",
+          "options": [
+            "Ribosome",
+            "Lysosome",
+            "Golgi apparatus",
+            "Peroxisome"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lysosomes contain powerful digestive enzymes that break down worn-out cell organelles or autodigest the cell when damaged."
+        },
+        {
+          "id": "g17",
+          "topic": "Chemistry",
+          "difficulty": "medium",
+          "question": "Which gas is mainly responsible for the Bhopal Gas Tragedy of December 1984?",
+          "options": [
+            "Carbon Monoxide",
+            "Methyl Isocyanate",
+            "Sulphur Dioxide",
+            "Phosgene"
+          ],
+          "correctIndex": 1,
+          "explanation": "The leakage of Methyl Isocyanate ($\\text{CH}_3\\text{NCO}$) from the Union Carbide pesticide plant caused the 1984 Bhopal Gas Tragedy."
+        },
+        {
+          "id": "g18",
+          "topic": "Modern History",
+          "difficulty": "medium",
+          "question": "The Poona Pact (1932) was signed between Mahatma Gandhi and which Indian leader?",
+          "options": [
+            "Muhammad Ali Jinnah",
+            "Dr. B. R. Ambedkar",
+            "Subhas Chandra Bose",
+            "Jawaharlal Nehru"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Poona Pact was signed on 24 September 1932 at Yerwada Central Jail between Dr. B. R. Ambedkar and Mahatma Gandhi (signed by Madan Mohan Malaviya on Gandhi's behalf) replacing separate electorates with reserved seats for Depressed Classes."
+        },
+        {
+          "id": "g19",
+          "topic": "Geography",
+          "difficulty": "medium",
+          "question": "Which layer of Earth's atmosphere contains the ozone layer that absorbs harmful ultraviolet (UV) radiation?",
+          "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+          ],
+          "correctIndex": 1,
+          "explanation": "Roughly 90% of atmospheric ozone resides in the Stratosphere (approx. 15–35 km altitude)."
+        },
+        {
+          "id": "g20",
+          "topic": "Sports & Awards",
+          "difficulty": "easy",
+          "question": "The 'Santosh Trophy' is a prestigious national-level championship in India associated with which sport?",
+          "options": [
+            "Hockey",
+            "Football",
+            "Badminton",
+            "Cricket"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Santosh Trophy is India's premier interstate knock-out football competition organized by the All India Football Federation (AIFF)."
+        },
+        {
+          "id": "g21",
+          "topic": "Static GK",
+          "difficulty": "easy",
+          "question": "Where is the headquarters of the International Court of Justice (ICJ) located?",
+          "options": [
+            "Geneva, Switzerland",
+            "New York, USA",
+            "The Hague, Netherlands",
+            "Vienna, Austria"
+          ],
+          "correctIndex": 2,
+          "explanation": "The ICJ is the only principal organ of the United Nations not located in New York; it sits at the Peace Palace in The Hague, Netherlands."
+        },
+        {
+          "id": "g22",
+          "topic": "Physics",
+          "difficulty": "medium",
+          "question": "Which type of mirror is used by dentists to see an enlarged, erect image of a patient's teeth?",
+          "options": [
+            "Plane mirror",
+            "Convex mirror",
+            "Concave mirror",
+            "Parabolic convex mirror"
+          ],
+          "correctIndex": 2,
+          "explanation": "When an object is placed between the pole and focus of a concave mirror, it forms a virtual, erect, and magnified image."
+        },
+        {
+          "id": "g23",
+          "topic": "Indian Polity",
+          "difficulty": "medium",
+          "question": "Under which Article of the Constitution of India is the Finance Commission constituted by the President every five years?",
+          "options": [
+            "Article 263",
+            "Article 275",
+            "Article 280",
+            "Article 315"
+          ],
+          "correctIndex": 2,
+          "explanation": "Article 280 provides for a quasi-judicial Finance Commission to recommend distribution of tax revenues between the Union and States."
+        },
+        {
+          "id": "g24",
+          "topic": "Books & Authors",
+          "difficulty": "medium",
+          "question": "Who authored the famous book 'Poverty and Un-British Rule in India', which propounded the Drain of Wealth theory?",
+          "options": [
+            "Gopal Krishna Gokhale",
+            "Dadabhai Naoroji",
+            "R. C. Dutt",
+            "Bal Gangadhar Tilak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dadabhai Naoroji ('Grand Old Man of India') published 'Poverty and Un-British Rule in India' (1901) detailing the economic drain."
+        },
+        {
+          "id": "g25",
+          "topic": "Census & Demography",
+          "difficulty": "medium",
+          "question": "According to Census 2011, which Indian state recorded the highest literacy rate?",
+          "options": [
+            "Mizoram",
+            "Goa",
+            "Kerala",
+            "Tripura"
+          ],
+          "correctIndex": 2,
+          "explanation": "As per Census 2011, Kerala had the highest literacy rate at 94.00%, followed by Lakshadweep (UT, 91.85%) and Mizoram (91.33%)."
+        }
+      ]
+    },
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude",
+      "questions": [
+        {
+          "id": "q1",
+          "topic": "Algebra",
+          "difficulty": "medium",
+          "question": "If $x + \\frac{1}{x} = 5$, find the value of $x^3 + \\frac{1}{x^3}$.",
+          "options": [
+            "110",
+            "115",
+            "125",
+            "140"
+          ],
+          "correctIndex": 0,
+          "explanation": "Using $x^3 + \\frac{1}{x^3} = \\left(x + \\frac{1}{x}\\right)^3 - 3\\left(x + \\frac{1}{x}\\right) = 5^3 - 3(5) = 125 - 15 = 110$."
+        },
+        {
+          "id": "q2",
+          "topic": "Trigonometry",
+          "difficulty": "medium",
+          "question": "If $\\sec\\theta + \\tan\\theta = 4$ (where $0^\\circ < \\theta < 90^\\circ$), find the value of $\\sec\\theta$.",
+          "options": [
+            "$\\frac{15}{8}$",
+            "$\\frac{17}{8}$",
+            "$\\frac{17}{4}$",
+            "$\\frac{15}{4}$"
+          ],
+          "correctIndex": 1,
+          "explanation": "Since $\\sec^2\\theta - \\tan^2\\theta = 1$, $\\sec\\theta - \\tan\\theta = \\frac{1}{4}$. Adding: $2\\sec\\theta = 4 + \\frac{1}{4} = \\frac{17}{4} \\Rightarrow \\sec\\theta = \\frac{17}{8}$."
+        },
+        {
+          "id": "q3",
+          "topic": "Time & Work",
+          "difficulty": "easy",
+          "question": "A can complete a piece of work in 12 days and B can complete it in 18 days. They work together for 4 days, after which A leaves. In how many more days will B finish the remaining work?",
+          "options": [
+            "6 days",
+            "8 days",
+            "9 days",
+            "10 days"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total work = $\\text{LCM}(12,18) = 36$ units. Rates: A = 3, B = 2. In 4 days together = $4 \\times 5 = 20$ units. Remaining = 16 units. B alone takes $16/2 = 8$ days."
+        },
+        {
+          "id": "q4",
+          "topic": "Profit & Loss",
+          "difficulty": "medium",
+          "question": "A shopkeeper marks an article 40% above its cost price and allows a discount of 20% on the marked price. What is his overall profit percentage?",
+          "options": [
+            "10%",
+            "12%",
+            "15%",
+            "20%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Let CP = 100. MP = 140. SP = $140 \\times 0.80 = 112$. Profit = $12\\%$."
+        },
+        {
+          "id": "q5",
+          "topic": "Geometry (Circles)",
+          "difficulty": "medium",
+          "question": "In a circle of radius $13\\text{ cm}$, a chord is drawn at a perpendicular distance of $5\\text{ cm}$ from the centre. Find the length of the chord.",
+          "options": [
+            "12 cm",
+            "18 cm",
+            "24 cm",
+            "26 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Half-chord = $\\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = 12\\text{ cm}$. Full chord = $2 \\times 12 = 24\\text{ cm}$."
+        },
+        {
+          "id": "q6",
+          "topic": "Compound Interest",
+          "difficulty": "medium",
+          "question": "Find the difference between Compound Interest and Simple Interest on ₹10,000 at 10% per annum for 2 years.",
+          "options": [
+            "₹50",
+            "₹100",
+            "₹150",
+            "₹200"
+          ],
+          "correctIndex": 1,
+          "explanation": "For 2 years, $\\text{CI} - \\text{SI} = P\\left(\\frac{R}{100}\\right)^2 = 10000 \\times \\left(\\frac{10}{100}\\right)^2 = ₹100$."
+        },
+        {
+          "id": "q7",
+          "topic": "Mensuration 3D",
+          "difficulty": "medium",
+          "question": "A solid metallic sphere of radius $6\\text{ cm}$ is melted and recast into small spherical balls of radius $2\\text{ cm}$ each. How many such balls can be formed?",
+          "options": [
+            "9",
+            "18",
+            "27",
+            "36"
+          ],
+          "correctIndex": 2,
+          "explanation": "Number of balls = $\\frac{R^3}{r^3} = \\frac{6^3}{2^3} = \\frac{216}{8} = 27$."
+        },
+        {
+          "id": "q8",
+          "topic": "Ratio & Proportion",
+          "difficulty": "easy",
+          "question": "If $A : B = 3 : 4$ and $B : C = 5 : 7$, what is $A : B : C$?",
+          "options": [
+            "15 : 20 : 28",
+            "12 : 20 : 28",
+            "15 : 20 : 21",
+            "9 : 12 : 14"
+          ],
+          "correctIndex": 0,
+          "explanation": "Equalizing B to 20: $A:B = 15:20$ and $B:C = 20:28$, so $A:B:C = 15:20:28$."
+        },
+        {
+          "id": "q9",
+          "topic": "Time, Speed & Distance",
+          "difficulty": "easy",
+          "question": "A train $180\\text{ m}$ long running at $72\\text{ km/h}$ crosses a platform in 20 seconds. What is the length of the platform?",
+          "options": [
+            "180 m",
+            "200 m",
+            "220 m",
+            "240 m"
+          ],
+          "correctIndex": 2,
+          "explanation": "Speed = $72 \\times \\frac{5}{18} = 20\\text{ m/s}$. Total distance = $20 \\times 20 = 400\\text{ m}$. Platform length = $400 - 180 = 220\\text{ m}$."
+        },
+        {
+          "id": "q10",
+          "topic": "Divisibility Rules",
+          "difficulty": "hard",
+          "question": "If the 7-digit number `56x34y4` is divisible by 72, what is the least possible value of $(x + y)$?",
+          "options": [
+            "5",
+            "6",
+            "8",
+            "14"
+          ],
+          "correctIndex": 0,
+          "explanation": "Divisible by 72 ⇒ divisible by 8 and 9. For 8: `4y4` divisible by 8 gives $y = 2$ (424) or $y = 6$ (464). Digit sum = $5+6+x+3+4+y+4 = 22+x+y$. For $y=2$: $24+x$ div by 9 ⇒ $x=3$, $x+y=5$. For $y=6$: $28+x$ div by 9 ⇒ $x=8$, $x+y=14$. Least value = 5."
+        },
+        {
+          "id": "q11",
+          "topic": "Average",
+          "difficulty": "easy",
+          "question": "The average weight of 15 students in a class is 42 kg. When the teacher's weight is included, the average increases by 1.5 kg. What is the weight of the teacher?",
+          "options": [
+            "64 kg",
+            "66 kg",
+            "68 kg",
+            "70 kg"
+          ],
+          "correctIndex": 1,
+          "explanation": "Teacher's weight = $42 + 16 \\times 1.5 = 42 + 24 = 66\\text{ kg}$."
+        },
+        {
+          "id": "q12",
+          "topic": "Percentage",
+          "difficulty": "medium",
+          "question": "The price of sugar increases by 25%. By what percentage must a household reduce its consumption so that total expenditure on sugar remains unchanged?",
+          "options": [
+            "16%",
+            "20%",
+            "22.5%",
+            "25%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Required reduction = $\\frac{25}{125} \\times 100 = 20\\%$."
+        },
+        {
+          "id": "q13",
+          "topic": "Geometry (Triangles)",
+          "difficulty": "medium",
+          "question": "In $\\triangle ABC$, $DE \\parallel BC$ where D lies on AB and E lies on AC. If $AD = 4\\text{ cm}$, $DB = 6\\text{ cm}$, and $BC = 15\\text{ cm}$, find the length of $DE$.",
+          "options": [
+            "5 cm",
+            "6 cm",
+            "7.5 cm",
+            "9 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "By similarity ($\\triangle ADE \\sim \\triangle ABC$), $\\frac{DE}{BC} = \\frac{AD}{AB} = \\frac{4}{4+6} = \\frac{4}{10} \\Rightarrow DE = 15 \\times 0.4 = 6\\text{ cm}$."
+        },
+        {
+          "id": "q14",
+          "topic": "Algebra (Identities)",
+          "difficulty": "hard",
+          "question": "If $a + b + c = 12$ and $ab + bc + ca = 44$, find the value of $a^2 + b^2 + c^2$.",
+          "options": [
+            "56",
+            "60",
+            "64",
+            "72"
+          ],
+          "correctIndex": 0,
+          "explanation": "$a^2 + b^2 + c^2 = (a+b+c)^2 - 2(ab+bc+ca) = 144 - 88 = 56$."
+        },
+        {
+          "id": "q15",
+          "topic": "Trigonometry (Values)",
+          "difficulty": "medium",
+          "question": "Evaluate: $\\sin^2 30^\\circ + \\cos^2 60^\\circ + \\tan^2 45^\\circ - \\sec^2 60^\\circ$.",
+          "options": [
+            "-2.5",
+            "-1.5",
+            "0.5",
+            "1.5"
+          ],
+          "correctIndex": 0,
+          "explanation": "$\\left(\\frac{1}{2}\\right)^2 + \\left(\\frac{1}{2}\\right)^2 + 1^2 - 2^2 = 0.25 + 0.25 + 1 - 4 = -2.5$."
+        },
+        {
+          "id": "q16",
+          "topic": "Pipes & Cisterns",
+          "difficulty": "medium",
+          "question": "Pipe A fills a tank in 15 hours, Pipe B fills it in 20 hours, and outlet Pipe C empties it in 30 hours. If all three pipes are opened simultaneously, in how many hours will the tank be completely filled?",
+          "options": [
+            "10 hours",
+            "12 hours",
+            "14 hours",
+            "15 hours"
+          ],
+          "correctIndex": 1,
+          "explanation": "Capacity = $\\text{LCM}(15,20,30) = 60$ units. Net rate = $4 + 3 - 2 = 5$ units/hr. Time = $60/5 = 12$ hours."
+        },
+        {
+          "id": "q17",
+          "topic": "Boats & Streams",
+          "difficulty": "medium",
+          "question": "A boat travels 36 km downstream in 3 hours and returns the same distance upstream in 4.5 hours. What is the speed of the boat in still water?",
+          "options": [
+            "8 km/h",
+            "9 km/h",
+            "10 km/h",
+            "11 km/h"
+          ],
+          "correctIndex": 2,
+          "explanation": "Downstream speed = $36/3 = 12\\text{ km/h}$; Upstream speed = $36/4.5 = 8\\text{ km/h}$. Boat speed = $(12+8)/2 = 10\\text{ km/h}$."
+        },
+        {
+          "id": "q18",
+          "topic": "Mixture & Alligation",
+          "difficulty": "medium",
+          "question": "In what ratio must rice costing ₹42/kg be mixed with rice costing ₹54/kg so that the resulting mixture is worth ₹46/kg?",
+          "options": [
+            "2 : 1",
+            "1 : 2",
+            "3 : 2",
+            "2 : 3"
+          ],
+          "correctIndex": 0,
+          "explanation": "By alligation: $(54 - 46) : (46 - 42) = 8 : 4 = 2 : 1$."
+        },
+        {
+          "id": "q19",
+          "topic": "Mensuration 2D",
+          "difficulty": "medium",
+          "question": "The diagonals of a rhombus are $16\\text{ cm}$ and $30\\text{ cm}$. What is its perimeter?",
+          "options": [
+            "60 cm",
+            "64 cm",
+            "68 cm",
+            "72 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Half-diagonals are 8 cm and 15 cm. Side = $\\sqrt{8^2 + 15^2} = \\sqrt{64+225} = 17\\text{ cm}$. Perimeter = $4 \\times 17 = 68\\text{ cm}$."
+        },
+        {
+          "id": "q20",
+          "topic": "Heights & Distances",
+          "difficulty": "medium",
+          "question": "From a point on level ground, the angle of elevation of the top of a vertical tower $30\\sqrt{3}\\text{ m}$ high is $60^\\circ$. What is the distance of the point from the foot of the tower?",
+          "options": [
+            "15 m",
+            "30 m",
+            "45 m",
+            "$30\\sqrt{3}$ m"
+          ],
+          "correctIndex": 1,
+          "explanation": "$\\tan 60^\\circ = \\frac{30\\sqrt{3}}{d} \\Rightarrow \\sqrt{3} = \\frac{30\\sqrt{3}}{d} \\Rightarrow d = 30\\text{ m}$."
+        },
+        {
+          "id": "q21",
+          "topic": "Discount",
+          "difficulty": "easy",
+          "question": "What single discount is equivalent to two successive discounts of 15% and 20%?",
+          "options": [
+            "32%",
+            "33%",
+            "34%",
+            "35%"
+          ],
+          "correctIndex": 0,
+          "explanation": "Equivalent discount = $15 + 20 - \\frac{15 \\times 20}{100} = 35 - 3 = 32\\%$."
+        },
+        {
+          "id": "q22",
+          "topic": "Geometry (Tangents)",
+          "difficulty": "medium",
+          "question": "From an external point P at a distance of $25\\text{ cm}$ from the centre O of a circle of radius $7\\text{ cm}$, a tangent PT is drawn to the circle. Find the length of tangent PT.",
+          "options": [
+            "20 cm",
+            "22 cm",
+            "24 cm",
+            "26 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "$OT \\perp PT$, so $PT = \\sqrt{OP^2 - OT^2} = \\sqrt{25^2 - 7^2} = \\sqrt{625 - 49} = \\sqrt{576} = 24\\text{ cm}$."
+        },
+        {
+          "id": "q23",
+          "topic": "Number System (HCF/LCM)",
+          "difficulty": "easy",
+          "question": "The HCF and LCM of two numbers are 12 and 240 respectively. If one of the numbers is 48, find the other number.",
+          "options": [
+            "54",
+            "60",
+            "72",
+            "80"
+          ],
+          "correctIndex": 1,
+          "explanation": "Other number = $\\frac{\\text{HCF} \\times \\text{LCM}}{\\text{First number}} = \\frac{12 \\times 240}{48} = 60$."
+        },
+        {
+          "id": "q24",
+          "topic": "Data Interpretation",
+          "difficulty": "medium",
+          "question": "The table below shows units sold (in thousands) of four products by a firm in 2023 and 2024:\n\n| Product | 2023 | 2024 |\n|---|---|---|\n| P | 40 | 50 |\n| Q | 60 | 72 |\n| R | 50 | 65 |\n| S | 50 | 53 |\n\nWhat is the overall percentage increase in total units sold across all four products from 2023 to 2024?",
+          "options": [
+            "15%",
+            "18%",
+            "20%",
+            "25%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Total 2023 = $40+60+50+50 = 200$. Total 2024 = $50+72+65+53 = 240$. Increase = $\\frac{40}{200} \\times 100 = 20\\%$."
+        },
+        {
+          "id": "q25",
+          "topic": "Simple Interest",
+          "difficulty": "easy",
+          "question": "At what rate of simple interest per annum will a sum of money double itself in 8 years?",
+          "options": [
+            "10%",
+            "12%",
+            "12.5%",
+            "15%"
+          ],
+          "correctIndex": 2,
+          "explanation": "To double, $\\text{SI} = P$, so $R = \\frac{100}{T} = \\frac{100}{8} = 12.5\\%$."
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "questions": [
+        {
+          "id": "e1",
+          "topic": "One-Word Substitution",
+          "difficulty": "easy",
+          "question": "Select the option that can be used as a one-word substitute for:\n`A person who knows and can use several languages`",
+          "options": [
+            "Monoglot",
+            "Polyglot",
+            "Agnostic",
+            "Altruist"
+          ],
+          "correctIndex": 1,
+          "explanation": "A 'Polyglot' is a person fluent in multiple languages."
+        },
+        {
+          "id": "e2",
+          "topic": "Idioms & Phrases",
+          "difficulty": "easy",
+          "question": "Select the most appropriate meaning of the idiom:\n`To burn the midnight oil`",
+          "options": [
+            "To waste fuel recklessly",
+            "To work or study late into the night",
+            "To start a sudden quarrel",
+            "To destroy valuable property"
+          ],
+          "correctIndex": 1,
+          "explanation": "'To burn the midnight oil' means to work, read, or study late into the night."
+        },
+        {
+          "id": "e3",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment that contains a grammatical error:\n`Neither the manager / nor the employees / was aware of / the revised policy.`",
+          "options": [
+            "Neither the manager",
+            "nor the employees",
+            "was aware of",
+            "the revised policy"
+          ],
+          "correctIndex": 2,
+          "explanation": "With 'neither...nor', the verb agrees with the nearer subject ('the employees', plural). Hence 'was aware of' should be 'were aware of'."
+        },
+        {
+          "id": "e4",
+          "topic": "Active & Passive Voice",
+          "difficulty": "medium",
+          "question": "Select the correct passive form of the given sentence:\n`The committee has approved the infrastructure proposal.`",
+          "options": [
+            "The infrastructure proposal was approved by the committee.",
+            "The infrastructure proposal has been approved by the committee.",
+            "The infrastructure proposal is being approved by the committee.",
+            "The infrastructure proposal had been approved by the committee."
+          ],
+          "correctIndex": 1,
+          "explanation": "Present Perfect Active (`has approved`) converts to Present Perfect Passive (`has been approved`)."
+        },
+        {
+          "id": "e5",
+          "topic": "Synonyms",
+          "difficulty": "medium",
+          "question": "Select the most appropriate SYNONYM of the word: `METICULOUS`",
+          "options": [
+            "Careless",
+            "Painstaking",
+            "Hasty",
+            "Superficial"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Meticulous' means showing great attention to detail; very careful and painstaking."
+        },
+        {
+          "id": "e6",
+          "topic": "Antonyms",
+          "difficulty": "medium",
+          "question": "Select the most appropriate ANTONYM of the word: `EPHEMERAL`",
+          "options": [
+            "Transient",
+            "Fleeting",
+            "Perpetual",
+            "Brief"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Ephemeral' means lasting for a very short time; its opposite is 'Perpetual' (everlasting/permanent)."
+        },
+        {
+          "id": "e7",
+          "topic": "Direct & Indirect Speech",
+          "difficulty": "medium",
+          "question": "Select the correct indirect form of the given sentence:\n`She said to me, \"Have you submitted the quarterly report?\"`",
+          "options": [
+            "She asked me if I had submitted the quarterly report.",
+            "She told me that I have submitted the quarterly report.",
+            "She asked me whether I have submitted the quarterly report.",
+            "She asked me did I submit the quarterly report."
+          ],
+          "correctIndex": 0,
+          "explanation": "Yes/No interrogative in Present Perfect (`Have you submitted`) changes to `asked + if/whether + Past Perfect` (`if I had submitted`)."
+        },
+        {
+          "id": "e8",
+          "topic": "Sentence Improvement",
+          "difficulty": "medium",
+          "question": "Select the option that best substitutes the bracketed segment:\n`Scarcely had the train left the platform (than) it began to pour heavily.`",
+          "options": [
+            "then",
+            "when",
+            "until",
+            "No substitution required"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Scarcely' and 'Hardly' are correlative with 'when' (whereas 'No sooner' takes 'than')."
+        },
+        {
+          "id": "e9",
+          "topic": "Spelling Detection",
+          "difficulty": "easy",
+          "question": "Select the INCORRECTLY spelt word.",
+          "options": [
+            "Accommodation",
+            "Bureaucracy",
+            "Embarass",
+            "Maintenance"
+          ],
+          "correctIndex": 2,
+          "explanation": "The correct spelling is `Embarrass` (double 'r' and double 's')."
+        },
+        {
+          "id": "e10",
+          "topic": "Para Jumbles",
+          "difficulty": "medium",
+          "question": "Rearrange the parts to form a coherent sentence:\nP. to reduce carbon emissions significantly\nQ. public transit networks\nR. must expand clean\nS. rapidly growing cities",
+          "options": [
+            "S-R-Q-P",
+            "Q-R-S-P",
+            "S-Q-R-P",
+            "P-S-R-Q"
+          ],
+          "correctIndex": 0,
+          "explanation": "Correct logical order: 'Rapidly growing cities (S) must expand clean (R) public transit networks (Q) to reduce carbon emissions significantly (P).'"
+        },
+        {
+          "id": "e11",
+          "topic": "Idioms & Phrases",
+          "difficulty": "medium",
+          "question": "Select the most appropriate meaning of the idiom:\n`To bite the bullet`",
+          "options": [
+            "To face a difficult situation with courage",
+            "To accidentally injure oneself",
+            "To surrender without a fight",
+            "To argue over trivial matters"
+          ],
+          "correctIndex": 0,
+          "explanation": "'To bite the bullet' means to endure a painful or unavoidable situation bravely and decisively."
+        },
+        {
+          "id": "e12",
+          "topic": "One-Word Substitution",
+          "difficulty": "medium",
+          "question": "Select the one-word substitute for:\n`A speech delivered without any previous preparation`",
+          "options": [
+            "Soliloquy",
+            "Extempore",
+            "Monologue",
+            "Oration"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Extempore' (or impromptu) refers to a speech spoken without prior preparation."
+        },
+        {
+          "id": "e13",
+          "topic": "Error Spotting",
+          "difficulty": "medium",
+          "question": "Identify the segment containing a grammatical error:\n`Each of the participants / were given a certificate / of appreciation at / the closing ceremony.`",
+          "options": [
+            "Each of the participants",
+            "were given a certificate",
+            "of appreciation at",
+            "the closing ceremony"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Each of + plural noun' always takes a singular verb. Hence 'were given' must be 'was given'."
+        },
+        {
+          "id": "e14",
+          "topic": "Synonyms",
+          "difficulty": "medium",
+          "question": "Select the most appropriate SYNONYM of the word: `UBIQUITOUS`",
+          "options": [
+            "Rare",
+            "Omnipresent",
+            "Hidden",
+            "Fragile"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Ubiquitous' means present, appearing, or found everywhere — synonymous with 'Omnipresent'."
+        },
+        {
+          "id": "e15",
+          "topic": "Antonyms",
+          "difficulty": "medium",
+          "question": "Select the most appropriate ANTONYM of the word: `BENEVOLENT`",
+          "options": [
+            "Charitable",
+            "Kindhearted",
+            "Malevolent",
+            "Generous"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Benevolent' means well-meaning and kindly; its direct antonym is 'Malevolent' (wishing evil to others)."
+        },
+        {
+          "id": "e16",
+          "topic": "Fill in the Blanks",
+          "difficulty": "easy",
+          "question": "The new bridge was inaugurated yesterday; it connects the industrial corridor ______ the southern port.",
+          "options": [
+            "with",
+            "into",
+            "among",
+            "beside"
+          ],
+          "correctIndex": 0,
+          "explanation": "The verb 'connect' pairs idiomatically with 'to' or 'with' ('connects A with B')."
+        },
+        {
+          "id": "e17",
+          "topic": "Active & Passive Voice",
+          "difficulty": "medium",
+          "question": "Select the correct active form of the sentence:\n`The ancient manuscript was being restored by the archivists.`",
+          "options": [
+            "The archivists restored the ancient manuscript.",
+            "The archivists were restoring the ancient manuscript.",
+            "The archivists have restored the ancient manuscript.",
+            "The archivists had been restoring the ancient manuscript."
+          ],
+          "correctIndex": 1,
+          "explanation": "Past Continuous Passive (`was being restored`) changes to Past Continuous Active (`were restoring`)."
+        },
+        {
+          "id": "e18",
+          "topic": "Sentence Improvement",
+          "difficulty": "medium",
+          "question": "Select the option that improves the bracketed part:\n`He insisted (to pay) the entire dinner bill himself.`",
+          "options": [
+            "on paying",
+            "for paying",
+            "in paying",
+            "No improvement"
+          ],
+          "correctIndex": 0,
+          "explanation": "The verb 'insist' takes the preposition 'on' followed by a gerund: `insisted on paying`."
+        },
+        {
+          "id": "e19",
+          "topic": "Spelling Detection",
+          "difficulty": "medium",
+          "question": "Select the CORRECTLY spelt word.",
+          "options": [
+            "Conscientious",
+            "Conscentious",
+            "Consientious",
+            "Conscienctious"
+          ],
+          "correctIndex": 0,
+          "explanation": "`Conscientious` (con + sci + en + tious) is the correct spelling."
+        },
+        {
+          "id": "e20",
+          "topic": "Direct & Indirect Speech",
+          "difficulty": "medium",
+          "question": "Convert into indirect speech:\n`The coach said to the players, \"Do not lose focus in the final quarter.\"`",
+          "options": [
+            "The coach advised the players not to lose focus in the final quarter.",
+            "The coach said the players that do not lose focus in the final quarter.",
+            "The coach asked the players to not lost focus in the final quarter.",
+            "The coach advised the players did not lose focus in the final quarter."
+          ],
+          "correctIndex": 0,
+          "explanation": "Negative imperative (`Do not + V1`) converts to `advised/warned + object + not to + V1`."
+        },
+        {
+          "id": "e21",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "cgl_cloze_1",
+          "question": "Select the most appropriate option to fill in blank (1).",
+          "options": [
+            "trivial",
+            "pivotal",
+            "negligible",
+            "hostile"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Pivotal role' means a crucial or central role, fitting the positive environmental context."
+        },
+        {
+          "id": "e22",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "cgl_cloze_1",
+          "question": "Select the most appropriate option to fill in blank (2).",
+          "options": [
+            "by",
+            "of",
+            "from",
+            "with"
+          ],
+          "correctIndex": 0,
+          "explanation": "We say 'lower temperatures by several degrees' to indicate the amount of reduction."
+        },
+        {
+          "id": "e23",
+          "topic": "Cloze Test",
+          "difficulty": "medium",
+          "passageId": "cgl_cloze_1",
+          "question": "Select the most appropriate option to fill in blank (3).",
+          "options": [
+            "aggravates",
+            "absorbs",
+            "accelerates",
+            "ignores"
+          ],
+          "correctIndex": 1,
+          "explanation": "Urban greenery and soil 'absorb' stormwater runoff during intense cloudbursts."
+        },
+        {
+          "id": "e24",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "cgl_cloze_1",
+          "question": "Select the most appropriate option to fill in blank (4).",
+          "options": [
+            "along",
+            "under",
+            "between",
+            "against"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Integrating native saplings along road medians, public parks, and lakeshores' is the natural collocation."
+        },
+        {
+          "id": "e25",
+          "topic": "Cloze Test",
+          "difficulty": "easy",
+          "passageId": "cgl_cloze_1",
+          "question": "Select the most appropriate option to fill in blank (5).",
+          "options": [
+            "polluted",
+            "habitable",
+            "barren",
+            "congested"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Resilient, habitable (livable) cities for future generations' completes the constructive conclusion."
+        }
+      ]
+    }
+  ]
+}

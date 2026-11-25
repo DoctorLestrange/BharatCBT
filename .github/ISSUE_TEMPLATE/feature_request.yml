@@ -1,0 +1,17 @@
+name: Feature Request / Exam Paper Suggestion
+description: Suggest an improvement, CBT workflow enhancement, or new exam pattern
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like to add or improve?
+      description: Describe the feature or Indian government exam pattern and how it helps candidates.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional context (optional)
+      description: Marking scheme, sectional timing rules, or UI details if applicable.
