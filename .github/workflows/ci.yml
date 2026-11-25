@@ -48,7 +48,7 @@ jobs:
           test -f dist/.nojekyll
 
       - name: Upload production dist artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: bharat-cbt-dist
           path: dist/
